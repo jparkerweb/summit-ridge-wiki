@@ -1,6 +1,6 @@
-# SummitRidge Townhomes HOA Wiki
+# Summit Ridge Townhomes HOA Wiki
 
-Authoritative summaries derived from the Declaration (CC&Rs), Bylaws, and Rules and Regulations of the SummitRidge Townhomes Home Owners Association (1–21 Summit Ridge Court, Lake Oswego, OR). All facts cite the originating source document and section.
+Authoritative summaries derived from the Declaration (CC&Rs), Bylaws, and Rules and Regulations of the Summit Ridge Townhomes Home Owners Association (1–21 Summit Ridge Court, Lake Oswego, OR). All facts cite the originating source document and section.
 
 ## Governance
 

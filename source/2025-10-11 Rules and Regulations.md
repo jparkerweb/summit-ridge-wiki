@@ -1,7 +1,7 @@
-# Rules and Regulations — Summitridge Townhomes Home Owners Association
+# Rules and Regulations — Summit Ridge Townhomes Home Owners Association
 
 **Source document:** 2025-10-11 Rules and Regulations.pdf
-**Document title:** Summitridge Townhomes HOA Community Handbook (v1.2)
+**Document title:** Summit Ridge Townhomes HOA Community Handbook (v1.2)
 **Order/Address (HomeWiseDocs):** Order LZGLLQJ29, 20 Summit Ridge Ct, Order Date 11-10-2025
 
 ---
@@ -29,9 +29,9 @@
 
 ## Introduction
 
-This handbook was prepared to address common questions and issues associated with living at Summitridge Townhomes HOA.
+This handbook was prepared to address common questions and issues associated with living at Summit Ridge Townhomes HOA.
 
-The policies and definitions in this handbook have been adapted from the Declaration and the Bylaws of Summitridge Townhomes HOA. The Declaration and Bylaws continue to be the official governing documents of the Association and the homeowners.
+The policies and definitions in this handbook have been adapted from the Declaration and the Bylaws of Summit Ridge Townhomes HOA. The Declaration and Bylaws continue to be the official governing documents of the Association and the homeowners.
 
 ---
 
@@ -237,7 +237,7 @@ In the event your unit becomes a rental:
 - Homeowners are still responsible for actions of renters and their guests.
 - Homeowners are still responsible for financial obligations to HOA.
 - Homeowners must provide to managing agent the emergency contact information for renter.
-- Renter(s) must abide by all governing documents and the rules & regulations set forth for Summitridge Townhomes HOA.
+- Renter(s) must abide by all governing documents and the rules & regulations set forth for Summit Ridge Townhomes HOA.
 
 ---
 
@@ -357,8 +357,8 @@ All Summit Ridge HOA residents and homeowners are respectfully requested to revi
 
 ### ARTICLE I — Authority, Duties and Obligations Under Governing Documents & Act
 
-- **1.1 "Declaration"** = Declaration of CC&Rs of Summitridge Townhomes, LLC, recorded December 17, 1999 as 99-225640, Multnomah County, Oregon, as amended.
-- **1.2 "Bylaws"** = Bylaws of Summitridge Townhomes Home Owners Association adopted May 22, 2002, as amended.
+- **1.1 "Declaration"** = Declaration of CC&Rs of Summit Ridge Townhomes, LLC, recorded December 17, 1999 as 99-225640, Multnomah County, Oregon, as amended.
+- **1.2 "Bylaws"** = Bylaws of Summit Ridge Townhomes Home Owners Association adopted May 22, 2002, as amended.
 - **1.3 "Act"** = Oregon Planned Community Act, ORS 94.550 to 94.783.
 - **1.4 Specific Authority and Duties.** Article II §3 of the Declaration; Article III §3 of the Bylaws; Article XIV of the Bylaws; ORS 94.630(a) — allow the Association to adopt rules.
   - Article II §3(A)(3) and §3(D) of the Declaration authorize the Board to enforce provisions of the Declaration, Bylaws, Rules and Regulations, including action to collect unpaid assessments.

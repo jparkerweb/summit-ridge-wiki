@@ -1,6 +1,6 @@
 # Building Envelope and Water Intrusion History
 
-This page summarizes the engineering investigations of water intrusion into the SummitRidge Townhomes building envelopes and the associated repair-planning timeline. The full reports (with photos, exploratory openings, and detailed scopes) are bundled into the CC&Rs document delivered through HomeWiseDocs Order LZGLLQJ29.
+This page summarizes the engineering investigations of water intrusion into the Summit Ridge Townhomes building envelopes and the associated repair-planning timeline. The full reports (with photos, exploratory openings, and detailed scopes) are bundled into the CC&Rs document delivered through HomeWiseDocs Order LZGLLQJ29.
 
 > **For repair-related ARC requirements**: any Owner-responsibility repair on the building exterior requires an [ARC application](architectural-review.md), and the ARC may require evidence from a construction professional that the proposed repair will not adversely impact the weatherproofing of the building envelope (Source: Rules and Regulations § Board Resolution Nov 2016).
 
@@ -21,7 +21,7 @@ This page summarizes the engineering investigations of water intrusion into the 
 **Author**: Mark Rose, Building Science Specialist
 **Fieldwork**: June 25, 2015 (sunny, 91 °F)
 **Report dated**: February 4, 2016 (CBS Ref. 15-013.00)
-**Prepared for**: SummitRidge Townhomes HOA c/o Angela D. Shinn, Superior Community Management
+**Prepared for**: Summit Ridge Townhomes HOA c/o Angela D. Shinn, Superior Community Management
 
 ### Method
 Visual review across the community plus **seven exploratory openings** at key envelope details. Lifetime Exteriors assisted with ladder access and cladding removal/reinstatement (Source: CC&Rs § 6 — Assessment Methods).

@@ -1,10 +1,10 @@
 # Definitions
 
-Key defined terms used across the Declaration (CC&Rs), Bylaws, and Rules and Regulations of the SummitRidge Townhomes HOA.
+Key defined terms used across the Declaration (CC&Rs), Bylaws, and Rules and Regulations of the Summit Ridge Townhomes HOA.
 
 ## Property and Community
 
-- **Property** — The SummitRidge Townhomes subdivision in Multnomah County, Oregon, located at 1–21 Summit Ridge Court, Lake Oswego (Source: CC&Rs Recitals; Certa Report).
+- **Property** — The Summit Ridge Townhomes subdivision in Multnomah County, Oregon, located at 1–21 Summit Ridge Court, Lake Oswego (Source: CC&Rs Recitals; Certa Report).
 - **Lot** — Any numbered plot of land shown on the Plat, designated Lot 1 through Lot 21 inclusive (Source: CC&Rs Article I.I).
 - **Building Site** — The portion of a Lot upon which a Living Unit may be constructed (Source: CC&Rs Article I.C).
 - **Building Structure** — A structure comprised of one or more contiguous Living Units, including attached garage structures (Source: CC&Rs Article I.D).
@@ -15,13 +15,13 @@ Key defined terms used across the Declaration (CC&Rs), Bylaws, and Rules and Reg
 - **Private Open Space Tracts** — Tracts of the Property designated on the Plat, restricted to passive recreational uses (Source: CC&Rs Article I.O, Article III § 3.G).
 - **Set back** — The minimum distance between a structure and a Lot line as shown on the Plat (Source: CC&Rs Article I.Q).
 - **Street** — Any public right-of-way for vehicular traffic shown on the Plat (Source: CC&Rs Article I.R).
-- **Plat** — The subdivision plat for SummitRidge Townhomes filed in the Official Records of Multnomah County, Oregon (Source: CC&Rs Recitals).
+- **Plat** — The subdivision plat for Summit Ridge Townhomes filed in the Official Records of Multnomah County, Oregon (Source: CC&Rs Recitals).
 - **Master Restrictions** — Restrictive covenants imposed by Declaration recorded August 5, 1968, in Book 633, Page 882, Multnomah County, as amended (Source: CC&Rs Article I.K).
 
 ## People and Entities
 
-- **Declarant** — SummitRidge Townhomes Associates, LLC (referenced as SummitRidge Townhomes, LLC in the Declaration), an Oregon limited liability company (Source: CC&Rs Article II § 2; Bylaws Article III § 2).
-- **Association** — The Summitridge Townhomes Home Owners Association, an Oregon nonprofit corporation. (The Declaration's Article I.A also references the term as "Summit at Mountain Park Home Owners Association" — this appears to be a drafting carryover; the entity in operation is Summitridge Townhomes HOA, formed May 23, 2002.) (Source: CC&Rs Article I.A; Second Amendment 2017 § B).
+- **Declarant** — Summit Ridge Townhomes Associates, LLC (referenced as Summit Ridge Townhomes, LLC in the Declaration), an Oregon limited liability company (Source: CC&Rs Article II § 2; Bylaws Article III § 2).
+- **Association** — The Summit Ridge Townhomes Home Owners Association, an Oregon nonprofit corporation. (The Declaration's Article I.A also references the term as "Summit at Mountain Park Home Owners Association" — this appears to be a drafting carryover; the entity in operation is Summit Ridge Townhomes HOA, formed May 23, 2002.) (Source: CC&Rs Article I.A; Second Amendment 2017 § B).
 - **Board** — The Board of Directors of the Association, constituted under [Bylaws Article V](elections-and-board.md) (Source: Bylaws Article I § 1.1).
 - **Member** — Every Owner of a fee or undivided fee interest in any Lot, and every person who holds a contract vendee's interest of record in a Lot (Source: CC&Rs Article II § 1; Bylaws Article III § 1).
 - **Owner** — The record owner (one or more persons or entities) of title to any Lot, including fee simple owners and contract vendees, but not a mortgagee or vendor under a land sale contract who holds only a security interest (Source: CC&Rs Article I.M).

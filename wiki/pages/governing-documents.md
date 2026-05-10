@@ -1,6 +1,6 @@
 # Governing Documents
 
-The SummitRidge Townhomes HOA is governed by a hierarchy of documents. In any irreconcilable conflict, **applicable law and the Declaration control over the Bylaws, amendments, and any rules or regulations** (Source: Bylaws Article XXI).
+The Summit Ridge Townhomes HOA is governed by a hierarchy of documents. In any irreconcilable conflict, **applicable law and the Declaration control over the Bylaws, amendments, and any rules or regulations** (Source: Bylaws Article XXI).
 
 ## Document Hierarchy
 
@@ -8,7 +8,7 @@ The SummitRidge Townhomes HOA is governed by a hierarchy of documents. In any ir
 2. **Declaration of Covenants, Conditions and Restrictions (CC&Rs)** — recorded December 17, 1999 in Multnomah County, Recording No. **99-225640** (Source: CC&Rs § 1; Bylaws Article I § 1.2)
 3. **Bylaws** — adopted by the Board on **May 22, 2002**; certified by Secretary Pamela McKenna (Source: Bylaws Certification)
 4. **Articles of Incorporation** — filed May 23, 2002 (Source: Second Amendment 2017 § B)
-5. **Rules and Regulations** — adopted by the Board under Bylaws Article XIV; current handbook is **Summitridge Townhomes HOA Community Handbook v1.2**
+5. **Rules and Regulations** — adopted by the Board under Bylaws Article XIV; current handbook is **Summit Ridge Townhomes HOA Community Handbook v1.2**
 
 ## Recorded Amendments to the Declaration
 

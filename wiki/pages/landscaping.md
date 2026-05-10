@@ -17,7 +17,7 @@ Owners may enhance flowerbeds with plantings at their own expense, but must coor
 
 ## Landscaping on the Lot
 
-- Each Owner must provide and maintain landscaping on the Owner's Lot of such a nature and quality as to **not detract from the aesthetic value** of the SummitRidge Townhomes Property (Source: CC&Rs Article VII § 2.J).
+- Each Owner must provide and maintain landscaping on the Owner's Lot of such a nature and quality as to **not detract from the aesthetic value** of the Summit Ridge Townhomes Property (Source: CC&Rs Article VII § 2.J).
 - It is the intent of the Declaration that Lots, including vacant Lots, be maintained in a reasonably presentable condition (Source: CC&Rs Article IX § 1).
 
 ## Landscape Plan Approval
