@@ -1,4 +1,4 @@
-# 20 Summit Ridge Wiki
+# Summit Ridge Wiki
 
 An LLM-maintained knowledge base for the Summit Ridge townhome HOA. Authoritative governing documents live in `source/`; an AI assistant synthesizes them into a structured wiki under `wiki/` that you can query in plain English.
 

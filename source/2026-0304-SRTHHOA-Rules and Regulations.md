@@ -3,14 +3,6 @@
 > Converted from `2026-0304-SRTHHOA-Rules and Regulations.pdf` on 2026-05-10.
 > Source of truth: the PDF was the original; this markdown is a verbatim transcription.
 
-This bundle was ordered through HomeWiseDocs. Watermark on every page:
-
-> Order: LZGLLQJ29
-> Address: 20 Summit Ridge Ct
-> Order Date: 11-10-2025
-> Document not for resale
-> HomeWiseDocs
-
 Cover page title: **Rules and Regulations — Summitridge Townhomes Home Owners Association**
 
 The bundle contains: (1) Summitridge Townhomes HOA Community Handbook v1.2; (2) Architecture Committee Request for Improvements form; (3) Landscape Committee Request for Improvements form; (4) Resolution of the Board of Directors Regarding Maintenance Responsibility (adopted Nov. 1, 2016) with Attachment A; (5) Summit Ridge HOA Parking Regulations Reminder; (6) Resolution of the Board of Directors — Collection of Unpaid HOA Assessments (adopted October 20, 2017).
