@@ -1,14 +1,22 @@
 {
-  "2025-10-11 Bylaws.md": {
-    "sha256": "0F6095931569FCCC304FCCF99FB8F366DCC4113150FB860F40006B9FB79BA75D",
-    "synced_at": "2026-05-09T00:00:00Z"
-  },
-  "2025-10-11 CC&Rs.md": {
-    "sha256": "D556BF5B73EBEB9544494C88B6881460FDEC86D3DA731047CE94DEF3F15392D8",
-    "synced_at": "2026-05-09T00:00:00Z"
-  },
-  "2025-10-11 Rules and Regulations.md": {
-    "sha256": "752488FD975A73331FEA60F8F2FA73E4EA3F35318337980F4BF0DE788F1CC52B",
-    "synced_at": "2026-05-09T00:00:00Z"
-  }
+  "2025.07.07_summitridge townhomes_amended and restated declaration.md": {"sha256": "6ac36c62f74446a119e85d10905ab3caba7231ffdf8c078fbf2e81365f5e9855", "synced_at": "2026-05-10T00:00:00Z"},
+  "2026-0304-SRTHHOA-Rules and Regulations.md": {"sha256": "49da0693c41608e3c433c52842c3fd550a2cb4f3ccf2a645e82a69e5cce0c0ac", "synced_at": "2026-05-10T00:00:00Z"},
+  "590 1st Amend to Dec - Special Assessment Resolution.md": {"sha256": "07d5f6f8a295f97c4d93458ef7d6ab8d4a06afee7a40c1a910cb0200a07118cd", "synced_at": "2026-05-10T00:00:00Z"},
+  "590 2nd Amend to Dec - Collection.md": {"sha256": "ee80ef25f57f384285186a3f3219928669ee44d24effe0c04e2e969af1a5535f", "synced_at": "2026-05-10T00:00:00Z"},
+  "590 2nd Amend to Dec - Rent Restrict.md": {"sha256": "536cdcf48674d6ec4345b3ee7c82a366e7b44b998fac61822b34dc5bbc9b3dab", "synced_at": "2026-05-10T00:00:00Z"},
+  "590 Collection Resolution 10.20.2017.md": {"sha256": "877d7316322e068f056772bac3929a87672db86f8d50bdc5b217ebfa474f8eb2", "synced_at": "2026-05-10T00:00:00Z"},
+  "590 HOA Parking Regulations 01.16.2020.md": {"sha256": "df145f477b5880390f756715f4f39b2b8f92203446e2837b99992079ab6eadad", "synced_at": "2026-05-10T00:00:00Z"},
+  "590 Maintenance Responsibility Resolution 11.01.2016.md": {"sha256": "949502fa68a25a24c54c572fb0d43c09bc660fee2491e475ad0fa4b97a8637a2", "synced_at": "2026-05-10T00:00:00Z"},
+  "590 Special Repair Assessment Resolution 05.24.18.md": {"sha256": "13c49928b6914f879d3412e00617e763131d8dfaeb5a86f6777bef3a23c6cb58", "synced_at": "2026-05-10T00:00:00Z"},
+  "590 Summitridge #2.md": {"sha256": "f97677c3eaf2936efe6ec5e7e0e513989911ed0ca68a7d30ceb1941bd6adb121", "synced_at": "2026-05-10T00:00:00Z"},
+  "590 Summitridge 2022.md": {"sha256": "0fd00a983fd92068d44cc4f20f7e02fe0d616f086c57534419ad6d7e788d6fd9", "synced_at": "2026-05-10T00:00:00Z"},
+  "590 Summitridge Bylaws.md": {"sha256": "92547a6262c9c86ab3e77c17b7a0f180a2cb8b635d57167c88980f50f04c5c5a", "synced_at": "2026-05-10T00:00:00Z"},
+  "590 Summitridge CCR's.md": {"sha256": "49c26eb068adda61f3f44103de4886795cf88a4e4c572f1ce8b883403e1cb5df", "synced_at": "2026-05-10T00:00:00Z"},
+  "590 Summitridge- Budget.md": {"sha256": "72689c4773d73f175e566d81a8e8991eeb005bc903de574ad52470676d8e4217", "synced_at": "2026-05-10T00:00:00Z"},
+  "590 Welcome Handbook and Resolutions.md": {"sha256": "735a3121c422b0bb619c8f1f24a25d41cc0c8ebf91592df52f10092e25b84ed3", "synced_at": "2026-05-10T00:00:00Z"},
+  "Master association insurance certificate.md": {"sha256": "115642d755c8a685f1bb555439b13d5ee0ccb6e9150ae5ea6f44388e0d628e74", "synced_at": "2026-05-10T00:00:00Z"},
+  "PONO-RS1-SummitRidgeTH-240419-v2 Final.md": {"sha256": "62b7d62cd026491e094e58865f2c6ac47c77fb1341b835027f1d590d1e602f98", "synced_at": "2026-05-10T00:00:00Z"},
+  "Summitridge 2025 Budget.md": {"sha256": "97e3fb09e417a4d1fa854fae6d4f20f6abe6a552ff1bd36c2893ad246551d292", "synced_at": "2026-05-10T00:00:00Z"},
+  "Summitridge 2026 Budget.md": {"sha256": "d5885896f6bde642102e09304ae72627efc19c78db129dade4e2bec87cf9fbc2", "synced_at": "2026-05-10T00:00:00Z"},
+  "Summitridge TH Evidence Of Property Insurance 23-24.md": {"sha256": "c06eacff7d0839591d0c9942d316b16de36dacf9c4434b8ce18b6af83cfa28a9", "synced_at": "2026-05-10T00:00:00Z"}
 }

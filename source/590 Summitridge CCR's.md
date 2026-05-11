@@ -1,0 +1,465 @@
+# Declarations of Covenants, Conditions and Restrictions of Summitridge Townhomes, LLC
+
+> Converted from `590 Summitridge CCR's.pdf` on 2026-05-10.
+> Source of truth: the PDF was the original; this markdown is a verbatim transcription.
+
+## Recording
+
+- After recording return to: City of Lake Oswego, Planning Department, 380 "A" Avenue, Lake Oswego, OR 97034
+- Recorded in the County of Multnomah, Oregon
+- C. Swick, Deputy Clerk
+- Total: 143.00
+- Recording No.: **99-225640** 12/17/1999 11:00:57am ATESL
+- C73 28 REC99 SUR99
+- 140.00 3.00
+- [Stamped: COPY]
+
+## TABLE OF CONTENTS
+
+| Article | Title | Page |
+|---|---|---|
+| ARTICLE I | DEFINITIONS | 1 |
+| ARTICLE II | MEMBERSHIP AND VOTING RIGHTS IN, AND POWER OF THE ASSOCIATION | 3 |
+| ARTICLE III | THE COMMON PROPERTIES | 6 |
+| ARTICLE IV | COVENANT FOR ASSESSMENT | 7 |
+| ARTICLE V | RESTRICTIONS ON USE OF PROPERTY BY OCCUPANTS | 11 |
+| ARTICLE VI | RESTRICTIONS ON TYPE OF STRUCTURES PERMITTED | 12 |
+| ARTICLE VII | RESTRICTIONS REGARDING CONSTRUCTION, USE AND MAINTENANCE | 12 |
+| ARTICLE VIII | RESERVATION/GRANT OF EASEMENTS | 15 |
+| ARTICLE IX | MAINTENANCE OBLIGATIONS OF OWNER | 17 |
+| ARTICLE X | ERECTION OF SIGNS OR STRUCTURES BY DECLARANT | 17 |
+| ARTICLE XI | GENERAL PROVISIONS | 17 |
+| ARTICLE XII | RIGHTS AND OBLIGATIONS OF THE ASSOCIATION | 20 |
+| ARTICLE XIII | MORTGAGEE RIGHTS | 21 |
+
+## Preamble
+
+This Declaration is made this ____ day of ______________, 1999, by SUMMITRIDGE TOWNHOMES, LLC, an Oregon limited liability company, hereinafter called the "Declarant".
+
+### RECITALS:
+
+Declarant is the owner of a subdivision in the County of Multnomah, State of Oregon, known as the SummitRidge Townhomes (the "Property"), created by subdivision plat filed for record in the Official Records of Multnomah County, Oregon, on ______________, under Book ____, pages _____ (the "Plat"). Declarant desires to subject the Property to certain conditions, restrictions and charges for the benefit of the Property and its present and subsequent owners as hereinafter specified and to cause the power to enforce certain of such conditions, restrictions, reservations and charges to reside in the SummitRidge Home Owners Association, a non-profit corporation organized under the laws of the State of Oregon.
+
+### DECLARATION
+
+THEREFORE, Declarant declares that the Property shall be held, sold and conveyed subject to the following easements, covenants, restrictions, and charges. Such easements, covenants, restrictions and charges (hereinafter sometimes referred to as "covenants and restrictions") shall run with the land comprising the Property, shall be enforceable as equitable servitudes, shall be binding on all parties having or acquiring any right, title or interest in and to the Property or any part thereof, and shall inure to the benefit of each owner thereof. This document shall be referred to herein as the "Declaration."
+
+## ARTICLE I — DEFINITIONS
+
+The following words when used in this Declaration or any supplemental declaration, shall have the following meanings:
+
+A. "Association" shall mean the Summit at Mountain Park Home Owners Association, its successors and assigns.
+
+B. "Board" shall mean the Board of Directors of the Association.
+
+C. "Building Site" shall mean the portion of a Lot upon which a Living Unit may be constructed.
+
+D. "Building Structure" shall mean a building structure which is comprised of one or more contiguous Living Units constructed and located on Lots, including, without limitation, garage structures located on the same Lots and attached to the Building Structure.
+
+E. "City" shall mean the City of Lake Oswego, Oregon.
+
+F. "Common Properties" shall mean those areas of land intended for the common use, enjoyment and/or benefit of all Members of the Association, and shall include those tracts designated as "Private Open Space Tracts" and labeled as Tracts "A" and "B".
+
+G. "Improvement" shall mean every structure or improvement of any kind, including but not limited to a fence, wall, driveway, storage shelter, patio, deck, or other product of construction efforts on or in respect to a Lot.
+
+H. "Living Unit" shall mean any structure situated upon the Property designed and intended for use, occupancy and ownership as a residence by a single family.
+
+I. "Lot" shall mean any numbered plot of land shown on the Plat which is designated by a lot number ranging from Lot 1 through Lot 21, inclusive.
+
+J. "Member" shall mean every person or entity who holds membership in the Association.
+
+K. "Master Restrictions" shall mean the restrictive covenants imposed on the Property by Declaration recorded on August 5, 1968, in Book 633, Page 882, of the Official Records of Multnomah County, Oregon, as such restrictions have been and may be amended from time to time.
+
+L. "Outdoor Living Area" shall mean that portion of a Lot which is located immediately adjacent to a Building Structure and which is screened, enclosed, or set off in any manner to create a private outdoor living/landscaped area. Outdoor Living Areas shall initially be established by Declarant at the time of construction of the Building Structures and may be modified from time to time by the Owner of the corresponding Lot with the approval of the Architectural Review Committee.
+
+M. "Owner" shall mean the record owner, whether one or more persons or entities, of title to any Lot, including fee simple owners and contract vendees, but shall not mean a mortgagee or vendor under a land sale contract who holds only a security interest in a Lot.
+
+N. "Plat" shall have the meaning designated in the Recitals.
+
+O. "Private Open Space Tracts" shall mean the tracts of the Property so designated on the Plat.
+
+P. "Property" shall have the meaning designated in the Recitals.
+
+Q. "Set back" means the minimum distance between a structure and a Lot line as shown on the Plat.
+
+R. "Street" means any public right-of-way for vehicular traffic shown on the Plat.
+
+S. "Street Frontage" means that portion of a Lot or Building Site which borders on a Street.
+
+Other terms are defined elsewhere herein and shall have the meanings attributed to them.
+
+## ARTICLE II — MEMBERSHIP AND VOTING RIGHTS IN AND POWERS OF THE ASSOCIATION
+
+**SECTION 1. MEMBERSHIP.** Members of the Association shall be every Owner of a fee or undivided fee interest in any Lot and every person who holds a contract vendee's interest of record in a Lot. There shall be no other qualification for membership except as set forth above. Membership shall terminate on transfer of fee simple title by an Owner or on transfer of the contract purchaser's interest by a contract vendee who qualifies as a Member. If an Owner sells a Lot by contract of sale, the Owner's membership shall terminate and the contract purchaser's membership shall commence upon recordation thereof.
+
+**SECTION 2. VOTING RIGHTS.** There shall be two classes of voting membership:
+
+A. Class A Members will be all those Members other than the Class B Member. Class A Members will be entitled to one vote for each Lot in which they hold the interest required for membership by Section 1. If more than one person holds such interest or interests, all such persons shall be Members, but the vote for such Lot shall be exercised as the persons holding such interest shall determine between themselves, provided that in no event shall more than one vote be cast with respect to any Lot. If multiple owners of a single Lot cannot agree on the manner in which their vote shall be cast on any issue, then such owners shall be deemed to have abstained from voting on that issue. Class A Members shall not be entitled to elect any members of the Board of Directors of the Association so long as there is Class B membership.
+
+B. The Class B Member shall be the Declarant and any successor or assign of Declarant who acquires all of the interest of Declarant in the Property for purposes of completing development of the Property (if development is incomplete) and selling the balance of the Lots which remain unsold at that time. The Class B Member shall be entitled to three votes for each Lot owned by the Class B Member. The Class B Member shall be entitled to elect all members of the Board of Directors of the Association until such time as the Class B membership is converted to Class A membership. Class B membership shall be converted to Class A membership upon the earliest to occur of the following events: (i) when Class A Members have a total number of votes in Association matters equal to or in excess of the sum of fifteen (15); (ii) December 31, 2001; or (iii) when Declarant, at its discretion, elects to convert the Class B Membership to Class A Membership by giving written notice to that effect to the secretary of the Association.
+
+### SECTION 3. POWERS AND OBLIGATIONS.
+
+A. **Powers and Obligations.** The Association shall have, exercise and perform all of the following powers, duties and obligations:
+
+(1) **Declaration.** The powers, duties and obligations granted to the Association by this Declaration.
+
+(2) **Statutory Powers.** The powers and obligations of a nonprofit corporation pursuant to the Oregon Nonprofit Corporation Act and of a homeowners association of a planned community pursuant to the Oregon Planned Community Act, as either or both may be amended from time to time.
+
+(3) **General.** Any additional or different powers, duties and obligations necessary or desirable or reasonably to be implied from the existence of any right or privilege given to it herein or reasonably necessary to effectuate any such right or privilege for the purpose of carrying out the functions of the Association pursuant to this Declaration or otherwise promoting the general benefit of the Owners within the Property.
+
+The powers and obligations of the Association may from time to time be amended, repealed, enlarged or restricted by changes in this Declaration made in accordance with the provisions herein, accompanied by changes in the Articles or Bylaws made in accordance with such instruments and with the Oregon Nonprofit Corporation Act.
+
+B. **Liability.** Neither the Association nor any officer or member of the Board shall be liable to any Owner for any damage, loss or prejudice suffered or claimed on account of any action or failure to act by the Association, any of its officers or any member of the Board, provided only that the officer or Board member has acted in good faith in accordance with the actual knowledge possessed by him.
+
+C. **Association Rules and Regulations.** The Association from time to time may adopt, modify, or revoke such rules and regulations governing the conduct of persons and the operation and use of Lots and the Common Area and Landscaped Areas as it may deem necessary or appropriate in order to assure the peaceful and orderly use and enjoyment of the Property. Any rule or regulation, or amendment, modification or revocation thereof, affecting Tracts A and B shall be subject to approval in writing by the City. A copy of the rules and regulations, upon adoption, and a copy of each amendment, modification or revocation thereof, shall be delivered by the Board promptly to each Owner and shall be binding upon all Owners and occupants of all Lots upon the date of delivery. The method of adoption of such rules shall be as provided in the Bylaws.
+
+D. **Similar Duties of the Association.** Without limiting the generality of the general powers and duties of the Association set forth hereof, the Association shall have the power and obligation to conduct and perform the following duties, the costs of which shall be funded by assessments collected hereunder.
+
+E. **Maintenance of Building Exteriors, Common Area, and Landscaped Areas.**
+
+(1) **By the Association.** The Association shall be responsible for maintenance of the exteriors of all Building Structures and maintenance and repair of the Common Area (including any utilities thereon, to the extent not maintained by governmental authorities). Maintenance of the exteriors of Building Structures shall include the painting, staining, re-staining, repairing, and replacing of all exterior surfaces, including roofs (but excluding the repair and replacing of exterior doors); painting and staining of exterior window casements, sashes, frames, window screens, storm windows, storm doors, and screen doors; maintaining, repairing and replacing exterior lighting fixtures, the exterior portions of chimneys, rain gutters, down spouts, and sprinkler timing devices; and cleaning of the exterior surfaces of skylights. Maintenance of the Common Area and exterior of all Building Structures shall include repairing, and replacing grass, sod, trees, shrubs, and bushes in a neat, clean, and attractive condition, as well as the maintenance and repair of all underground sewer systems. Provided, however, that Tract A is intended to remain in its natural condition and any action that would or will disturb its natural condition shall be subject to prior written approval by the City. The Association shall also have the authority, but shall not be required, to arrange for snow and ice removal from the Common Area (except that Tract A shall not be disturbed), but not from the Lots. The decision as to the nature and extent of maintenance that is required for a particular Building Structure and the timing of such maintenance shall be solely within the discretion of the Board.
+
+(2) **By the Owners.** The maintenance responsibilities of the Association specifically do not include the following duties, which are the sole responsibility of the Owners of the Lots: repairing, replacing, restoring, or cleaning of (i) glass (other than cleaning of the exterior surfaces of skylights) and (ii) landscaping and other improvements (including, without limitation, decks and patios) located on a Lot and/or within an Outdoor Living Areas; exterior items of hardware (including replacing and repairing exterior doors); exterior window casements, sashes and frames (other than painting and staining of the same); window screens, storm windows, storm doors, or screen doors (other than painting and staining of the same); walkways and driveways; electrical and mechanical doorbells and knockers; and air conditioning and heating equipment and devices. The Owners of Lots shall also be responsible for maintaining, repairing, and replacing the interiors of their respective dwelling units within the Building Structures, including without limitation, maintaining, repairing, and replacing electrical wiring and fixtures, plumbing pipes and conduits, all fixtures and appliances (whether built-in or freestanding), air conditioning, heating, sewage disposal, and interior fire protection systems and all amenities and hardware located within the interiors of the Building Structures. Each Owner of a Lot shall also be responsible for removal of snow and ice from that Owner's Lot.
+
+F. **Insurance.**
+
+(1) **By the Association.** The Association shall obtain, and maintain in effect, from reputable insurance companies authorized to do business in the State of Oregon, public liability and property damage insurance with respect to all Common Area in such amounts and in such forms as the Board deems advisable to provide adequate protection for bodily injury, including deaths of persons, and property damage, whether caused by the negligence of the Association or otherwise; provided, however, that such policy(ies) shall not be for an amount of less than $1,000,000.00 per person, per occurrence, and that such policy(ies) shall provide that the coverage thereunder cannot be canceled or substantially modified without at least 10 days' written notice to the Association. Additionally, the Association shall obtain, and maintain in effect, from such companies fire and extended coverage casualty insurance (including coverage for damage resulting from vandalism and malicious mischief) with respect to each Building Structure and the Common Area (including any insurable Improvements thereon) in an amount equal to 100% of the replacement cost thereof. The casualty coverage may be obtained on a "blanket" basis. The Association may obtain such other and further policies of insurance as it deems advisable. The casualty insurance to be obtained by the Association pursuant to this Section shall include the following terms, if these are reasonably available:
+
+(a) A waiver of subrogation by the insurer as to any claims against the Board, any Owner, or any guest of an Owner; and
+
+(b) A waiver by the insurer of its right to repair and reconstruct instead of paying cash.
+
+G. **By the Owners.** Each Owner of a Lot shall obtain, and maintain in effect, from reputable insurance companies authorized to do business in the State of Oregon, public liability and property damage insurance with respect to such Lot in an amount of not less than $500,000.00 per person, per occurrence. Additionally, each Owner shall obtain and maintain in effect from such companies fire and extended coverage casualty insurance (including coverage for damage resulting form vandalism and malicious mischief) with respect to all insurable Improvements located on such Lot, other than the Building Structure thereof, in an amount equal to 100% of the replacement cost thereof. Each Owner shall also be responsible for obtaining fire and extended coverage casualty insurance with respect to that Owner's personal property. No Owner shall obtain any of the insurance coverages described in Section 3(F), nor shall any insurance coverage obtained by an Owner (or such Owner's mortgagee) be brought into contribution with insurance obtained by the Association.
+
+## ARTICLE III — THE COMMON PROPERTIES
+
+**SECTION 1. MEMBERS' EASEMENTS OF ENJOYMENT.** Subject to the provisions of Section 3 of this Article, every Member shall have an easement and right of enjoyment in and to the Common Properties, and such easement shall be appurtenant to and shall pass with the title to every Lot and upon the recordation of a contract of sale of any Lot.
+
+**SECTION 2. TITLE TO COMMON PROPERTIES.** The Declarant may retain legal title to the Common Properties until such time as it has completed improvements thereon and until such time as the Association is able to maintain the same in the judgment of Declarant. Notwithstanding the foregoing, the Declarant shall convey the Common Properties to the Association no later than December 31, 2001, if not sooner conveyed.
+
+**SECTION 3. EXTENT OF MEMBERS' EASEMENTS.** The rights and easements of enjoyment in and to the Common Properties created hereby shall be subject to the following:
+
+A. The right of the Association to limit the number of guests of Members;
+
+B. The right of the Association to suspend the enjoyment rights of any Member with respect to any Common Property for any period during which any assessment remains unpaid and for any period not to exceed thirty days for any infraction of its published rules and regulations;
+
+C. The right of the Declarant and the Association to mortgage the Common Properties as security for any loan, the purpose of which is improvement of the Common Properties or any Lot, provided that any such mortgage is subordinate to this Declaration and the Plat;
+
+D. The right of the Association to dedicate or transfer all or any part of the Common Properties to any municipal corporation, public agency or authority for such uses and purposes and subject to such conditions as may be agreed to by the Members, and shall be subject to the written approval of the City; no such dedication or transfer shall be made except upon a vote of approval of the Members as provided by the Articles of Incorporation and approval in writing by the City;
+
+E. The right of the Declarant to grant easements encumbering the Common Properties to any public agency, authority or utility as may be required to develop the Property as a single family subdivision, provided that all trees within the Private Open Space Tracts are fully protected at all times, subject to review and written approval by the City. Should any trees on the Private Open Space Tracts be damaged during this process, the Declarant shall replace such trees as requested by the City;
+
+F. Reasonable rules and regulations regarding the use of the Common Properties which may be adopted from time to time by the Declarant or the Association (the Declarant to adopt the initial rules and regulations and thereafter the same shall be subject to modification from time to time by the Association acting by and through the Board) subject to approval by the City; and
+
+G. The Private Open Space Tracts may be used only for passive recreational purposes such as walking and picnicking, and no other use may be made of the Private Open Space.
+
+**SECTION 4. MAINTENANCE OF COMMON PROPERTIES.** The Association shall be responsible for maintaining and repairing the Common Properties, including the Private Open Space Tracts, such maintenance and repairs to be funded by assessments collected hereunder. The City shall have the right to enforce the maintenance and repair obligations set forth in this Declaration at the expense of the Association and Owners.
+
+## ARTICLE IV — COVENANT FOR ASSESSMENTS
+
+**SECTION 1. CREATION OF THE LIEN AND PERSONAL OBLIGATION OF ASSESSMENT.** Declarant hereby covenants for each Lot owned by it, and each Owner of any Lot, by acceptance of the deed or contract therefor, whether car not it shall be so expressed in any such deed or other conveyance, shall be deemed to covenant and agree to pay to the Association annual assessments and special assessments for capital improvements. Such assessments shall be fixed, established and, collected from time to time as hereinafter provided. The annual and special assessments, together with such interest thereon and costs of collection thereof as hereinafter provided, shall be a continuing lien upon the Lot against which each such assessment is made. Each such assessment, together with such interest thereon and costs of collection thereof as hereinafter provided, also shall be a personal obligation of the person who is the Owner of such property at the time when the assessment fell due.
+
+**SECTION 2. PURPOSE OF ASSESSMENTS.** The assessments levied by the Association shall be used exclusively for the improvement and maintenance of the Common Properties, for the general purposes of promoting the recreation, health, safety, welfare, common benefit and enjoyment of the Owners, the performance of Association obligations under this Declaration, and for the satisfaction of any obligations of the Association under the Parking Agreement, all as may be more specifically authorized from time to time by the Board.
+
+**SECTION 3. ANNUAL ASSESSMENT.** The Board shall prepare a budget covering the estimated costs of operating the Association each calendar year, which may include a reserve in accordance with a capital budget separately prepared. The Board shall cause the budget and the assessment to be levied against each Lot for the following year to be delivered to each owner at least thirty (30) days prior to the end of the current calendar year. The budget and the assessment shall become effective unless disapproved at a meeting of the Owners by a majority of the Members entitled to vote. Notwithstanding the foregoing, in the event the Members disapprove a proposed budget or the Board fails for any reason to determine the budget for a calendar year, then and until such time as a budget shall have been adopted as provided herein, the budget in effect for the prior calendar year shall continue for the succeeding year.
+
+**SECTION 4. SPECIAL ASSESSMENTS FOR CAPITAL IMPROVEMENTS.** Upon vote of the Members of the Association in the manner hereinafter set forth, the Association may levy in addition to annual assessments a special assessment in any calendar year applicable to that year only, for the purpose of defraying in whole or in part the cost of construction or reconstruction or expected repair or replacement of a described capital improvement upon the Common Properties, including necessary fixtures and personal property related thereto.
+
+**SECTION 5. VOTING AND NOTICES FOR SPECIAL ASSESSMENT.** Any special assessment must have the assent of two-thirds of the votes of each class of Members who are voting in person or by proxy at a meeting duly called for that purpose, written notice of which shall be sent to all Members at least thirty days in advance of the date of such meeting, setting forth the purpose of the meeting.
+
+**SECTION 6. DATE OF COMMENCEMENT OF ANNUAL ASSESSMENT.** The initial annual assessment shall commence on a date determined by the Board, and shall be due and payable on the date fixed by the Board. Annual assessments for any year after the first year shall become due and payable on the first day of such year. The amount of the initial annual assessment for the first year in which assessments are made or for any property which becomes subject to assessment for the first time shall be prorated on a calendar year basis according to the date on which the property first became subject to assessment. The due date of any special assessment shall be fixed in the resolution authorizing such assessment.
+
+**SECTION 7. NOTICE OF ASSESSMENTS.** At least thirty days in advance of the due date of each assessment, the Board shall fix the amount of the annual assessment against each Lot and give the owners written notice of such assessment. Upon demand at any time, the Association shall furnish to any owner liable for an assessment a certificate in writing indicating whether the assessments on the Lot owned by such Owner have been paid.
+
+### SECTION 8. THE EFFECT OF NON-PAYMENT OF ASSESSMENTS; LIEN OF ASSOCIATION.
+
+A. If an assessment is not paid on the due date hereinabove set forth, such assessment shall become delinquent and shall bear interest at the rate of 10% per annum from such due date. If so directed by the Board, the secretary of the Association shall file in the office of the Multnomah County Clerk within 90 days after such delinquency, a statement of the amount of the delinquent assessments together with interest and notice of the lien of the Association securing such obligation, and upon payment in full thereof shall execute and file a release of such lien. Such assessment with interest as set forth above shall constitute a Lien on the applicable Lot from the date of filing notice of delinquency until the lien is released as herein provided. The Association may bring an action at law to enforce payment of a delinquent assessment against the Owner personally obligated to pay the same and may enforce such lien in the manner provided by law with respect to a lien on real property.
+
+In the event a judgment or decree is obtained in favor of the Association, the Owner subject to such judgment or decree shall be liable for the Association's court costs and disbursements and attorney fees to be fixed by the Court, such costs, disbursements and attorney fees to be further secured by such lien. No Owner may waive or otherwise escape liability for assessments by non-use of the Common Properties or abandonment of his Lot.
+
+B. **Default in Payment of Assessments, Enforcement of Lien.** If an Assessment or other charge levied under this Declaration is not paid within 30 days after its due date, such Assessment or charge shall become delinquent and shall bear interest from the due date until paid at the rate set forth below and, in addition, the Association may exercise any or all of the following remedies:
+
+(1) **Suspension of Rights, Acceleration.** The Association may suspend such Owner's voting rights and right to use the Common Area until such amounts, plus other charges under this Declaration, are paid in full and may declare all remaining periodic installments of any Assessment or any other amounts owed by such Owner to the Association immediately due and payable. In no event, however, shall the Association deprive any Owner of access to and from such Owner's Lot.
+
+(2) **Lien.** The Association shall have a lien against each Lot for any Assessment levied against such Lot and any fines or other charges imposed under this Declaration or the Bylaws against the Owner of the Lot from the date on which the Assessment, fine or charge is due. The provisions regarding the attachment, notice, recordation and duration of liens established on real property under ORS 87.352 to 87.382 shall apply to the Association's lien. The lien shall be foreclosed in accordance with the provisions regarding the foreclosure of liens under ORS Chapter 88. The Association, through its duly authorized agents, may bid on the Lot at such foreclosure sale, and may acquire and hold, lease, mortgage and convey the Lot. If any Assessment is payable in installments, the full amount of the Assessment is a lien from the date the first installment of the Assessment becomes due.
+
+(3) **Suit or Action.** The Association may bring an action to recover a money judgment for unpaid Assessments, fines and charges under this Declaration without foreclosing or waiving the lien described in this Article. Recovery on any such action, however, shall operate to satisfy the lien, or the portion thereof, for which recovery is made.
+
+(4) **Other Remedies.** The Association shall have any other remedy available to it by law or in equity.
+
+C. **Notification of First Mortgagee.** The Board shall notify any first mortgagee of any Lot of any default in performance of the terms of this Declaration by the Lot Owner which is not cured within 60 days.
+
+D. **Interest, Expenses and Attorneys' Fees.** Any amount not paid to the Association when due in accordance with this Declaration shall bear interest from the due date until paid at a rate three percentage points per annum above the prime rate offered by Bank of America as of the due date therefor, or at such other rate as may be established by the Board, but not to exceed the lawful rate of interest under the laws of the State of Oregon. A late charge may be charged for each delinquent assessment in an amount established from time to time by resolution of the Board not to exceed 30% of such assessment. In the event the Association shall file a notice of lien, the lien amount shall also include the recording fees associated with filing the notice, and a fee for preparing the notice of lien established from time to time by resolution of the Board. In the event the Association shall bring any suit or action to enforce this Declaration, or to collect any money due hereunder or to foreclose a lien, the Owner-defendant shall pay to the Association all costs and expenses incurred by the Association in connection with such suit or action, including a foreclosure title report, and the prevailing party in such suit or action shall recover such amount as the court may determine to be reasonable as attorneys' fees at trial and upon any appeal or petition for review thereof.
+
+**SECTION 9. SUBORDINATION OF THE LIEN TO MORTGAGES.** The lien of the assessments provided for herein shall be subordinate to the lien of any mortgage or deed of trust encumbering a Lot. Sale or transfer of any Lot shall not affect the assessment lien. However, the sale or transfer of any Lot which is subject to any mortgage or deed of trust pursuant to a decree of foreclosure under such mortgage or any proceeding in lieu of foreclosure thereof, including sale under a deed of trust, shall extinguish any lien of an assessment which became a lien prior to such sale or transfer. Such sale or transfer shall not release such Lot from the lien for any assessments thereafter becoming due or from the lien thereof.
+
+**SECTION 10. CAPITALIZATION OF ASSOCIATION.** Upon acquisition of record title to a Lot from Declarant, the purchasing owner shall contribute to the capital of the Association $300.00. Such payment shall be deposited by the purchasing owner in escrow and disbursed from escrow to the Association, unless Declarant previously has paid the assessment due for the Lot in question, in which event the contribution of the purchasing Owner shall be delivered to Declarant.
+
+**SECTION 11. PAYMENT OF ASSESSMENTS BY DECLARANT.** After the commencement of annual assessments, the Declarant shall pay fifty (50) percent of the annual assessment due for Lots owned by Declarant upon which a single family dwelling has been completed and ten (10%) percent of the annual assessment due with respect to Lots owned by Declarant which are not improved with a single-family dwelling. Notwithstanding anything to the contrary contained herein, the Declarant may contribute assessments due from it in services or materials or a combination of services and materials, rather than in money (an "In-kind Contribution"). The amount by which monetary assessments shall be decreased as a result of any In-kind Contribution shall be the fair market value of the contribution. If the Declarant and the Association agree regarding the value of any such contribution, then the value shall be as agreed. If the Association and the Declarant cannot agree as to the value of any In-kind Contribution, then the Declarant shall supply the Association with a detailed explanation of the service performed or material furnished, and the Association shall acquire bids for performing like services and furnishing like materials from three (3) independent contractors approved by the Declarant who are in the business of providing such services and materials. If the Association and the Declarant still are unable to agree upon the value of the In kind Contribution, then the value shall be deemed to be the average of the bids received from the independent contractors.
+
+## ARTICLE V — RESTRICTIONS ON USE OF PROPERTY BY OCCUPANTS
+
+**SECTION 1. USE RESTRICTIONS.** The following restrictions shall be applicable to the, use of all property subject to this Declaration:
+
+A. No Lot shall be used for any purpose other than single-family residential purposes.
+
+B. No animals or fowl shall be raised, kept or permitted upon the Property or any part thereof, excepting only domestic dogs or cats and excepting caged birds kept within the dwelling house, provided (i) said dogs, cats, and pet birds are not permitted to run at large and are not kept, bred, or raised for commercial purposes, and (ii) no more than one (1) of any such pets shall be permitted to be kept on any Lot.
+
+C. No part of the Property shall be used for the purposes of exploring for, taking or producing gas, oil or other hydrocarbons or minerals.
+
+D. No noxious or offensive activity shall be carried on upon the Property or any part thereof, nor shall anything be done or maintained thereon which may be or become an annoyance or nuisance to the neighborhood or detract from its value as a residential district.
+
+E. It shall be the duty of each owner or occupant of any Lot to improve and maintain in proper condition the area between the property line of said Lot and the nearest curb or improved street, and no trucks, campers, trailers, or boats shall be parked or permitted to remain in said area.
+
+F. The Private Open Space Tracts shall remain in their natural condition for the purpose of providing a scenic, aesthetic appearance, protecting natural processes, providing passive recreational uses, and maintaining natural vegetation. Trees may be removed from the Tracts only after they have been shown to be hazardous to life or property by a certified arborist, and after a tree cutting permit has been obtained from the City. Improvements in these areas, including public or private utilities, which are in keeping with the above purpose, must be approved by the City. No buildings shall be allowed in the Private Open Space Tracts.
+
+G. No Lot shall be used or maintained as a dumping ground for rubbish, garbage or trash. Garbage and other waste shall be kept in sanitary containers. All incinerators or other equipment for the storage or disposal of such material shall be kept in a clean and sanitary condition, and comply with all local, state and Federal requirements.
+
+H. Trees planted along the streets and within the public right-of-way may be removed at the discretion of the governmental body having jurisdiction. All other trees shall be preserved and such trees may only be removed after they have been shown to be hazardous to life or property by a certified arborist, and after a tree cutting permit has been obtained from the City. A detailed landscape plan shall be submitted along with any tree cutting application for review and approval by the City. The City may recommend revisions to the plan in order to preserve the treed character of the neighborhood.
+
+I. The utility easements and setbacks applicable to the Property, if any, are reflected on the Plat and incorporated herein by reference. Where utilities are constructed on side or rear Lot lines, removal and/or replacement of fences for public access to such utilities shall be at the expense of the owner of the applicable Lot.
+
+J. No parking of automobiles, boats, trucks, trailers or other vehicles shall be permitted on the Streets.
+
+K. The Lots and Common Property are subject to the Tree Code of the City of Lake Oswego, and no trees may be removed from the Lots or Common Property without complying with such Tree Code and this Article.
+
+L. Disabled vehicles shall not be permitted to remain on any Lot for more than three (3) consecutive days unless situated within an enclosed garage.
+
+## ARTICLE VI — RESTRICTIONS ON TYPE OF STRUCTURES PERMITTED
+
+**SECTION 1. RESTRICTIONS ON STRUCTURES.** In addition to the requirements imposed by any municipal corporation having jurisdiction over the Property, the following restrictions apply to structures, improvements and personal property erected or situated on the Property.
+
+A. Except with the approval of the Association, no building may be erected or maintained on any Lot except one single family dwelling designed for occupancy by not more than one family, together with a private garage, which garage shall conform generally in architectural design and exterior materials and finish to the dwelling house to which it is appurtenant. No outhouse of any kind, tent, shed or trailer, or any other temporary dwelling, shall be erected or maintained on any Lot or be used for living purposes, nor shall any garage be used for dwelling purposes. Garden sheds or tool sheds may not be erected.
+
+B. No trailer, camper, or pickup coach, tent, boat or truck (except pickup) shall be parked, placed, erected, maintained or constructed on any Lot for any purpose. However, trailers, campers, pickup coaches, tents or boats which can be and are stored completely within a garage and are not used for living purposes will not be in violation of these restrictions.
+
+C. No building shall be in any manner occupied while in the course of original construction or until it complies with all requirements as to area and with all other conditions and restrictions applicable thereto. The construction of any building or structure shall be prosecuted with reasonable diligence continuously from the time of commencement until fully completed. No buildings constructed elsewhere shall be moved to or placed on the Property except with the written approval of the Association.
+
+D. The Property is subject to the Master Restrictions and any construction undertaken on the Lots must comply with the Master Restrictions.
+
+## ARTICLE VII — RESTRICTIONS REGARDING CONSTRUCTION, MAINTENANCE AND USE
+
+**SECTION 1. ARCHITECTURAL COMMITTEE.** Declarant shall appoint an Architectural Committee (the "AC") of three or more persons who need not be Members of the Association, which Committee may act for the Board and Declarant to the extent set forth in this Declaration. Declarant may remove or replace members of the AC at will until such time as Declarant transfers authority for selection of the AC to the Board. Authority to designate members of the AC shall be transferred to the Board upon the earlier to occur of the following events: (i) when Declarant, at its discretion, elects to transfer such appointment authority to the Board by written notice to that effect; or (ii) upon closing of the sale of all Lots to third parties by Declarant. No Improvement shall be commenced, erected or maintained upon the Property, nor shall any exterior addition to or change or alteration therein be made until the plans and specifications showing the nature, kind, shape, height, color, materials, and location of the same shall have been submitted to and approved in writing by the AC. In the event the AC fails to approve or disapprove such design and location within ninety days after such plans and specifications have been submitted to it, approval will not be required and this Article will be deemed to have been fully complied with.
+
+**SECTION 2. RESTRICTIONS ON CONSTRUCTION, MAINTENANCE AND IMPROVEMENT.** The following restrictions are applicable to construction, maintenance, and improvements on the Property:
+
+A. **Structures Permitted.** Except to the extent expressly provided or contemplated in this Declaration, no Improvements shall be erected or permitted to remain on any Lot except Improvements designed for single family residential living and Improvements normally accessory thereto. All Improvements must be approved by the AC prior to the construction.
+
+B. **Residential Use.** Lots shall only be used for residential purposes. Except with the consent of the Board, and as allowed by applicable ordinances, agreements, or land use approvals, no trade, business, profession, commercial or similar activity of any kind shall be conducted on any Lot, nor shall any goods, equipment, vehicles, materials or supplies used in connection with any trade, service or business be kept or stored on any Lot. Nothing in this paragraph shall be deemed to prohibit (i) activities relating to the rental or sale of Building Structures; (ii) the right of Declarant or any contractor or homebuilders to construct Building Structures on any Lot, to store construction materials and equipment on such Lots in the normal course of construction, and to use any Building Structure as a sales or rental office or model home for purposes of sales or rental in the Property; (iii) the right of an Owner to maintain his professional personal library, keep his personal business or professional records or accounts, handle his personal business or professional telephone calls or confer with business or professional associates, clients or customers, in his Building Structure. The Board shall not approve commercial activities otherwise prohibited by this Section unless the Board determines that only normal residential activities would be observable outside of the Building Structure and that the activities would not be in violation of applicable ordinances.
+
+C. **Signs.** No signs shall be erected or maintained on any Lot, except signs which are approved as to appearance and location by the AC. The restrictions contained in this paragraph shall not apply to the temporary placement of "political" signs on any Lot by the Owner thereof.
+
+D. **Rubbish and Trash.** No Lot or part of the Common Area shall be used as a dumping ground for trash or rubbish of any kind. All garbage and other waste shall be kept in appropriate sanitary containers for proper disposal and out of public view. If any default under this Section exists for a period longer than ten days after written notice of such default is mailed to the responsible Owner by the Association, the Association shall have all rights and remedies under this Declaration, or at law or in equity.
+
+E. **Temporary Structures.** No structure of a temporary character, trailer, basement, tent, shack, garage, or other outbuilding shall be used on any Lot at any time as a residence, either temporarily or permanently.
+
+F. **Service Yards.** Service yards (garbage, fuel tanks, clotheslines, etc.) shall be completely screened such that the elements screened are not visible at any time from the street or any adjoining property.
+
+G. **Antennas and Satellite Disks.** Exterior antennas shall not be permitted to be placed upon any Lot except as approved by the AC. Exterior satellite receiver and transmission disks are allowed provided their size shall not exceed 18" and the location is approved by the AC and does not interfere with a neighbor's view or enjoyment of their home.
+
+H. **Interior Walls.** Each Owner shall ensure that the wall(s) separating his dwelling unit from other dwelling units within the same Building Structure are not punctured or otherwise breached by such Owner or his lessees, invitees, contractors, or family members.
+
+I. **Utility Structure.** No outdoor overhead wire or service drop for the distribution of electric energy or for telecommunication purposes nor any pole, tower or other structure supporting said outdoor overhead wires shall be erected, placed, or maintained within the Property. All purchasers of Lots within the Property, their heirs, successors, and assigns shall use underground service wires to connect their premises and the structures built thereon to the underground electric or telephone utility facilities.
+
+J. **Landscaping.** Each Owner shall provide and maintain the landscaping on the Owner's Lot of such a nature and quality as to not detract from the aesthetic value of the SummitRidge Townhomes Property.
+
+**SECTION 3. RIGHT OF ENTRY OF ASSOCIATION REPRESENTATIVE.** Any agent or officer of the Association may at any reasonable hour or hours during construction or remodeling, enter and inspect any of said Property to determine if there has been compliance with the provision hereof. The Association, and any agent, or officer thereof, shall not thereby be deemed guilty of any manner of trespass for such entry or inspection. The Association may issue a Certificate of Completion and compliance as to any property so inspected.
+
+**SECTION 4. EVIDENCE OF COMPLIANCE WITH RESTRICTIONS.** Records of the Association with respect to compliance with the provisions of this Declaration shall be conclusive evidence as to all matters shown by such records. Issuance of a Certificate of Completion and Compliance by the Secretary or an Assistant Secretary of the Association showing that the plans and specifications for the improvements or other matters herein provided for have been approved and that such improvements have been made in accordance therewith, or a certificate as to any matters relating to this Declaration by the Secretary or an Assistant Secretary of the Association shall be conclusive evidence that shall justify and protect any title company insuring title to any property subject to this Declaration and shall fully protect any purchaser or encumbrancer in connection therewith. After the expiration of one year following the issuance of a building permit by municipal or other governmental authority, any structure, work, improvement or alteration shall be deemed to be in compliance with the provisions hereof unless a notice of non-compliance executed by the Association shall have been recorded in the office of the Multnomah County Clerk, or unless legal proceedings shall have been instituted to enforce compliance or completion.
+
+## ARTICLE VIII — RESERVATION/GRANT OF EASEMENTS
+
+**SECTION 1.** Declarant hereby grants to the City and also reserves to itself, its successors and assigns, perpetual easements under, over and across the portions of the Property designated on the Plat as utility easements for the purpose of erecting, constructing, maintaining and operating sewers and drainage systems, and poles, pipes, wires, cables, guys, anchors and conduits for lighting, heating, power, telephone and any other method of conducting and performing any public or quasi-public utility service or function beneath, upon, or above the surface of such portions of the Property. Declarant reserves the right, for itself and its successors and assigns, to cut and/or trim any tree or other growth on such portions of the Property which may interfere with or menace the construction, maintenance or operation of such utilities.
+
+**SECTION 2. EXTENT OF OWNERS' RIGHTS.** The rights and easements of enjoyment in the Common Area created hereby shall be subject to the following and all other provisions of this Declaration:
+
+A. **Association's and Owners' Easements.** Declarant grants to the Association for the benefit of the Association and all Owners of Lots within the Property the following easements over, under and upon the Common Area:
+
+B. An easement for installation and maintenance of power, gas, electric, water and other utility and communication lines and services installed by Declarant or with the approval of the Board and any such easement shown on any plat of the Property.
+
+C. An easement for construction, maintenance, repair and use of the Building Structure and Common Area and any common facilities thereon.
+
+D. An easement for the purpose of making repairs to any existing structures on the Common Area or to any Building Structures.
+
+**SECTION 3. PUBLIC ACCESS TO PUBLIC UTILITY EASEMENTS.** Declarant hereby grants to City and to any other public agency or municipal authority having jurisdiction over the Property the right to construct, replace or enlarge, and maintain public facilities along public easements. The City and/or other public agency or municipal authority will not be in any way responsible for replacing the landscaping, fencing or other structures, shrubs or trees that may exist or be placed within the public easements. The City and/or any public agency or municipal authority is required to give adequate notice before such activities are commenced and shall limit activities to that necessary to achieve the purpose of constructing, replacing or enlarging, and maintaining the public facilities.
+
+**SECTION 4. PRIVATE OPEN SPACE TRACTS.** The Association shall be responsible for maintenance of all private storm water quality facilities and for a long term maintenance plan for wetlands and buffer zones in Tract A pursuant to the maintenance plan for the wetland areas as set forth in Exhibit A attached hereto. The City shall have the right to enforce the maintenance obligations set forth in this Article at the expense of the Association and/or Owners. Enhancement of the Private Open Space Tracts through removal of invasive specifies shall be included as part of the long term maintenance plan for wetlands.
+
+## ARTICLE IX — MAINTENANCE OBLIGATIONS OF OWNER
+
+**SECTION 1. LOTS.** It is the intent of these restrictions that Lots, including vacant Lots, be maintained in a reasonably presentable condition that does not detract from the aesthetic value of SummitRigde Townhomes Property. Therefore, the Association shall have the right at all times to enter upon any Lot after reasonable notice to the Owner, to remove debris, weeds or other waste material and to trim, cut back, remove if damaged or dead, cultivate and/or maintain planting beds, ground cover, hedges, trees, shrubs, plants or lawns, and to charge the expense thereof to the Owner as an assessment. The Association shall have the same rights with respect to such assessment as set forth herein for annual and special assessments.
+
+**SECTION 2. OWNER'S OBLIGATION TO MAINTAIN PLANTING.** Any landscaping to be undertaken by a Homeowner on the individual lot is subject to the approval of the Summit Ridge Homeowners Association. Street trees are a requirement of the City of Lake Oswego and an Owner must have approval of the Summit Ridge Homeowners Association and the City of Lake Oswego prior to any movement or replacement of said trees. Private Tract A is intended to be maintained in its natural condition and there shall be no changes in this Tract A by an individual Homeowner. Tracts A and B are to be maintained as per the original landscaping plan as Private tracts and subject to the maintenance plan attached as Exhibit A to this document. Where the Homeowners Association has permitted a Homeowner to plant a portion of the Common Properties, exclusive of Tracts A and B, in accordance with a landscaping plan submitted prior to the work being done, the homeowner shall thenceforth be obligated to maintain at their own expense such planting. Failure of the Owner to maintain the landscaping of such portion of the Common Properties shall give the Association a right, upon reasonable notice, to the Owner to maintain such area of the Common Properties and to charge the expense thereof to the Owner as an assessment to be collected in the manner provided herein.
+
+## ARTICLE X — ERECTION OF SIGNS OR STRUCTURES BY DECLARANT
+
+Nothing contained in this Declaration shall be construed to prevent the erection or maintenance by Declarant or its duly authorized agent of structures or signs for the conduct of its business in connection with or upon the Property while the same or any part thereof is owned by Declarant.
+
+## ARTICLE XI — GENERAL PROVISIONS
+
+**SECTION 1. DURATION.** The covenants and restrictions of this Declaration shall run with and bind the land comprising the Property and shall inure to the benefit of and be enforceable by the Association or the Owner of any Lot, their respective legal representatives, heirs, successors and assigns for a term of twenty years from the date this Declaration is recorded. After such initial term, such covenants and restrictions shall be automatically extended in perpetuity for successive periods of ten years unless an instrument signed by the then owners of two-thirds of the Lots has been recorded agreeing to change said covenants and restrictions in whole or in part. The covenants and restrictions of this Declaration may be amended during the first twenty year period by an instrument signed by not less than 75% of the Owners of the Lots and thereafter by an instrument signed by not less than 66-2/3% of such Owners. Any amendment must be properly recorded. No provision of this Declaration pertaining to the Private Open Space Tracts may be amended or revoked without the written consent of the City.
+
+### SECTION 2. ENFORCEMENT.
+
+A. **Use of Common Area.** In the event any Owner shall violate any provision of this Declaration, the Bylaws, or any rules or regulations adopted by the Association governing the use of Lots or the Common Area, then the Association, acting through the Board, may notify the Owner in writing that the violations exist and that such Owner is responsible for them, and may, after affording the Owner reasonable notice and opportunity to be heard, do any or all of the following: (a) suspend the Owner's voting rights and right to use the Common Area for the period that the violations remain unabated, or for any period not to exceed 60 days for any infraction of its rules and regulations, (b) impose reasonable fines upon the Owner, in the manner and amount the Board deems appropriate in relation to the violation, which fines shall be paid into the Common Property Reserve Account, or (c) bring suit or action against such Owner to enforce this Declaration. Nothing in this Section, however, shall give the Association the right to deprive any Owner of access to and from such Owner's Lot.
+
+B. **Nonqualifying Improvements and Violation of General Protective Covenants.** In the event any Owner constructs or permits to be constructed on such Owner's Lot an Improvement contrary to the provisions of this Declaration, or causes or permits any Improvement, activity, condition or nuisance contrary to the provisions of this Declaration to remain uncorrected or unabated on such Owner's Lot, then the Association, acting through the Board, may notify the Owner in writing of any such specific violations of this Declaration and may require the Owner to remedy or abate the same in order to bring the Owner's Lot, the Improvements thereon and the Owner's use thereof into conformance with this Declaration. If the Owner is unable or unwilling to comply with the Association's specific directives for remedy or abatement, or the Owner and the Association cannot agree on a mutually acceptable solution within the framework and intent of this Declaration, after the Owner has been afforded notice and opportunity to be heard, within 60 days after such notice, then the Association, acting through the Board, shall have, in addition to any other rights or remedies provided in this Declaration, at law or in equity, the right to do any or all of the following:
+
+(1) **Fines.** Impose reasonable fines against such Owner in the manner and amount the Board deems appropriate in relation to the violation.
+
+(2) **Remove Cause of Violation.** Enter the offending Lot (which entry shall not subject the Association, the directors of the Association or any agent or representative thereof to liability for trespass, conversion or any other claim for damages) and remove the cause of such violation, or alter, repair or change the item which is in violation of the Declaration in such a manner as to make it conform thereto, in which case the Association may assess such Owner for the entire cost of the work done, which amount shall be payable to the Common Property Reserve Account, provided that no items of construction shall be altered or demolished in the absence of judicial proceedings. Unless an emergency situation exists, the Board shall give the violating owner ten (10) days written notice of its intent to exercise self-help. All costs of self-help, including reasonable attorney's fees actually incurred, shall be assessed against the Violating Owner and shall be collected as provided for herein for the collection of assessments.
+
+(3) **Suit or Action.** Bring suit or action against the Owner on behalf of the Association and other Owners to enforce this Declaration.
+
+C. **Nonexclusiveness and Accumulation of Remedies.** An election by the Association to pursue any remedy provided for violation of this Declaration shall not prevent concurrent or subsequent exercise of any other remedy permitted hereunder. The remedies provided in this Declaration are not exclusive, but shall be in addition to all other remedies, including actions for damages and suits for injunctions and specific performance, available under applicable law to the Association. In addition, any aggrieved Owner may bring an action against another Owner or the Association to recover damages or to enjoin, abate, or remedy any violation of this Declaration by appropriate legal proceedings. In the event the Association shall bring any suit or action to enforce this Declaration, or to collect any money due hereunder or to foreclose a lien, the Owner-defendant shall pay to the Association all costs and expenses incurred by the Association in connection with such suit or action, including a foreclosure title report, and the prevailing party in such suit or action shall recover such amount as the court may determine to be reasonable as attorneys' fees at trial and upon any appeal or petition for review thereof.
+
+**SECTION 3. EFFECT OF MUNICIPAL ORDINANCES.** Police, fire and other local public safety ordinances of any municipal corporation having jurisdiction over any portion of the Property shall govern where more restrictive than these covenants and restrictions.
+
+**SECTION 4. REGULATORY AMENDMENTS.** Notwithstanding the provisions of Section 10.2, until the turnover meeting described in Section 3.6, Declarant shall have the right to amend this Declaration or the Bylaws in order to comply with the requirements of any applicable statute, ordinance, regulation or guideline of the Federal Housing Administration, the Veterans Administration, the Farmers Home Administration of the United States, the Federal National Mortgage Association, the Government National Mortgage Association, the Federal Home Loan Mortgage Corporation, any department, bureau, board, commission or agency of the United States or the State of Oregon, or any corporation wholly owned, directly or indirectly, by the United States or the State of Oregon which insures, guarantees or provides financing for a planned community or lots in a planned community.
+
+**SECTION 5. NOTICES.** Any notices permitted or required to be delivered as provided in this Declaration shall be in writing and may be delivered either personally or by mail. If delivery is made by mail, it shall be deemed to have been delivered 72 hours after a copy of the same has been deposited in the United States mail, postage prepaid, addressed to any person at the address given by such person to the Association for the purpose of service of such notice, or to the residence of such person if no address has been given to the Association. Such address may be changed from time to time by notice in writing to the Association.
+
+**SECTION 6. JOINT OWNERS.** In any case in which two or more persons share the ownership of any Lot, regardless of the form of ownership, the responsibility of such persons to comply with this Declaration shall be a joint and several responsibility and the act or consent of any one or more of such persons shall constitute the act or consent of the entire ownership interest; provided, however, that in the event such persons disagree among themselves as to the matter in which any vote or right of consent held by them shall be exercised with respect to a pending matter, any such person may deliver written notice of such disagreement to the Association, and the vote or right of consent involved shall then be disregarded completely in determining the proportion of votes or consents given with respect to such matter.
+
+**SECTION 7. LESSEES AND OTHER INVITEES.** Lessees, invitees, contractors, family members and other persons entering the Property under rights derived from an Owner shall comply with all of the provisions of this Declaration restricting or regulating the Owner's use, improvement or enjoyment of such Owner's Lot and other areas within the Property. The Owner shall be responsible for obtaining such compliance and shall be liable for any failure of compliance by such persons in the same manner and to the same extent as if the failure had been committed by the Owner.
+
+**SECTION 8. RESTRICTIONS CONSTRUED TOGETHER.** All of the provisions hereof shall be liberally construed together to promote and effectuate the general plan and scheme of the Property.
+
+**SECTION 9. RESTRICTIONS SEVERABLE.** Each of the provisions hereof shall be deemed independent and severable, and the invalidity or partial invalidity of any provision or portion thereof shall not affect the validity or enforceability of any other provision.
+
+**SECTION 10. SINGULAR INCLUDES PLURAL.** Unless the context requires a contrary construction, the singular shall include the plural and the plural the singular; and the masculine, feminine or neuter shall each include the masculine, feminine and neuter.
+
+**SECTION 11. CAPTIONS.** All captions and titles used in this Declaration are intended solely for convenience of reference and shall not affect that which is set forth in any of the provisions hereof.
+
+## ARTICLE XII — RIGHTS AND OBLIGATIONS OF THE ASSOCIATION
+
+**SECTION 1. COMMON PROPERTIES.** The Association, subject to the rights and obligations of the owners set forth in this Declaration, shall be responsible for the exclusive management and control of the Common Properties and all improvements therein, and shall keep the Common Properties in good, clean, attractive, and sanitary condition, order, and repair, pursuant to the terms and conditions of this Declaration, and subject to the requirement that Tract A shall be maintained in its natural condition.
+
+**SECTION 2. SERVICES.** The Association may obtain and pay for the services of any person or entity to manage its affairs or any part thereof, to the extent it deems advisable, as well as such other personnel as the Association shall determine to be necessary or desirable for the proper operation of the Common Properties, whether such personnel are furnished or employed directly by the Association or by any person or entity with whom or with which it contracts. The Association may obtain and pay for legal and accounting services necessary or desirable in connection with the operation of the Common Properties or the enforcement of this Declaration. The Association may, but shall not be required to, arrange as an Association expense with third parties to furnish trash collection and other common services to each Lot.
+
+**SECTION 3. PERSONAL PROPERTY AND REAL PROPERTY FOR COMMON USE.** The Association, through action of the Board, may acquire, hold, and dispose of tangible and intangible personal property and real property. The Board, acting on behalf of the Association, shall accept any of the Common Properties conveyed to it by the Declarant.
+
+**SECTION 4. RIGHT OF ENTRY.** The Association shall have the right, in addition to and not in limitation of all rights it may have, to enter into Lots for emergency, security, or safety purposes, which right may be exercised by the Board or officers, agents, employees, or managers of the Association and all firefighters, ambulance personnel, and similar emergency personnel in the performance of their respective duties. Except in an emergency situation, entry shall only be made during reasonable hours and after reasonable notice to the owner or occupant of the Lot in question.
+
+## ARTICLE XIII — MORTGAGEE RIGHTS
+
+The following provisions are for the benefit of holders, insurers, or guarantors of first mortgages on the Lots. To the extent applicable, necessary, or proper, the provisions of this Article XIII apply to both this Declaration and to the Bylaws of the Association. Where indicated, these provisions benefit only Eligible Holders, as hereinafter defined.
+
+**SECTION 1. NOTICES OF ACTION.** An institutional holder, insurer, or guarantor of a first mortgage encumbering a Lot who provides written request for notices to the Association (an "Eligible Holder"), such request to state the name and address of the Eligible Holder and the applicable Lot, will be entitled to timely written notice of:
+
+A. Any proposed termination of the Association;
+
+B. Any condemnation loss or any casualty loss which affects a material portion of the Common Properties or which affects any Lot on which there is a first mortgage held, insured, or guaranteed by such Eligible Holder;
+
+C. Any delinquency in the payment of assessments or charges owed by an Owner of a Lot subject to the mortgage of such Eligible Holder, where such delinquency has continued for a period of sixty (60) days;
+
+D. Any lapse, cancellation, or material modification of any insurance policy or fidelity bond maintained by the Association; or
+
+E. Any proposed action which would require the consent of Eligible Holders, as required in Section 2 and 3 of this Article.
+
+**SECTION 2. OTHER PROVISIONS FOR FIRST LIEN HOLDERS.** To the extent possible under Oregon law:
+
+A. Any restoration or repair of the Common Properties after a partial condemnation or damage due to an insurable hazard shall be substantially in accordance with this Declaration and the original plans and specifications unless approval of alternative action is obtained from Eligible Holders of first mortgages on fifty-one percent (51%) of Lots subject to mortgages held by Eligible Holders.
+
+B. Any election to terminate the Association after substantial destruction or a substantial taking in condemnation must require the approval of the Eligible Holders of first mortgages on Lots to which at least fifty-one percent (51%) of the votes of Lots, subject to mortgages held by Eligible Holders, are allocated.
+
+**SECTION 3. AMENDMENTS TO DOCUMENTS.** The following provisions do not apply to amendments to the constituent documents or termination of the Association made as a result of destruction, damage, or condemnation pursuant to Section 2A and B in this Article.
+
+A. The prior written consent of the City, and the consent of at least seventy-five percent (75%) of the Class A votes and of the Declarant so long as it owns any land subject to this Declaration and the approval of the Eligible Holders of first mortgages on Lots to which at least seventy-five percent (75%) of the votes of Lots subject to a mortgage appertain, shall be required to terminate the Association.
+
+B. The consent of at least seventy-five percent (75%) of the Class A votes and of the Declarant so long as it owns any land subject to this Declaration and the approval of Eligible Holders of first mortgages on Lots to which at least fifty-one percent (51%) of the votes of Lots subject to a mortgage appertain, shall be required to amend materially any provisions of the Declaration, Bylaws, or Articles of Incorporation of the Association, or to add any material provisions thereto, which establish, provide for, govern, or regulate any of the following:
+
+(i) Voting;
+
+(ii) Assessments, assessment liens, or subordination of such liens;
+
+(iii) Reserves for maintenance, repair, and replacement of the Common Properties;
+
+(iv) Insurance or fidelity bonds;
+
+(v) Rights to use of the Common Properties;
+
+(vi) Responsibility for maintenance and repair of the Common Properties;
+
+(vii) Expansion or contraction of the Common Properties or the addition, annexation, or withdrawal of Common Properties to or from the Association;
+
+(viii) Boundaries of any Lot;
+
+(ix) Leasing of Lots;
+
+(x) Imposition of any right of first refusal or similar restriction of the right of any Owner to sell, transfer, or otherwise convey his or her Lot; or
+
+(xi) Any provisions included in the Declaration, Bylaws, or Articles of Incorporation which are for the express benefit of Eligible Holders.
+
+Furthermore, the prior written consent of the City shall be required in regard to the matters covered by Subsections 3.B(iii), (v), (vi) and (vii), as well as for any other amendment affecting the maintenance, repair, use, insurance, configuration or withdrawal of Tracts A and B.
+
+**SECTION 4. SPECIAL FHLMC PROVISION.** So long as required by the Federal Home Loan Mortgage Corporation, the following provisions apply in addition to and not in lieu of the foregoing three Sections of this Article. Unless two-thirds (2/3) of the Eligible Holders or Owners give their consent, the Association shall not:
+
+A. Abandon, partition, subdivide, sell, or transfer the Common Properties, directly or indirectly (the granting of easements for public utilities or for other public purposes consistent with the intended use of the Common Properties shall not be deemed a transfer);
+
+B. Change the method of determining the obligations, assessments, dues, or other charges which may be levied against an Owner;
+
+C. By act or omission change, waive, or abandon any scheme of regulations or enforcement thereof pertaining to the architectural design or the exterior appearance and maintenance of Lots and of the Common Properties; or
+
+D. Use hazard insurance proceeds for any Common Properties losses for any purpose other than the repair, replacement, or reconstruction of such Common Properties.
+
+The provisions of this Section 4 shall not be construed to reduce the percentage vote that must be obtained from mortgagees or Owners where a larger percentage vote is otherwise required for any of the actions contained in this Section.
+
+First mortgagees may, jointly or singly, pay taxes or other charges which are in default and which may or have become a such payments shall be entitled to immediate reimbursement from the Association.
+
+It is Declarant's intention that the Property qualify for the possible sale of mortgages encumbering Lots to the Federal National Mortgage Association and/or the Federal Home Loan Mortgage Corporation. The requirements contained in this Section are intended to give effect to that purpose. Should either the Federal Home Loan Mortgage Corporation or the Federal National Mortgage Association subsequently delete any of their respective requirements which necessitate the provisions of this Section or make any such requirements less stringent, this Section automatically shall be amended to reflect such changes.
+
+### Execution
+
+Executed as of the day and year first hereinabove set forth.
+
+DECLARANT:
+
+SUMMITRIDGE TOWNHOMES, LLC, an Oregon limited liability company
+
+By: D. Michael McKenna
+Name: D. MICHAEL McKENNA
+Title: Managing Member
+> [Handwritten signature: D. Michael McKenna]
+
+### Notarization
+
+State of OREGON  )
+                 ) ss.
+County of Clackamas )
+
+This instrument was acknowledged before me on the 14th day of December, 1999 by D. Michael McKenna as Managing Member of SummitRidge Townhomes, LLC, an Oregon limited liability company.
+
+> [Handwritten signature: Janice Louise Benn]
+> Notary Public for Oregon
+> My Commission Expires: 11/1/2002
+
+> [Stamped: OFFICIAL SEAL — JANICE L BENN — NOTARY PUBLIC-OREGON — COMMISSION NO. 317566 — MY COMMISSION EXPIRES NOVEMBER 1, 2002]
+
+Exhibits A: Wetlands Maintenance Plan
+
+## EXHIBIT A — Maintenance Plan for Summit Ridge Townhome Planned Unit Development Private Tracts And wetland Area — City of Lake Oswego, Oregon
+
+**December 7, 1999**
+
+### Introduction
+
+SummitRidge Townhomes LLC is developing a planned unit community of 21 attached single family homes along Summit Ridge Court. The site contains a designated wetland area consisting of two distinct small wetlands separated by a narrow buffer area (Tract A) and an open area with a storm water detention pond (Tract B). The wetland is defined on the landscaping plan on file with the City of Lake Oswego and the initial planting will be completed per that plan. It is required that the SummitRidge Homeowners Owners Association assumes responsibility for the maintenance of the wetlands and surrounding buffer areas. The landscape plan for SummitRidge Townhomes PUD provides a specific plan for planting in the buffer area and the Developer is required to complete that plan prior to obtaining final occupancy permits. It will be the Homeowners Association's requirement to maintain the landscape.
+
+### Initial Maintenance
+
+The initial maintenance period will include the first growing season and will require monthly weeding, spraying, tightening (if required) and repairing guys, pruning and resetting plant material to grade and position, and when necessary replacing dead material. The installation of designated planting in the wetlands buffer area and clearing of invasive plant material from the fringe area of the wetlands will be completed by the Developer. The initial planting and first year maintenance shall require irrigation as called for in the landscaping plan, however, the initial period of growth may require additional irrigation as the weather may dictate. The removal of any invasive plants will be completed by a licensed landscape contractor, using hand work and light equipment so as not to disturb, as much as possible, the existing plant material. The most significant invasive plants to be dealt with are Himalayan blackberry and English Ivy. The preferred control would be to remove the vines by hand and dig the roots as much as possible. Light applications of RODEO ® herbicide can be applied as required to control the blackberry using a combination of hand-held sprayer and wiper applications. Herbicide should be used sparingly and with care not to damage surrounding plant material. If the removal of invasive plants in an area over 10 square feet is necessary, the replanting of that area will be accomplished with natives species approved in the initial landscaping plan after submitting a revised landscaping plan to the City for approval.
+
+### Long Term Maintenance
+
+Long-term maintenance will be the responsibility of the Homeowners Association. Essentially, the long-term plan is to protect the wetlands, buffer areas and open space tracts from invasive plant material and maintain the wetlands in its natural condition. The buffer areas must be maintained as planted per the landscape plan for this subdivision except as modified by changes approved in writing by the City of Lake Oswego. The purpose of the buffer areas is to bridge the area between roads, sidewalks and lawn, and the wetlands itself. Control of invasive species, primarily the Himalayan blackberry and English Ivy, and the health and growth of the planted shrubs are the key ingredients of the maintenance plan for the buffer areas. Hand work and sparing use of herbicides as mentioned earlier will accomplish control of the invasive plant materials.
+
+Inspection of the buffer areas and fringe areas of the wetlands should be conducted semiannually and corrective remedial action taken within a reasonable time. Diseased or dead plant material in the buffer area will be replaced with identical material unless approval for a substitute plant material is obtained in advance from the City of Lake Oswego.
+
+## Provenance
+
+- Original file: `590 Summitridge CCR's.pdf`
+- Pages: 28
+- Converted: 2026-05-10
+- Converter: prepare-docs skill

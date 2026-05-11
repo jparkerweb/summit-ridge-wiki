@@ -1,93 +1,81 @@
-# Rentals
+# Rentals (Leasing)
 
-Rental of Living Units is governed by **CC&Rs Article V § 1.M**, added by the Second Amendment recorded **November 6, 2017** (Recording No. 2017-134175). See [Governing Documents](governing-documents.md) for the amendment record.
+Rental restrictions were added by the **Second Amendment to Declaration — 2B (Rental Restrictions) — recorded November 6, 2017 (No. 2017-134175)**. They introduce Article V § 1.M to the Declaration. (See [Governing Documents](governing-documents.md) for the 2A/2B naming convention used in this wiki.)
 
 ## Definition of "Rent"
 
-To grant a lease, right to use, or right to occupy a Living Unit to a person(s) other than the Owner for a specified or unspecified term in exchange for payment (money, property, goods, or services). **Excludes** joint ownership (joint tenancy, tenancy-in-common, etc.) and roommate-type agreements where the Owner continues to occupy the Living Unit (Source: CC&Rs Second Amendment Nov 2017 § 1.M(1)).
+To "**Rent**" means to grant a lease, right to use, or right to occupy a Living Unit to person(s) other than the Owner for a specified or unspecified term in exchange for **payment** (money, property, or other goods/services of value). "Rent" does **not** include (Source: 2nd Amendment 2B (Rentals) § M(1)):
 
-## Rental Cap and Approval
+- Joint ownership (joint tenancy, tenancy-in-common, other co-ownership).
+- **Roommate-type arrangements** where the Owner continues to occupy the Living Unit.
 
-- **Not more than 5 of the Living Units may be rented at any given time** (Source: § 1.M(2)(a)).
-- Before renting, the Owner must **notify the Board of intent to lease and obtain written Board approval** (Source: § 1.M(2)(a)).
-- Within **5 business days** of notification, the Board advises the Owner whether the proposed tenancy would exceed the cap and whether approval is granted (Source: § 1.M(2)(a)).
+## Cap and Board approval
 
-## Hardship Exemption
+- **No more than 5 Living Units may be rented at any given time** (Source: § M(2)(a)).
+- Before renting, the Owner must **notify the Board and obtain written approval**.
+- Within **5 business days** of notification the Board must advise whether the cap would be exceeded and whether approval is granted (Source: § M(2)(a)).
 
-If the 5-unit cap is already met, the Board may permit additional rental as a **hardship exemption**:
-- Board may consider **medical, employment, educational, or financial issues** affecting the Owner.
-- Hardship rentals may be allowed for a period **not to exceed 2 years per Living Unit per hardship**.
-- Determination is within the Board's discretion; the Board may adopt additional procedures.
-- Foreclosed units owned by a mortgagee may be rented during that ownership period.
-- If a proposed rental is denied because the cap is met, the Owner is placed on a **first-come, first-served waiting list** and notified when their unit may be rented.
+## Hardship exemption
 
-(Source: § 1.M(2)(b))
+If the cap is already reached, an Owner may rent **only if the Board determines a hardship exists** (Source: § M(2)(b)):
 
-## Time Limits After Approval
+- The Board may consider **medical, employment, educational, or financial issues** affecting the Owner.
+- Hardship rentals are allowed for **a period not to exceed 2 years per Living Unit per hardship**.
+- Hardship determinations are within the Board's discretion; the Board may adopt additional procedures.
+- If a Living Unit is owned by a **mortgagee following foreclosure (or deed-in-lieu)**, the Living Unit may be rented during such ownership.
+- If a proposed rental is prohibited because the cap is reached, the Board places the Owner on a **first-come, first-served waiting list** and notifies the Owner when their Living Unit may be rented.
 
-- Once notified the Living Unit may be rented, the Owner has **60 days** to enter into a lease. After that, a new request must be filed (Source: § 1.M(2)(c)).
-- An approved Owner may continue to rent through expiration/termination of the tenancy. **However, if the unit becomes owner-occupied or vacant for any period exceeding 60 days, the Owner may no longer rent the unit and must reapply** (Source: § 1.M(2)(d)).
+## Timing after approval
 
-## Lease Requirements
+Once notified that the unit may be rented, the Owner has **60 days from the date of such notice** to enter into a lease. If the Owner doesn't enter into a lease within 60 days, they must **reapply** (Source: § M(2)(c)).
 
-- All leases must be **in writing** (Source: § 1.M(3)(a)).
-- Leases must **prohibit sublets** (Source: § 1.M(3)(a)).
-- Leases must provide that their terms are subject in all respects to the Declaration, Bylaws, and Rules and Regulations; tenant non-compliance is a default under the lease (Source: § 1.M(3)(a)).
-- Leases must be for an initial term of **not less than 6 months**, with no less than 30-day subsequent terms (Source: § 1.M(3)(b)).
-- The unit may **not** be rented for **transient or hotel purposes** (Source: § 1.M(3)(b)).
-- The rental must be for the **entire Living Unit**, not merely parts (Source: § 1.M(3)(c)).
+Once renting is permitted, the Owner may continue to rent on expiration/termination of a tenancy. But if the Living Unit becomes **owner-occupied or vacant for any period exceeding 60 days**, the Owner **may no longer rent** without reapplying (Source: § M(2)(d)).
 
-## Insurance
+## Lease / rental agreement requirements
 
-The Owner who rents must obtain and maintain a liability insurance policy:
-- Covers liability arising from tenant's occupancy or use of the unit and Common Area
-- Limits as set by the Board from time to time
-- **Names the Association as an additional insured party**
+All leases and rental agreements must (Source: § M(3)):
 
-(Source: § 1.M(3)(d))
+- Be **in writing**.
+- **Prohibit sublets**.
+- Provide that all terms are subject to the Declaration, Bylaws, and rules; failure of the tenant to comply is a default under the lease.
+- **Not be for transient or hotel purposes**.
+- Have an **initial term of not less than 6 months**, with subsequent terms of no less than **30 days**.
+- Be for the **entire Living Unit** and not merely parts of the unit.
+- Have the **Owner obtain and maintain liability insurance** covering tenant occupancy or use of the unit and common area, with **limits as set by the Board** and **naming the Association as an additional insured** (Source: § M(3)(d)).
+- The Owner must **promptly notify the Association in writing of all tenants and occupants** and provide a **complete copy of the lease or rental agreement**. The Owner must keep the Association informed of an address and telephone number where they can be reached (Source: § M(3)(f)).
 
-## Notification to Association
+## Administrative fee for noncompliant rentals
 
-Owners renting their Living Units must promptly notify the Association in writing of:
-- All tenants and occupants
-- A complete copy of the lease or rental agreement
-- The address and telephone number where the Owner can be reached
-
-(Source: § 1.M(3)(f))
-
-## Failure to Follow Procedures
-
-If an Owner fails to follow the rental procedures, the Board may charge an **administrative fee** (amount set by the Board) to reimburse the Association for time, costs, and expenses (including management time) incurred. The fee, if unpaid, becomes an **assessment against the Living Unit**. Charging this fee does not bar or limit other remedies (Source: § 1.M(3)(e)).
+If the Owner fails to follow these procedures, the Board may charge an **administrative fee** (Board-set) to reimburse the Association for time/costs/expenses (including management-company time) of obtaining tenant info and providing Association documents. Charging the fee does not bar Association remedies for the underlying violations. **Unpaid administrative fees become assessments against the Living Unit** (Source: § M(3)(e)).
 
 ## Enforcement
 
-In addition to other remedies at law or equity, the Association may impose **fines per a schedule adopted by the Board**, subject to notice and hearing per the Oregon Planned Community Act, Declaration, Bylaws, and Rules. Unpaid fines become assessments against the Living Unit (Source: § 1.M(4)).
+In addition to other remedies at law or equity, the Association may **impose fines per a Board-adopted schedule**, with notice and hearing as provided in the Act/Declaration/Bylaws/Rules. **Unpaid fines become assessments** (Source: § M(4)).
 
-## Grandfather Leases (Pre-Existing Leases)
+## "Grandfather Leases" (pre-existing leases)
 
-For a Living Unit under an existing rental agreement of at least **30 days** as of the effective date of the November 2017 amendment:
-- (a) The Owner has a **"Grandfather Lease"** and may continue to rent or lease the unit to the existing tenant.
-- (b) If a Grandfather Lease terminates, the Owner must apply to the Board for approval to rent thereafter, **unless the Owner rents or leases within 60 days** of termination of the Grandfather Lease.
-- (c) The right under this section **terminates when the Owner no longer owns the unit**. Successors-in-interest (by sale, foreclosure, inheritance, assignment, or any means) acquire **no rights** under this section.
-- (d) Nothing in the article imposes ORS Chapter 90 landlord duties on the Association.
+For a Living Unit under an existing rental agreement as of the effective date (11/06/2017), the Owner may continue such lease or its renewals without compliance with these new restrictions, provided (Source: § M(5)):
 
-(Source: § 1.M(5))
+- The Owner was, as of the effective date, renting/leasing the unit for a term of **at least 30 days** — this is a "**Grandfather Lease**" — and may continue renting to the existing tenant.
+- If the Grandfather Lease is terminated, the Owner must apply for Board approval before re-renting **unless** they rent/lease within **60 days** of termination.
+- The right under this section **terminates when the Owner no longer owns the unit** — successors in interest (sale, foreclosure, inheritance, assignment, etc.) have **no rights** under this section.
+- Nothing in this article may be construed to impose on the Association the duties, responsibilities, or liabilities of a landlord under **ORS Chapter 90** or subject the Association to any of those requirements (Source: § M(5)(d)).
 
-## Other Rental Rules (from Handbook)
+## Owner remains liable
 
-In the event a unit becomes a rental:
-- Homeowners are still responsible for actions of renters and their guests.
-- Homeowners are still responsible for financial obligations to the HOA.
-- Homeowners must provide the managing agent with **emergency contact information for the renter**.
-- Renters must abide by all governing documents and rules and regulations.
+(Source: Handbook — Rentals.)
 
-(Source: Rules and Regulations § Rentals)
+- Homeowners remain **responsible for the actions of renters and their guests**.
+- Homeowners remain **responsible for financial obligations to HOA**.
+- Homeowners must **provide to the managing agent the emergency contact information for the renter**.
+- **Renter(s) must abide by all governing documents** and the rules and regulations set forth for the Summitridge Townhomes HOA.
 
-## Signage
+## "For Rent" signage prohibited
 
-**"For Rent" signage is not to be placed within the community.** Owners must advertise rentals by other methods (Source: Rules and Regulations § Signage). See [Signage](signage.md).
+**"For Rent" signage is not to be placed within the community.** Homeowners must advertise property "For Rent" by other methods (Source: Handbook — Signage). See [Signage](signage.md).
 
 ## Sources
 
-- `source/2025-10-11 CC&Rs.md` — Second Amendment to Declaration (recorded Nov 6, 2017), Article V § 1.M
-- `source/2025-10-11 Rules and Regulations.md` — Rentals section; Signage section
+- `source/590 2nd Amend to Dec - Rent Restrict.md`
+- `source/2026-0304-SRTHHOA-Rules and Regulations.md` — Rentals; Signage
+- `source/590 Welcome Handbook and Resolutions.md` — Rentals

@@ -2,83 +2,59 @@
 
 ## Composition
 
-The Board consists of **three Directors** (Source: Bylaws Article V § 2).
+- The Board is comprised of **three Directors** (Source: Bylaws Article V § 2).
+- After the Turnover Meeting, all Directors must be Members (Source: Bylaws Article V § 2).
+- Each Director has one vote; voting for Directors is **not cumulative** (Source: Bylaws Article V § 2, § 8).
 
-After the Turnover Meeting, all Directors must be Members. Voting for Directors is **not cumulative** (Source: Bylaws Article V § 2).
+## Election and Terms
 
-## Terms
+- After turnover, Directors are elected by a majority vote of Members at the annual meeting or a special meeting called for that purpose (Source: Bylaws Article V § 3).
+- **Staggered initial terms** from the first annual meeting: one Director elected for 1 year, one for 2 years, one for 3 years. Thereafter all Directors serve **3-year** terms. Any Director may serve more than one term (Source: Bylaws Article V § 4).
+- Vacancies caused by death or resignation are filled by majority vote of remaining Directors, even if fewer than a quorum; the appointee serves the remainder of the replaced Director's term (Source: Bylaws Article V § 6).
+- Removal: any non-Declarant-appointed Director may be removed, with or without cause, by affirmative vote of Members present and entitled to vote at a meeting (with quorum) where removal was included in the notice (Source: Bylaws Article V § 10).
 
-- Directors elected at the Turnover Meeting served until the first annual meeting (Source: Bylaws Article V § 4.1).
-- At the first annual meeting, three Directors were elected for staggered terms: one for 1 year, one for 2 years, one for 3 years (Source: Bylaws Article V § 4.2).
-- All other Directors serve **three-year terms**. A Director may serve more than one term (Source: Bylaws Article V § 4.3).
+## Meetings of the Board
 
-## Resignation, Vacancies, Removal
-
-- **Resignation**: any Director may resign by written notice to the Secretary; takes effect on receipt unless a later date is specified (Source: Bylaws Article V § 5).
-- **Vacancies**: filled by majority vote of remaining Directors (even if less than a quorum); replacement serves the remainder of the original term (Source: Bylaws Article V § 6).
-- **Removal**: any non-Declarant-appointed Director may be removed, with or without cause, by affirmative vote of Members present and entitled to vote at a quorate meeting. Removal must be included in the meeting notice. Members elect a replacement to serve the remainder of the term (Source: Bylaws Article V § 10).
-
-## Board Meetings
-
-- The Board must meet at least **annually**, within **30 days after each annual meeting** of Members (Source: Bylaws Article V § 7.3).
-- Each annual Board meeting: adopt budget, determine the regular assessment, hear the Treasurer's financial report (Source: Bylaws Article V § 7.3).
-- All Board meetings are **open to all Members** (Source: Bylaws Article V § 7.2).
-- Meetings are held within **Multnomah or Clackamas County, Oregon** (Source: Bylaws Article V § 7.5).
-
-### Notice
-- Notice to Members: **mailed not less than 10 days before**, OR posted on the Property at least 3 days prior, OR by another reasonable method (Source: Bylaws Article V § 7.2).
-- Notice to Directors: written notice **at least 10 but not more than 30 days** before each Board meeting, stating purpose, time, and place. Notice may be waived. A Director present may not object to adequacy/timeliness (Source: Bylaws Article V § 7.6).
-- **Emergency meetings** may be held without notice if the reason is stated in the minutes. **Only emergency meetings** may be conducted by telephonic communication (Source: Bylaws Article V § 7.2).
-- Special Board meetings may be called by the President or two Directors; the Secretary must schedule them within 30 days of receipt of a written request from two or more Directors (Source: Bylaws Article V § 7.4).
-
-### Quorum and Voting
-- Quorum: a **majority of Directors present in person** (Source: Bylaws Article V § 9).
-- Voting: each Director has one vote; with a quorum, vote of Directors holding **more than 50%** of total votes binds the Association (Source: Bylaws Article V § 8).
-- The Board may adjourn a meeting even without a quorum (Source: Bylaws Article V § 9).
+- **Initial meeting:** within 90 days after Articles of Incorporation were filed (Source: Bylaws Article V § 7.1).
+- **Open to all Members.** Mailed notice (or posting on Property ≥3 days prior, or other reasonable method) **not less than 10 days** before regular meetings. Emergency meetings may be held without notice if the reason is recorded in minutes; only emergency meetings may be telephonic (Source: Bylaws Article V § 7.2).
+- **Annual Board meeting:** within 30 days after each annual Members' meeting. The Board adopts the budget and sets the regular assessment for the next year; the Treasurer reports on finances (Source: Bylaws Article V § 7.3).
+- **Special meetings:** called by the President or by two Directors; scheduled within 30 days of written request (Source: Bylaws Article V § 7.4).
+- **Quorum:** a majority of Directors in person (Source: Bylaws Article V § 9).
+- **Voting threshold:** Directors holding more than 50% of votes (assuming quorum) — a greater percentage may be required by law/Declaration (Source: Bylaws Article V § 8).
+- **Director notice:** at least 10 but not more than 30 days prior, sent to each Director (Source: Bylaws Article V § 7.6).
 
 ## Officers
 
-The three Officers — President, Treasurer, Secretary — are elected by the Board. **The same person may not concurrently hold more than one office.** The Board may designate additional Officers (Source: Bylaws Article VI § 1).
+The Officers are **President, Treasurer, and Secretary**, each elected annually by the Board. The same person may not concurrently hold more than one office. The Board may designate additional Officers (Source: Bylaws Article VI § 1, § 2).
 
-- **Election**: annually by the Board; serve at the pleasure of the Board until successors are elected and qualified. Vacancies filled by Board election at a special meeting (Source: Bylaws Article VI § 2).
-- **Removal**: at any time, with or without cause, by the Board (Source: Bylaws Article VI § 3).
-- **Compensation**: none beyond out-of-pocket reimbursements unless authorized by the Board. Loans to Directors or Officers are **prohibited** (Source: Bylaws Article VI § 4; Article VII; Article VIII).
+- **President** — must be a Director; chief executive officer; presides at Board meetings (Source: Bylaws Article VI § 5).
+- **Secretary** — not required to be a Director or Member; keeps minutes and records, gives notices (Source: Bylaws Article VI § 6).
+- **Treasurer** — not required to be a Director or Member; responsible for funds, books, deposits, and financial reporting (Source: Bylaws Article VI § 7).
+- **Compensation:** none for President, Treasurer, or Secretary as Officers, except reimbursement of out-of-pocket expenses, unless the Board authorizes otherwise (Source: Bylaws Article VI § 4).
+- **Removal:** any Officer may be removed by the Board at any time, with or without cause (Source: Bylaws Article VI § 3).
 
-### President
-Must be a Director. Chief executive officer; presides at Board meetings (Source: Bylaws Article VI § 5).
+## Liability and Loans
 
-### Secretary
-Need not be a Director or Member. Keeps minutes and records; gives required notices (Source: Bylaws Article VI § 6).
+- Neither the Association nor any officer or Board member is liable to an Owner for damage from action or inaction taken in **good faith** based on actual knowledge (Source: Declaration Article II § 3.B).
+- **No loans** may be made by the Association to its Directors or Officers. Directors who vote for such a loan, and Officers participating in it, are jointly and severally liable for repayment (Source: Bylaws Article VIII § 1).
+- The Association may purchase Director and Officer ("D&O") liability insurance at the Board's discretion (Source: Bylaws Article XII § 2).
 
-### Treasurer
-Need not be a Director or Member. Responsible for funds, financial records, deposits and disbursements (Source: Bylaws Article VI § 7).
+## Known recent signers
 
-## Powers of the Board
+- 2025 Restated Declaration: William R. Marcucci (Chairperson), Gary White (Secretary).
+- 2018 Special Repair Assessment Resolution: Juli Hall (Secretary); President signature illegible.
+- 2017 Collection Resolution / 2nd Amendment (Collection) / 2nd Amendment (Rentals): Julie Bonnin (President), Suzanne Wizer (Secretary).
+- 2016 First Amendment and Maintenance Responsibility Resolution: Claudia Seelig (President), Suzanne Wizer (Secretary).
+- 2002 Bylaws certification: Pamela McKenna (Secretary).
 
-The Board has all power, duty, and authority granted by the Declaration, including the power to enforce its provisions and to acquire and pay for goods and services (Source: Bylaws Article V § 1; CC&Rs Article II § 3.A).
-
-The Board may also:
-- Adopt rules and regulations governing use of the Common Area and personal conduct, with notice as provided in the Bylaws (Source: Bylaws Article XIV).
-- Authorize officers/agents to enter contracts and execute instruments (Source: Bylaws Article IX § 1).
-- Establish bank accounts and depositories (Source: Bylaws Article IX § 3).
-- Accept gifts, bequests, devises (Source: Bylaws Article IX § 4).
-- Appoint a CPA auditor; arrange for management services (Source: Bylaws Article XI § 2; CC&Rs Article XII § 2).
-
-## Liability
-
-Neither the Association nor any officer or Board member is liable to any Owner for any damage, loss, or prejudice on account of any action or failure to act, **provided** the officer or Board member acted in good faith based on actual knowledge possessed (Source: CC&Rs Article II § 3.B).
-
-## Historical Officers (from documents)
-
-- **Pamela McKenna** — Secretary, Bylaws certification (May 22, 2002)
-- **Claudia Seelig** — President; signed Maintenance Responsibility Resolution (Nov 1, 2016) and First Amendment to CC&Rs (2016)
-- **Suzanne Wizer** — Secretary; signed Maintenance Responsibility Resolution (Nov 1, 2016), First Amendment (2016), both Second Amendments (2017), and Collection Resolution (Oct 20, 2017)
-- **Julie Bonnin** — President; signed both Second Amendments (2017)
-
-(Source: CC&Rs §§ 3, 4, 5; Rules and Regulations Board Resolutions; Bylaws Certification.)
+(Sources: signatures and notarizations in each respective document.)
 
 ## Sources
 
-- `source/2025-10-11 Bylaws.md` — Articles V, VI, VII, VIII, IX, XI, XIV
-- `source/2025-10-11 CC&Rs.md` — Article II § 3
-- `source/2025-10-11 Rules and Regulations.md` — Board Resolution signatures
+- `source/590 Summitridge Bylaws.md` — Articles V, VI, VIII, XII
+- `source/2025.07.07_summitridge townhomes_amended and restated declaration.md` — Article II § 3
+- `source/590 1st Amend to Dec - Special Assessment Resolution.md`
+- `source/590 2nd Amend to Dec - Collection.md`
+- `source/590 2nd Amend to Dec - Rent Restrict.md`
+- `source/590 Maintenance Responsibility Resolution 11.01.2016.md`
+- `source/590 Special Repair Assessment Resolution 05.24.18.md`

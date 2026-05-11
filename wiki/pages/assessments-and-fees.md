@@ -1,74 +1,79 @@
 # Assessments and Fees
 
-Each Lot is subject to assessments which are both (a) a continuing lien on the Lot and (b) a personal obligation of the Owner at the time the assessment falls due. Assessments fund Common Property maintenance, Association operations, and obligations under the Parking Agreement (Source: CC&Rs Article IV §§ 1–2).
+Every Owner is, by acceptance of deed or contract, deemed to covenant to pay (i) annual assessments and (ii) special assessments. Assessments are a continuing lien on the Lot and a personal obligation of the Owner at the time the assessment fell due (Source: Declaration Article IV § 1).
 
 ## Annual Assessment
 
-- **Budget cycle**: The Board prepares a budget covering estimated annual operating costs (which may include a reserve per a separately prepared capital budget) and levies the assessment for the following year. The budget and assessment must be **delivered to each Owner at least 30 days before the end of the current calendar year** (Source: CC&Rs Article IV § 3).
-- **Default approval**: The budget and assessment become effective unless **disapproved at a meeting of the Owners by a majority of the Members entitled to vote** (Source: CC&Rs Article IV § 3).
-- **Failure to set budget**: If Members disapprove or the Board fails to determine the budget for a year, the prior year's budget continues for the succeeding year (Source: CC&Rs Article IV § 3).
-- **Due date**: Annual assessments after the first year are due and payable on **January 1** of each calendar year (Source: CC&Rs Article IV § 6; Collection Resolution § 1.5).
-- **Notice of amount**: At least 30 days before the due date, the Board fixes the amount of the annual assessment against each Lot and gives Owners written notice (Source: CC&Rs Article IV § 7).
-- **Status certificates**: Upon demand, the Association must furnish any Owner liable for an assessment a written certificate indicating whether assessments on that Lot have been paid (Source: CC&Rs Article IV § 7).
+- **Process:** The Board prepares a budget covering estimated operating costs (and may include reserves from a separately prepared capital budget) each calendar year. The Board delivers the budget and the per-Lot assessment to each owner **at least 30 days prior to the end of the current calendar year**. The budget takes effect **unless disapproved at an Owners' meeting by a majority of Members entitled to vote**. If Members disapprove, or the Board fails to determine a budget, the prior year's budget continues (Source: Declaration Article IV § 3).
+- **Due date:** Annual assessments after the first year are due and payable **on the first day of the calendar year** (i.e., January 1) (Source: Declaration Article IV § 6; Collection Resolution § 1.5(b)).
+- **Notice:** at least 30 days in advance of the due date the Board fixes the amount and gives Owners written notice. Upon demand, the Association will furnish a certificate showing payment status (Source: Declaration Article IV § 7).
+
+### Recent annual per-unit-per-month assessments
+
+| Year | Monthly per unit | Source |
+|---|---|---|
+| 2021 | $275.99 | 2022 Budget comparison |
+| 2022 | $294.00 | 2022 Budget; 2023 Budget |
+| 2023 | $333.00 | 2023 Budget |
+| 2024 | $364.00 | 2024 Budget |
+| 2025 | $368.00 | 2025 Budget |
+| 2026 | $390.41 | 2026 Budget |
+
+Plus an ongoing **Special Repair Assessment** monthly component (see below) — `$5,473`/year total association-wide (≈ `$21.72`/unit/month) in 2025 and 2026 budgets (Source: 2025 Budget acct 6930; 2026 Budget acct 6930).
+
+See [Financial Records and Budgets](financial-records.md) for full budget tables.
 
 ## Special Assessments
 
-*(As amended by First Amendment, recorded September 2, 2016.)*
+Upon vote of the Members, the Association may levy a special assessment in addition to annual assessments **for the purpose of defraying in whole or in part the cost of construction or reconstruction or expected repair or replacement of any component for which the Association is responsible under this Declaration, including necessary fixtures and personal property** (Source: 2025 Declaration Article IV § 4 — broadened from the 1999 original "capital improvement upon the Common Properties" by the 2016 First Amendment).
 
-The Association may levy a special assessment for the purpose of defraying in whole or in part the cost of construction or reconstruction or expected repair or replacement of **any component for which the Association is responsible** under the Declaration, including necessary fixtures and personal property related thereto (Source: CC&Rs Article IV § 4, as amended by First Amendment).
+**Approval threshold:** assent of **two-thirds of the votes of each class** of Members voting in person or by proxy at a meeting duly called for that purpose, with written notice sent to all Members **at least 30 days** in advance setting forth the purpose of the meeting (Source: Declaration Article IV § 5).
 
-> The original CC&Rs § 4 limited special assessments to capital improvements upon the Common Properties. The 2016 First Amendment broadened the scope to include any Association-responsibility component (e.g., building exteriors).
+### 2018 Special Repair Assessment (active)
 
-### Approval Threshold
-- **Two-thirds of the votes of each class of Members** voting in person or by proxy at a duly called meeting (Source: CC&Rs Article IV § 5).
-- Written notice to all Members at least **30 days in advance** setting forth the purpose (Source: CC&Rs Article IV § 5).
+The 2018 Resolution approved a Repair Cost of approximately **$1,134,000** for repairs to areas the Association maintains. The Repair Assessment began **June 1, 2018**. Owners chose one of three payment options (Source: 590 Special Repair Assessment Resolution 05.24.18):
 
-### Due Date
-Set by the resolution authorizing the special assessment (Source: CC&Rs Article IV § 6).
+- **Option 1:** One Payment of **$54,000** due June 1, 2018.
+- **Option 2:** Serial monthly assessments of approximately **$475/month for 15 years (180 months)** beginning June 1, 2018; amount adjusts with the Association loan's interest rate (30 days' notice of any change).
+- **Option 3:** Initial pre-payment of at least **$1,000** due June 1, 2018, followed by recalculated monthly assessments for 180 months on the same terms as Option 2.
 
-## Capitalization Fee
+Owners failing to elect by June 1, 2018 were defaulted to Option 2. Owners on Option 2 or 3 may prepay the remaining balance at any time without penalty (an administrative charge may apply to calculate payoff).
 
-Upon acquisition of record title to a Lot from Declarant, the purchasing owner contributes **$300.00** to the capital of the Association. The payment is deposited in escrow and disbursed to the Association (or to Declarant if Declarant previously paid the assessment for the Lot) (Source: CC&Rs Article IV § 10).
+Approval votes: at least 2/3 of Owners (in person + proxy) approved the Special Assessment, and at least 51% additionally approved the Association obtaining a loan (Source: Special Repair Assessment Resolution Recitals).
 
-## Declarant Contribution
+## Capitalization Contribution (New Owners)
 
-After commencement of annual assessments, Declarant pays:
-- **50%** of the annual assessment for Lots owned by Declarant on which a single-family dwelling has been completed.
-- **10%** of the annual assessment for unimproved Declarant-owned Lots.
+Upon acquisition of record title to a Lot, the purchasing Owner contributes to the Association's capital an amount equal to **2 months' assessments** (i.e., 1/6 of the Annual Assessment) for that Lot. This is **in addition** to ongoing assessments (Source: 2025 Declaration Article IV § 10).
 
-Declarant may make in-kind contributions of services or materials in lieu of cash, valued by agreement; if no agreement, by averaging three independent contractor bids (Source: CC&Rs Article IV § 11).
+> **History:** The 1999 original required a flat **$300** capitalization contribution upon acquisition from Declarant (Source: 1999 CC&Rs Article IV § 10). The 2025 restatement supersedes that with the 2-month formula.
 
-## Late Charges and Interest
+## Delinquency, Late Charges, Interest
 
-*(As amended by Second Amendment, recorded September 25, 2017.)*
+- **Delinquent:** an assessment is delinquent if not paid **within 30 days of its due date** (Source: Declaration Article IV § 8.B; Collection Resolution § 1.5(c)).
+- **Interest:** **10% per annum** from the due date until paid (Source: Declaration Article IV § 8.A and § 8.D as amended; Collection Resolution § 2.1). The original 1999 text used a "Bank of America prime + 3%" formula; the 2017 Second Amendment 2A (Collection) replaced that with a flat 10% per annum (Source: 2017 Second Amendment to Declaration (Collection) § III).
+- **Late charge:** up to **30% of the delinquent assessment** by Board resolution (Source: Declaration Article IV § 8.D). The 2017 Collection Resolution sets the actual late charge at **20%** (Source: Collection Resolution § 2.2).
+- **Other costs:** management company collection charges, attorney fees, recording fees, postage, copy/service/court/filing/garnishment fees, paralegal/investigator fees — all enforceable as assessments (Source: Collection Resolution § 2.3; Declaration Article IV § 8.D).
+- **Acceleration:** the Board may declare all remaining periodic installments due and payable immediately if unpaid 30 days past due (Source: Declaration Article IV § 8.B(1)).
+- **Suspension:** the Association may suspend the delinquent Owner's voting rights and right to use the Common Area until paid in full, but may not deprive the Owner of access to and from the Lot (Source: Declaration Article IV § 8.B(1)).
 
-- **Delinquency**: An assessment becomes delinquent if not paid within **30 days** of the due date (Source: CC&Rs Article IV § 8.B; Collection Resolution § 1.5).
-- **Interest**: **10% per annum** from the due date until paid (Source: CC&Rs Article IV §§ 8.A, 8.D, as amended; Collection Resolution § 2.1).
-- **Late charge**: The Board may set a late charge by resolution **not to exceed 30% of the assessment**. The current rate set by the Collection Resolution is **20% of the assessment** (Source: CC&Rs Article IV § 8.D as amended; Collection Resolution § 2.2).
-- **Costs and attorney fees**: Owners are obligated to pay reasonable fees and costs (including attorney fees) incurred by the Association in collection efforts, **whether or not suit is filed** (Source: CC&Rs Article IV § 8.D as amended; Collection Resolution § 1.5).
+For full procedure, see [Collections and Delinquency](collections-and-delinquency.md).
 
-For full collection procedure (claim of lien, payment demand letter, turnover to Vial Fotheringham LLP, foreclosure, etc.), see [Collections and Delinquency](collections-and-delinquency.md).
+## Lien
 
-## Effects of Non-Payment (Other Remedies)
+The Association has a lien against each Lot for any assessment, fine, or charge from the date due. Attachment/notice/recordation/duration of the lien follows ORS 87.352 to 87.382; foreclosure follows ORS Chapter 88. The Association may bid on the Lot at foreclosure sale and may acquire/hold/lease/mortgage/convey the Lot. If an assessment is payable in installments, the full assessment is a lien from the date the first installment is due (Source: Declaration Article IV § 8.B(2)).
 
-If an assessment or charge is not paid within 30 days after its due date, the Association may (in addition to interest and lien rights):
-- **Suspend** the Owner's voting rights and right to use the Common Area until paid in full (Source: CC&Rs Article IV § 8.B(1)).
-- **Accelerate** all remaining periodic installments to be immediately due and payable (Source: CC&Rs Article IV § 8.B(1)).
-- **Lien** the Lot under ORS 87.352 to 87.382 and foreclose under ORS Chapter 88 (Source: CC&Rs Article IV § 8.B(2)).
-- **Sue** for a money judgment without foreclosing or waiving the lien (Source: CC&Rs Article IV § 8.B(3) as amended).
-- The Association may **not** deprive any Owner of access to and from the Owner's Lot (Source: CC&Rs Article IV § 8.B(1)).
+The assessment lien is **subordinate to** any first mortgage or deed of trust on the Lot. Foreclosure of the senior security extinguishes the lien only as to amounts that became liens **prior** to the foreclosure; the Lot remains subject to assessments thereafter (Source: Declaration Article IV § 9). See [Mortgagee Rights](mortgagee-rights.md).
 
-No Owner may waive or escape liability for assessments by non-use of the Common Properties or abandonment of the Lot (Source: CC&Rs Article IV § 8.A).
+## No Waiver by Non-Use
 
-## Subordination to Mortgages
-
-The lien for assessments is **subordinate to the lien of any first mortgage or deed of trust** encumbering a Lot. Foreclosure of a senior mortgage extinguishes the assessment lien for amounts that became liens prior to the sale, but the Lot remains liable for assessments thereafter due (Source: CC&Rs Article IV § 9).
-
-## Notification of First Mortgagee
-
-The Board must notify any first mortgagee of any default by the Lot Owner not cured within **60 days** (Source: CC&Rs Article IV § 8.C; Article XIII § 1.C).
+No Owner may waive or otherwise escape liability for assessments by non-use of the Common Properties or by abandoning the Lot (Source: Declaration Article IV § 8.A; 2017 Second Amendment 2A (Collection) § I).
 
 ## Sources
 
-- `source/2025-10-11 CC&Rs.md` — Article IV §§ 1–11; Article XIII § 1; First Amendment; Second Amendment Sept 2017
-- `source/2025-10-11 Rules and Regulations.md` — Board Resolution: Collection of Unpaid HOA Assessments (Oct 20, 2017)
+- `source/2025.07.07_summitridge townhomes_amended and restated declaration.md` — Article IV
+- `source/590 1st Amend to Dec - Special Assessment Resolution.md`
+- `source/590 2nd Amend to Dec - Collection.md`
+- `source/590 Collection Resolution 10.20.2017.md`
+- `source/590 Special Repair Assessment Resolution 05.24.18.md`
+- `source/590 Summitridge CCR's.md` (superseded 1999 original)
+- Budget documents (`source/590 Summitridge 2022.md`, `source/590 Summitridge #2.md`, `source/590 Summitridge- Budget.md`, `source/Summitridge 2025 Budget.md`, `source/Summitridge 2026 Budget.md`)

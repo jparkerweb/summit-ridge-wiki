@@ -1,55 +1,37 @@
 # Membership and Voting
 
-## Who Is a Member
+## Who is a Member
 
-Membership is automatic for every Owner of a fee or undivided fee interest in a Lot, and for every person holding a contract purchaser's interest of record in a Lot. **There is no other qualification for membership.** Membership terminates on transfer of fee simple title or contract purchaser's interest (Source: CC&Rs Article II § 1; Bylaws Article III § 1).
+Every Owner of a fee or undivided fee interest in any Lot is a Member, and every person holding a contract vendee's interest of record in a Lot is a Member. There is no other membership qualification. Membership terminates on transfer of fee simple title (or transfer of contract purchaser's interest); the new owner's membership begins on recordation (Source: Declaration Article II § 1; Bylaws Article III § 1).
 
-If an Owner sells a Lot by contract of sale, the Owner's membership terminates and the contract purchaser's begins on recordation (Source: Bylaws Article III § 1).
+## Classes
 
-## Voting Classes
+- **Class A**: All Members other than the Class B Member. One vote per Lot (Source: Declaration Article II § 2.A).
+- **Class B**: Originally the Declarant (SummitRidge Townhomes Associates, LLC), entitled to three votes per Lot owned. **Class B no longer exists** — the 2025 restated Declaration states "There is no longer a Class B Member" (Source: 2025 Declaration Article II § 2.B). The Bylaws originally provided Class B would convert to Class A by the earliest of: (i) Class A reaching ≥15 votes, (ii) December 31, 2002, or (iii) Declarant's written election (Source: Bylaws Article III § 2.B).
 
-See [Definitions § Voting and Membership Classes](definitions.md#voting-and-membership-classes) for the formal definitions.
+## Multiple Owners of a Single Lot
 
-- **Class A**: All non-Declarant Members. **One vote per Lot.** If multiple persons hold an interest in a single Lot, only one vote per Lot may be cast; if co-owners cannot agree, they are deemed to have abstained (Source: CC&Rs Article II § 2.A; Bylaws Article III § 2.A).
-- **Class B**: Declarant. **Three votes per Lot owned.** Class B Member elects all Board members until conversion to Class A (Source: CC&Rs Article II § 2.B; Bylaws Article III § 2.B).
-
-The community completed transition from Declarant control years ago; current operations are under all-Class-A membership.
+If multiple persons hold the interest in a single Lot, all are Members, but only **one vote per Lot** may be cast. If co-owners cannot agree how to vote, they are deemed to have abstained on that issue (Source: Declaration Article II § 2.A; Bylaws Article III § 2.A).
 
 ## Quorum and Voting Thresholds
 
-| Action | Threshold | Source |
-|---|---|---|
-| Member meeting quorum | 20% of total votes (in person or by proxy) | Bylaws Article IV § 4 |
-| Default Member action | Majority of votes represented and voting | Bylaws Article IV § 4 |
-| Special assessment | **2/3 of votes of each class** voting in person or by proxy at duly called meeting; ≥ 30 days' written notice | CC&Rs Article IV § 5 |
-| Disapprove proposed budget | Majority of Members entitled to vote at a meeting | CC&Rs Article IV § 3 |
-| Amend CC&Rs (first 20 years) | 75% of Owners | CC&Rs Article XI § 1 |
-| Amend CC&Rs (after 20 years) | 66-2/3% of Owners | CC&Rs Article XI § 1 |
-| Material amendments affecting mortgagees | + Eligible Holders of 51% of mortgaged Lots | CC&Rs Article XIII § 3.B |
-| Terminate Association | 75% Class A + Declarant + 75% Eligible Holders + City | CC&Rs Article XIII § 3.A |
-| FHLMC-protected actions (transfer common property, change assessment method, etc.) | 2/3 of Eligible Holders or Owners | CC&Rs Article XIII § 4 |
+- **Quorum (Members' meeting):** 20% of total votes entitled to be cast, in person or by proxy (Source: Bylaws Article IV § 4).
+- **Ordinary Members' votes:** majority of votes represented and voting (Source: Bylaws Article IV § 4).
+- **Annual budget approval:** the proposed budget takes effect **unless disapproved by a majority of Members** entitled to vote (Source: Declaration Article IV § 3).
+- **Special assessment:** two-thirds of votes of each class, in person or by proxy, at a meeting with at least 30 days' written notice (Source: Declaration Article IV § 5).
+- **Amend Declaration (during first 20 years):** instrument signed by ≥75% of Owners; thereafter ≥66⅔% (Source: Declaration Article XI § 1).
+- **Amend / terminate Declaration (Eligible Holder/City consents):** see [Mortgagee Rights](mortgagee-rights.md).
+- **Suspension of voting rights:** the Association may suspend an Owner's voting rights while assessments are unpaid, and for up to 60 days for rules infractions (Source: Declaration Article XI § 2.A; Article IV § 8.B(1)).
 
 ## Proxies
 
-Any Member may give a written, signed proxy filed with the Secretary. A proxy expires on the earlier of:
-- 11 months after the proxy date, or
-- The date of sale of the Member's Lot.
+Any Member may give a written proxy. Proxies expire on the earlier of (a) 11 months after the date of the proxy, or (b) sale of the Member's Lot. Proxies must be signed by the Member and filed with the Secretary (Source: Bylaws Article IV § 4).
 
-(Source: Bylaws Article IV § 4)
+## Voting by Mail
 
-## Mail Voting
-
-Voting may be by mail. The Secretary must give written notice to all Members including: (a) the proposed resolution, (b) statement that Members may vote for or against by mail, and (c) a date **not less than 25 days** after notice by which votes must be received. Late votes are of no effect (Source: Bylaws Article IV § 4).
-
-## Action Without a Meeting
-
-Any action that may be taken at a Members' or Board meeting may be taken without a meeting if a written consent setting forth the action is signed by **all Members or all Directors** entitled to vote, and filed in the minutes (Source: Bylaws Article XX).
-
-## Joint Owners
-
-Where two or more persons share ownership of a Lot, the responsibility to comply with the Declaration is **joint and several**. Any disagreement among co-owners as to how to vote may be reported in writing to the Association, in which case the disputed vote is **disregarded entirely** in determining proportions (Source: CC&Rs Article XI § 6; Bylaws Article III § 2.A).
+The Secretary may conduct mail votes by sending a written resolution; ballots received later than 25 days after the notice date are of no effect (Source: Bylaws Article IV § 4).
 
 ## Sources
 
-- `source/2025-10-11 CC&Rs.md` — Article II; Article IV; Article XI; Article XIII
-- `source/2025-10-11 Bylaws.md` — Article III; Article IV; Article XX
+- `source/2025.07.07_summitridge townhomes_amended and restated declaration.md` — Article II, Article IV, Article XI
+- `source/590 Summitridge Bylaws.md` — Article III, Article IV

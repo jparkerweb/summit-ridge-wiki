@@ -1,51 +1,50 @@
-# Summit Ridge Townhomes HOA Wiki
+# SummitRidge Townhomes HOA — Wiki Index
 
-Authoritative summaries derived from the Declaration (CC&Rs), Bylaws, and Rules and Regulations of the Summit Ridge Townhomes Home Owners Association (1–21 Summit Ridge Court, Lake Oswego, OR). All facts cite the originating source document and section.
+This wiki is derived from the authoritative source documents in `source/`. Every fact cites its source section. Where sources conflict, the conflict is surfaced rather than silently resolved.
+
+**Community at a glance:** 21 attached single-family townhomes in 6 two-story buildings on Summit Ridge Court, Lake Oswego, OR 97035. Built 2001. Subdivision plat: Multnomah County Book 1245, pages 34–35. The HOA is an Oregon nonprofit corporation (filed May 23, 2002). Property is also subject to the Mountain Park "Master Restrictions" (Book 633, Page 882, recorded August 5, 1968).
 
 ## Governance
 
-- [Governing Documents](pages/governing-documents.md) — Document hierarchy, amendments, recorded resolutions
-- [Definitions](pages/definitions.md) — Key defined terms
-- [Membership and Voting](pages/membership-and-voting.md) — Member status, classes, voting thresholds, proxies
-- [Member Meetings](pages/member-meetings.md) — Annual meeting, special meetings, notice
-- [Elections and Board](pages/elections-and-board.md) — Board composition, terms, officers, meetings
-- [Transfer of Control](pages/transfer-of-control.md) — Historical Declarant-to-Member transition
+- [Governing Documents](pages/governing-documents.md) — hierarchy and history of CC&Rs, Bylaws, amendments, and resolutions.
+- [Definitions](pages/definitions.md) — key terms used across the documents.
+- [Membership and Voting](pages/membership-and-voting.md) — who is a member, classes, votes per Lot.
+- [Member Meetings](pages/member-meetings.md) — annual, special, quorum, proxies, notice.
+- [Board of Directors and Officers](pages/elections-and-board.md) — composition, election, terms, officer roles.
+- [Transfer of Control / Turnover](pages/transfer-of-control.md) — Declarant period and turnover from Declarant to Owners.
+- [Mortgagee Rights](pages/mortgagee-rights.md) — Eligible Holder notices and consent requirements.
 
 ## Financial
 
-- [Assessments and Fees](pages/assessments-and-fees.md) — Annual, special, late fees, capitalization
-- [Collections and Delinquency](pages/collections-and-delinquency.md) — VF collection process, lien, foreclosure
-- [Insurance](pages/insurance.md) — Association- and Owner-required coverage
-- [Financial Records](pages/financial-records.md) — Fiscal year, books, audit, financial statements
-- [Mortgagee Rights](pages/mortgagee-rights.md) — Eligible Holder notices, consent thresholds, FHLMC
+- [Assessments and Fees](pages/assessments-and-fees.md) — annual, special, capitalization contribution, late fees.
+- [Collections and Delinquency](pages/collections-and-delinquency.md) — collection procedure, lien, attorney involvement.
+- [Financial Records and Budgets](pages/financial-records.md) — annual budgets 2022–2026 and reserve study summary.
+- [Insurance](pages/insurance.md) — Association policies, Owner policies, history.
+- [Building Envelope History and Reserves](pages/building-envelope-history.md) — siding/roof history and 30-year reserve plan.
 
 ## Property Use
 
-- [Use Restrictions](pages/use-restrictions.md) — Single-family use, no business, nuisance, trees, easements
-- [Pets](pages/pets.md) — Allowed animals, conduct, fines
-- [Parking](pages/parking.md) — Allowed vehicles, garage use, guest spaces, towing
-- [Noise](pages/noise.md) — Quiet Time, City code references
-- [Rentals](pages/rentals.md) — 5-unit cap, hardship, Grandfather Leases, insurance
-- [Trash and Recycling](pages/trash-and-recycling.md) — Containers, set-out timing, screening
-- [Signage](pages/signage.md) — What's allowed, ARC review, "For Rent" prohibition
-- [Neighbor Disputes](pages/neighbor-disputes.md) — Procedure for resolving with managing agent
+- [Use Restrictions](pages/use-restrictions.md) — single-household residential use, nuisance, businesses.
+- [Pets](pages/pets.md) — limits, leash, fines.
+- [Parking](pages/parking.md) — garage use, driveway, guests, prohibited vehicles, towing.
+- [Rentals](pages/rentals.md) — 5-unit cap, hardship process, lease requirements.
+- [Trash and Recycling](pages/trash-and-recycling.md) — bin storage and set-out timing.
+- [Noise](pages/noise.md) — quiet hours and City code.
+- [Neighbor Disputes](pages/neighbor-disputes.md) — informal resolution and managing agent.
 
-## Architectural and Maintenance
+## Architectural / Exterior
 
-- [Architectural Review](pages/architectural-review.md) — AC composition, submission process, 90-day rule
-- [Exterior Modifications](pages/exterior-modifications.md) — Decks, antennas, AC, lighting, decorations, flags
-- [Maintenance Responsibility](pages/maintenance-responsibility.md) — Association vs. Owner schedule (2016 Resolution)
-- [Landscaping](pages/landscaping.md) — Plantings, flower pots, tree code, lot landscaping
+- [Architectural Review](pages/architectural-review.md) — ARC application process and timing.
+- [Exterior Modifications](pages/exterior-modifications.md) — decks, A/C, antennas, lighting, flags, holiday décor.
+- [Signage](pages/signage.md) — For Sale, Garage Sale, For Rent rules.
 
-## Common Areas and Open Space
+## Common Property
 
-- [Common Areas](pages/common-areas.md) — Definition, easements, City enforcement
-- [Private Open Space and Wetlands](pages/private-open-space-and-wetlands.md) — Tracts A and B, wetlands plan
+- [Common Areas](pages/common-areas.md) — definition and scope.
+- [Private Open Space and Wetlands](pages/private-open-space-and-wetlands.md) — Tracts A and B, wetlands maintenance plan.
+- [Landscaping](pages/landscaping.md) — Association vs. Owner responsibilities for plantings, irrigation, trees.
+- [Maintenance Responsibility](pages/maintenance-responsibility.md) — full Association vs. Owner responsibility split.
 
 ## Enforcement
 
-- [Enforcement and Fines](pages/enforcement-and-fines.md) — Fine schedule, self-help, attorney fees
-
-## History
-
-- [Building Envelope History](pages/building-envelope-history.md) — Certa & BEAR investigations, water intrusion timeline
+- [Enforcement and Fines](pages/enforcement-and-fines.md) — escalation, fine schedule, self-help, suspension of rights.

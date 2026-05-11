@@ -1,55 +1,26 @@
-# Transfer of Control (Declarant to Members)
+# Transfer of Control (Turnover)
 
-The Bylaws set out the historical mechanism by which control of the Association transitioned from the Declarant to the Members. Both the Transitional Committee and the Turnover Meeting were one-time events.
+The Bylaws contemplate two phases of Association governance: a Declarant-controlled period during build-out, and a member-controlled period thereafter. The Association is currently in the **member-controlled** phase — the 2025 Restated Declaration confirms "There is no longer a Class B Member" (Source: 2025 Declaration Article II § 2.B).
 
 ## Transitional Committee
 
-Within **60 days after conveyance to Members other than Declarant of a total of 50 percent of the votes** of all stages of the Property (computed per Bylaws Article III § 2(a)), Declarant was required to call a special meeting of Members to select a transitional committee (Source: Bylaws Article XIII § 1).
-
-- Notice per Bylaws Article IV § 3 ([Member Meetings](member-meetings.md)).
-- At the meeting, Members in attendance (other than Declarant), by majority of those present, selected **two of three** committee members; **Declarant selected the third**.
-- Committee members served until the Turnover Meeting.
-- Function: facilitate transition from Declarant control to Member control.
-- If Declarant failed to call the meeting, **any Member** could.
-- If Members did not select committee members, Declarant had no further obligation.
-- **Once the Turnover Meeting was held, no transitional committee may be appointed.**
-
-(Source: Bylaws Article XIII § 1)
+Within 60 days after conveyance to non-Declarant Members of 50% of total votes, the Declarant was required to call a special meeting at which the Members in attendance (excluding Declarant) selected two members of a three-member transitional committee; the Declarant selected the third. The transitional committee served until the Turnover Meeting and was charged with facilitating the transition (Source: Bylaws Article XIII § 1).
 
 ## Turnover Meeting
 
-On a date not later than **120 days after the Turnover Date**, Declarant was required to call the Turnover Meeting (Source: Bylaws Article XIII § 2).
+Not later than 120 days after the **Turnover Date**, the Declarant was required to call the Turnover Meeting. At that meeting (a) the Declarant relinquished control of administration of the Association and (b) the Declarant-appointed Directors resigned and the Members elected a new Board under the Bylaws (Source: Bylaws Article XIII § 2; Article V § 2).
 
-- Notice per Article IV § 3 to each Member, stating the purpose (relinquishment by Declarant of control), time, and place.
-- If Declarant did not call within the required period, the **transitional committee or any Member** could.
-- At the Turnover Meeting:
-  - Declarant relinquished control and Members assumed it.
-  - Then-serving Directors resigned and Members elected a Board per the Bylaws.
+The **Turnover Date** is the date Class B membership converts to Class A (Source: Bylaws Article I § 1.7). Under the original Bylaws, conversion would occur at the earliest of: (i) Class A reaching ≥15 votes; (ii) **December 31, 2002**; or (iii) Declarant's written election (Source: Bylaws Article III § 2.B). Conversion has occurred (Source: 2025 Declaration Article II § 2.B).
 
-(Source: Bylaws Article XIII § 2)
+## Architectural Committee Transfer
 
-## Class B → Class A Conversion
+Authority to appoint the Architectural Committee transferred to the Board upon the earlier of: (i) Declarant's written election, or (ii) closing of the sale of all Lots to third parties by Declarant (Source: Declaration Article VII § 1; Bylaws Article X § 1, § 2). After such transfer, the AC consists of at least three persons; if no AC is appointed, the Board serves as the AC (Source: Bylaws Article X § 1).
 
-Class B membership (Declarant) converts to Class A on the earliest of:
-- (i) Class A Members hold votes ≥ 15
-- (ii) **December 31, 2002** (per Bylaws) / **December 31, 2001** (per CC&Rs)
-- (iii) Declarant elects to convert by written notice to the Secretary
+## Regulatory Amendments During Declarant Period
 
-See [Membership and Voting](membership-and-voting.md) and [Definitions § Conflicts](definitions.md#conflicts) for the date discrepancy.
-
-## Architectural Committee Authority Transfer
-
-Authority to designate AC members transferred to the Board on the earlier of:
-- Declarant's written election to transfer, or
-- Closing of the sale of all Lots to third parties by Declarant.
-
-(Source: CC&Rs Article VII § 1; see [Architectural Review](architectural-review.md))
-
-## Declarant Regulatory Amendments
-
-Until the Turnover Meeting, Declarant had the right to **unilaterally amend the Declaration or Bylaws** to comply with requirements of any applicable statute, ordinance, regulation, or guideline of the FHA, VA, FmHA, FNMA, GNMA, FHLMC, or any U.S. or Oregon department/bureau/board/commission/agency, or any corporation wholly owned by the U.S. or Oregon which insures, guarantees, or provides financing for a planned community (Source: CC&Rs Article XI § 4).
+Until the Turnover Meeting, the Declarant had a reserved right to unilaterally amend the Declaration or Bylaws to comply with FHA/VA/FmHA/FNMA/GNMA/FHLMC and similar agency requirements (Source: Declaration Article XI § 4).
 
 ## Sources
 
-- `source/2025-10-11 Bylaws.md` — Article XIII §§ 1–2; Article III § 2
-- `source/2025-10-11 CC&Rs.md` — Article II § 2; Article VII § 1; Article XI § 4
+- `source/590 Summitridge Bylaws.md` — Articles I, III, V, X, XIII
+- `source/2025.07.07_summitridge townhomes_amended and restated declaration.md` — Articles II, VII, XI

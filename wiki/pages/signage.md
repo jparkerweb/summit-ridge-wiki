@@ -1,39 +1,43 @@
 # Signage
 
-## General Rule
+## General rule
 
-**No signs may be erected or maintained on any Lot, except signs approved as to appearance and location by the Architectural Committee** (Source: CC&Rs Article VII § 2.C; Rules and Regulations § Signage). The restriction does not apply to the temporary placement of **"political"** signs by the Owner (Source: CC&Rs Article VII § 2.C).
+**No signs** may be erected or maintained on any Lot except those approved as to appearance and location by the Architectural Committee. This restriction does **not apply** to the temporary placement of **political** signs on any Lot by the Owner (Source: Declaration Article VII § 2.C).
 
-## Signs Allowed Without Architectural Review
+## Pre-approved signage (no Architectural Review required)
 
-The following are approved for display without Architectural Review:
+The Handbook treats the following as approved without further Architectural Review (Source: Handbook — Signage):
 
-- **"Garage Sale" and "For Sale" signage** — must follow Mt. Park rules and regulations regarding size, style, and location requirements. Signage must be **removed within one week of closing of sale**. The homeowner is responsible for repairing any damage caused to sod by sign installation (Source: Rules and Regulations § Signage).
-- **Political signs** — temporary placement (Source: CC&Rs Article VII § 2.C).
+- **"Garage Sale" and "For Sale" signs** — must comply with **Mt. Park** rules and regulations regarding **size, style, and location**.
+- Sale signage must be **removed within one week of closing of sale**.
+- The homeowner is **responsible to repair any damage caused to sod** by installation of signage.
 
-## "For Rent" Signs
+## Prohibited
 
-**"For Rent" signage is not to be placed within the community.** Owners must advertise rentals by other methods (Source: Rules and Regulations § Signage). See [Rentals](rentals.md).
+- **"For Rent" signage may NOT be placed within the community.** Homeowners must advertise rentals by **other methods** (Source: Handbook — Signage).
 
-## All Other Signs
+## All other signs
 
-All other signs erected or maintained on any Building Lot must be **approved by the Architectural Review Committee** for appearance and location (Source: Rules and Regulations § Signage).
+Any other signs erected or maintained on any Building Lot **must be approved as to appearance and location by the Architectural Review Committee** (Source: Handbook — Signage; Declaration Article VII § 2.C).
 
-## Declarant Signs (Exception)
+## Enforcement Procedures (Signage)
 
-Nothing in the Declaration prevents Declarant or its authorized agent from erecting or maintaining structures or signs for the conduct of its business in connection with or upon Property while owned by Declarant (Source: CC&Rs Article X).
-
-## Enforcement
+(Source: Handbook — Enforcement Procedures, Signage.)
 
 | Offense | Action |
 |---|---|
-| **First** | Homeowner requested to remove signage (warning); remedy within 24 hours |
-| **Second** | Letter of violation notice; remedy within 10 days |
-| **Third** | Letter of violation notice and fine of **$10.00 per day** starting with the 11th day of the infraction |
+| First | Request to remove signage (warning); remedy within 24 hours |
+| Second | Letter of violation; remedy within 10 days |
+| Third | Letter of violation **plus fine of $10.00 per day**, starting on day 11 |
 
-(Source: Rules and Regulations § Signage — Enforcement Procedures)
+See also [Enforcement and Fines](enforcement-and-fines.md).
+
+## Erection of signs by Declarant
+
+The Declaration does not prevent the Declarant from erecting or maintaining structures or signs for the conduct of its business on the Property while it still owns part of the Property (Source: Declaration Article X).
 
 ## Sources
 
-- `source/2025-10-11 CC&Rs.md` — Article VII § 2.C; Article X
-- `source/2025-10-11 Rules and Regulations.md` — Signage section
+- `source/2025.07.07_summitridge townhomes_amended and restated declaration.md` — Articles VII § 2.C, X
+- `source/2026-0304-SRTHHOA-Rules and Regulations.md` — Signage
+- `source/590 Welcome Handbook and Resolutions.md` — Signage

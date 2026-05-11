@@ -1,89 +1,69 @@
 # Maintenance Responsibility
 
-The allocation of maintenance responsibility between the Association and individual Owners is governed primarily by **CC&Rs Article II § 3.E** and clarified by the **Maintenance Responsibility Resolution adopted November 1, 2016** (Attachment A) (Source: CC&Rs Article II § 3.E; Rules and Regulations § Board Resolution Nov 2016).
+This page consolidates maintenance/repair/replacement responsibilities. The 2025 Declaration sets the high-level allocation; the **Maintenance Responsibility Resolution (adopted Nov. 1, 2016)** with **Attachment A** clarifies overlap items.
 
-The 2016 Resolution was adopted because the Declaration did not contain details about repair responsibility for areas where Owner-maintained and Association-maintained components intersect (e.g., deck-to-wall transitions, windows that integrate with other exterior components). Some maintenance responsibilities were ambiguous; the Board exercised authority under Bylaws Article XIV and ORS Chapter 94 to make reasonable rules (Source: Rules and Regulations § Board Resolution Nov 2016 — Findings).
+## Association responsibility
 
-## Association Responsibility (Charged to Owners as Assessment per Declaration Article IV)
+Funded by assessments collected under Article IV (Source: Declaration Article II § 3.E(1); Maintenance Resolution Recital).
 
-Per Attachment A:
+- All **Common Properties** and improvements thereon (Source: Attachment A #1).
+- **Common Area landscaping** and the **front yard landscaping of each Lot** (between the street-facing portion of the Living Structure and the sidewalk), including irrigation, mowing of all accessible (non-fenced) grass, and debris removal (Source: Declaration Article II § 3.E(1); Attachment A #2, #3).
+- **Building Structure exteriors:** painting, staining, restaining, repainting, and replacing **all exterior surfaces, including roofs** (but excluding repair/replacement of exterior doors) (Source: Declaration Article II § 3.E(1)).
+- **Siding and trim** — including exterior sheathing, weather-resistive barrier, exterior framing members, and associated flashing needed to successfully replace the siding and trim (Source: Attachment A #4).
+- **Painting of railings** (Source: Attachment A #5).
+- **Exterior vent covers, utility covers, or similar items attached to exterior of homes** (Source: Attachment A #6).
+- **Roofs**, including roof sheathing, roof overhangs, eaves, and associated flashing — including flashing around exteriors of chimneys (Source: Attachment A #7).
+- **Exterior window casements, sashes, frames** — painting and staining only (Source: Declaration Article II § 3.E(1); Attachment A #8).
+- **Exterior door frames** (Source: Attachment A #9).
+- **Exterior lighting fixtures** (Source: Attachment A #10).
+- **Exterior portions of chimneys** (Source: Declaration Article II § 3.E(1); Attachment A #11).
+- **Rain gutters, downspouts, sprinkler timing devices** (Source: Declaration Article II § 3.E(1); Attachment A #12).
+- **Deck framing** (Source: Attachment A #13).
+- **Underground sewer systems** (Source: Declaration Article II § 3.E(1); Attachment A #14).
+- Maintenance and repair of grass, sod, trees, shrubs, and bushes in a neat, clean, attractive condition (Source: Declaration Article II § 3.E(1)).
+- **Snow and ice removal from Common Area** — the Association has the authority but is **not required** to arrange for this; Tract A may not be disturbed. **Lots are not included** (Source: Declaration Article II § 3.E(1)).
 
-1. Common Properties and improvements thereon
-2. Common Area Landscaping
-3. Maintenance of the Common Area and exterior of all Building Structures, including repairing and replacing grass, sod, trees, shrubs, and bushes in a neat, clean, and attractive condition
-4. **Siding and trim** (including exterior sheathing, weather-resistive barrier, exterior framing members, and associated flashing needed to successfully replace the siding and trim)
-5. **Painting of railings**
-6. Exterior vent covers, utility covers, or similar items attached to the exterior of homes
-7. **Roofs**, including roof sheathing, roof overhangs, eaves, and associated flashing, including flashing around exteriors of chimneys
-8. Exterior **window casements, sashes, frames** — **painting and staining only**
-9. Exterior **door frames**
-10. Exterior **lighting fixtures**
-11. **Exterior portions of chimneys**
-12. **Rain gutters, downspouts, sprinkler timing devices**
-13. **Deck framing**
-14. **Underground sewer system**
+The decision as to nature and timing of maintenance for a particular Building Structure is **solely within the Board's discretion** (Source: Declaration Article II § 3.E(1)).
 
-(Source: Rules and Regulations § Board Resolution Nov 2016 — Attachment A; CC&Rs Article II § 3.E(1))
+## Owner responsibility
 
-The Association also has authority (but is not required) to arrange for snow and ice removal from the Common Area (except Tract A shall not be disturbed), but **not from the Lots** (Source: CC&Rs Article II § 3.E(1)). Decisions as to the nature, extent, and timing of maintenance for a particular Building Structure are **solely within the Board's discretion** (Source: CC&Rs Article II § 3.E(1)).
+- **Exterior doors** (excluding door frames) (Source: Attachment A #1; Declaration Article II § 3.E(2)).
+- **Exterior window casements, sashes, frames** — except painting and staining (Source: Attachment A #2).
+- **Window screens, storm windows, storm doors, screen doors** (Source: Attachment A #3; Declaration Article II § 3.E(2)).
+- **Glass in windows** (including broken glass or failed glazing) (Source: Attachment A #4; Declaration Article II § 3.E(2)).
+- **Unit interiors** to interior wall studs and perimeter insulation — including electrical wiring/fixtures, plumbing pipes/conduits, built-in or freestanding fixtures and appliances, A/C, heating, sewage disposal, interior fire protection (Source: Attachment A #5; Declaration Article II § 3.E(2)).
+- **Walkways and driveways** (Source: Attachment A #6; Declaration Article II § 3.E(2)).
+- **Deck surfaces** (deck board or deck coating) (Source: Attachment A #7).
+- **Deck railings** (including connection to the building wall) (Source: Attachment A #8).
+- **Patios** — including moss removal and snow/ice removal (Source: Attachment A #9).
+- **Electrical and mechanical doorbells; exterior hardware** on doors (knockers, knobs, handles, locks, house numbers, etc.) (Source: Attachment A #10).
+- **Lightbulbs**, including for exterior lights whose switch is inside the residence (Source: Attachment A #11). The Handbook reiterates: all exterior entrance, porch, and garage **lights** are maintained at all times by the homeowner (Source: Handbook, Architecture — Exterior Lighting Maintenance).
+- **Garage door openers** (Source: Attachment A #12).
+- **Mechanical and electrical systems and hardware** (Source: Attachment A #13).
+- **Winterization of plumbing** (including hose bibs and vents) (Source: Attachment A #14).
+- **Dryer vent lines/ducts** (Source: Attachment A #15).
+- **Interior chimney cleaning and maintenance** (Source: Attachment A #16).
+- **Landscaping on the Lot, including any fences** (Source: Attachment A #17). Note: the Association handles **front yard** landscaping per Declaration Article II § 3.E(1).
+- **Snow/ice removal from the Owner's Lot** (deck, entry walkway, driveway) (Source: Declaration Article II § 3.E(2); Handbook Common Elements).
+- **Interior walls** between attached units — must not be punctured or breached (Source: Declaration Article VII § 2.H).
+- **A/C and heating equipment and devices** (Source: Declaration Article II § 3.E(2); Handbook Common Elements).
+- **Maintenance of insurance** as set forth in the Declaration (Source: Declaration Article II § 3.G; see [Insurance](insurance.md)).
+- **Maintain area between Lot line and curb/improved street** — no trucks, campers, trailers, or boats may be parked or remain in that area (Source: Declaration Article V § 1.E).
 
-## Owner Responsibility
+## ARC approval required for Owner-performed exterior maintenance
 
-Per Attachment A:
+Before an Owner performs any repair/replacement of a component on the **exterior of the building** that is the Owner's responsibility, the Owner must submit an application to the **ARC** (Architectural Review Committee). The ARC may require evidence from a construction professional that the proposed work will not adversely impact the **weatherproofing of the building envelope**. The ARC has discretion to impose other requirements (Source: Maintenance Responsibility Resolution).
 
-1. **Exterior doors** (excluding door frames)
-2. Exterior **window casements, sashes, frames** — **except painting and staining**
-3. **Window screens, storm windows, storm doors, and screen doors**
-4. **Glass in windows** (includes broken glass or failed glazing)
-5. Unit interiors to interior wall studs and perimeter insulation
-6. **Walkways and driveways**
-7. **Deck surfaces** (includes deck board or deck coating)
-8. **Deck railings** (includes the connection to the building wall)
-9. **Patios** (includes moss removal and snow/ice removal)
-10. Electrical and mechanical doorbells and **exterior hardware on doors** such as door knockers, knobs, handles and locks, **house numbers**, etc.
-11. **Lightbulbs**, including those for exterior lights for which the light switch is located within the residence
-12. **Garage door openers**
-13. Mechanical and electrical systems and hardware (electrical wiring, fixtures, plumbing, appliances, heating, air conditioning, sewage disposal, and fire protection systems)
-14. **Winterization of plumbing** (including hose bibs and vents)
-15. **Dryer vent lines/ducts**
-16. **Interior chimney cleaning and maintenance**
-17. **Landscaping located on the Lot, including any fences**
+## Charging Owner-caused costs to the Owner
 
-(Source: Rules and Regulations § Board Resolution Nov 2016 — Attachment A; CC&Rs Article II § 3.E(2))
+If the need for maintenance of Association-responsibility items arises through the willful or negligent acts of the Owner or the Owner's household, guests, or invitees, the cost is added to and becomes part of the assessment against the Lot (Source: Maintenance Responsibility Resolution).
 
-Each Owner is also responsible for **snow and ice removal from that Owner's Lot** (Source: CC&Rs Article II § 3.E(2); Rules and Regulations § Common Elements). The Rules and Regulations specify that Building Lot owners are responsible for: maintenance and cleaning of **exterior glass, doors, air conditioning units, outdoor living area, and snow removal from deck, entry walkway, and driveway** (Source: Rules and Regulations § Common Elements — Building Lots).
+## Failure to meet Owner responsibilities
 
-Owners must also keep their outdoor living area in a **neat, clean, and sanitary condition** (Source: Rules and Regulations § Common Elements — Building Lots).
-
-## Damage Caused by Owner
-
-If Association-responsibility maintenance is **caused by willful or negligent acts** of the Owner, family, guests, or invitees, the cost becomes part of that Lot's assessment (Source: Rules and Regulations § Board Resolution Nov 2016 — Resolved).
-
-## Failure of Owner to Maintain
-
-If an Owner fails to meet Owner maintenance responsibilities timely, the Association may:
-- **Levy enforcement fines and necessary fees, continuing until the work is satisfactorily completed**; charged as assessments.
-- **Enter the Lot** to conduct maintenance, repairs, replacements, or to prevent imminent injury or damage.
-- Charge all costs incurred to the responsible Owner as an assessment.
-
-(Source: Rules and Regulations § Board Resolution Nov 2016 — Resolved; CC&Rs Article IX § 1)
-
-The Association also has the right to enter Lots for emergency, security, or safety purposes; in non-emergencies, entry must be during reasonable hours and after reasonable notice (Source: CC&Rs Article XII § 4).
-
-## ARC Approval Required Before Owner Repairs
-
-Before an Owner undertakes repair or replacement of any component that is the Owner's responsibility and located on the **exterior** of the building, that Owner must submit an application to the [ARC](architectural-review.md). The ARC may request, among other items, **evidence from a construction professional that the proposed repair will not adversely impact the weatherproofing of the building envelope** (Source: Rules and Regulations § Board Resolution Nov 2016 — Resolved).
-
-## Common Areas
-
-The Association is responsible for maintenance, repair, and replacement to the **exterior of building structures and the Common Areas**, charged to all homeowners as a common expense (Source: Rules and Regulations § Common Elements). For Common Properties and Tracts A and B, see [Common Areas](common-areas.md) and [Private Open Space and Wetlands](private-open-space-and-wetlands.md).
-
-## Conflicts and Notes
-
-The 2016 Maintenance Responsibility Resolution **resolves and supplements** the Declaration's Article II § 3.E lists. The Resolution and Article II § 3.E generally agree on Owner vs. Association allocation, with the Resolution providing more specific items (e.g., it explicitly assigns deck framing to the Association and deck surfaces/railings to the Owner; it explicitly assigns exterior door **frames** to the Association and exterior **doors** to the Owner). For decisions on items not appearing in either list, refer to the Board.
+If an Owner fails to meet maintenance/repair/replacement responsibilities in a timely manner, the Association may levy enforcement fines and fees (Board-set), all of which continue until the work is completed, and **may enter the Lot** to conduct maintenance/repair/replacement, charging the cost back to the Owner as an assessment (Source: Maintenance Responsibility Resolution; Declaration Article IX § 1).
 
 ## Sources
 
-- `source/2025-10-11 CC&Rs.md` — Article II § 3.E (subparts 1 and 2); Article IX; Article XII § 4
-- `source/2025-10-11 Rules and Regulations.md` — Common Elements; Board Resolution Nov 2016 (Findings; Resolved; Attachment A)
-- `source/2025-10-11 Bylaws.md` — Article XV
+- `source/2025.07.07_summitridge townhomes_amended and restated declaration.md` — Article II § 3.E; Article V § 1.E; Article VII § 2.H; Article IX
+- `source/590 Maintenance Responsibility Resolution 11.01.2016.md`
+- `source/2026-0304-SRTHHOA-Rules and Regulations.md` — Common Elements, Architecture

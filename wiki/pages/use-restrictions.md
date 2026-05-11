@@ -1,78 +1,82 @@
 # Use Restrictions
 
-Restrictions on how Lots may be used by occupants. See also: [Pets](pets.md), [Parking](parking.md), [Noise](noise.md), [Rentals](rentals.md), [Trash and Recycling](trash-and-recycling.md), [Signage](signage.md), [Architectural Review](architectural-review.md), [Landscaping](landscaping.md).
+The following restrictions apply to all property subject to the Declaration (Source: Declaration Article V § 1):
 
-## Single-Family Residential Use Only
+## Residential use only
 
-- **No Lot shall be used for any purpose other than single-family residential purposes** (Source: CC&Rs Article V § 1.A; Article VII § 2.B).
-- Except with the approval of the Association, no building may be erected or maintained on any Lot except **one single-family dwelling** designed for occupancy by not more than one family, together with a private garage that conforms generally in architectural design and exterior materials to the dwelling (Source: CC&Rs Article VI § 1.A).
+- **No Lot may be used for any purpose other than single-household residential purposes** (Source: Article V § 1.A).
+- **Lots shall only be used for residential purposes.** Except with Board consent (and as allowed by applicable ordinances, agreements, or land use approvals), **no trade, business, profession, commercial or similar activity** of any kind shall be conducted on any Lot, nor shall any goods, equipment, vehicles, materials, or supplies used in connection with a trade, service, or business be kept or stored on any Lot (Source: Article VII § 2.B).
 
-## No Outbuildings
+### Permitted "incidental" activities
 
-**No outhouse of any kind, tent, shed, or trailer**, or any other temporary dwelling, may be erected or maintained on any Lot or used for living purposes. Garages may not be used for dwelling purposes. **Garden sheds or tool sheds may not be erected** (Source: CC&Rs Article VI § 1.A).
+The residential-only rule does not prohibit (Source: Article VII § 2.B):
 
-No structure of a temporary character — trailer, basement, tent, shack, garage, or other outbuilding — may be used on any Lot at any time as a residence, either temporarily or permanently (Source: CC&Rs Article VII § 2.E).
+- Activities relating to the rental or sale of Building Structures (subject to [Rentals](rentals.md) restrictions).
+- The right of Declarant or any contractor/homebuilder to construct Building Structures and store materials/equipment on Lots in the normal course of construction, or to use a Building Structure as a sales/rental office or model home.
+- The right of an Owner to maintain a professional personal library, keep personal business/professional records or accounts, handle personal business or professional telephone calls, or confer with business or professional associates/clients/customers in the Building Structure.
+- The Board may not approve commercial activities otherwise prohibited unless it determines that **only normal residential activities would be observable outside the Building Structure** and that the activities would not violate applicable ordinances.
 
-**No buildings constructed elsewhere may be moved to or placed on the Property** except with the written approval of the Association (Source: CC&Rs Article VI § 1.C).
+## Nuisance and offensive activity
 
-## Construction Continuity
+**No noxious or offensive activity** shall be carried on upon the Property, nor anything done or maintained that may become an annoyance or nuisance to the neighborhood or detract from its value as a residential district (Source: Article V § 1.D).
 
-No building may be occupied while in the course of original construction or until it complies with all requirements as to area and other conditions and restrictions. **Construction must be prosecuted with reasonable diligence continuously from time of commencement until fully completed** (Source: CC&Rs Article VI § 1.C).
+## Animals / Pets
 
-## No Trade or Business
+See [Pets](pets.md). The Declaration limits pets to **no more than two (2)** domestic dogs or cats and caged birds (Source: Article V § 1.B, as amended in 2025; was **one (1)** in the 1999 CC&Rs).
 
-Except with consent of the Board and as allowed by applicable ordinances, agreements, or land-use approvals, **no trade, business, profession, commercial or similar activity** may be conducted on any Lot. Goods, equipment, vehicles, materials, or supplies for trade/business may not be kept or stored on any Lot (Source: CC&Rs Article VII § 2.B).
+## Trash and dumping
 
-Permitted activities:
-- Activities relating to rental or sale of Building Structures
-- Declarant/contractor/homebuilder construction, on-site material storage, sales/rental office, model home use
-- Owner's personal professional library, personal business records or accounts, personal business or professional phone calls, conferring with associates/clients/customers in the Building Structure
+- **No Lot shall be used or maintained as a dumping ground** for rubbish, garbage, or trash.
+- Garbage and waste must be kept in **sanitary containers**.
+- Incinerators or other storage/disposal equipment must be kept in a clean and sanitary condition and comply with all local, state, and federal requirements.
 
-The Board may not approve commercial activities otherwise prohibited unless it determines that **only normal residential activities would be observable outside the Building Structure** and that activities would not violate applicable ordinances (Source: CC&Rs Article VII § 2.B).
+(Source: Article V § 1.G; Article VII § 2.D.) See [Trash and Recycling](trash-and-recycling.md).
 
-## Nuisance
+## Mineral and resource extraction
 
-**No noxious or offensive activity** may be carried on upon the Property, nor shall anything be done or maintained which may be or become an annoyance or nuisance to the neighborhood or detract from its value as a residential district (Source: CC&Rs Article V § 1.D).
+No part of the Property shall be used for the purposes of exploring for, taking, or producing **gas, oil, or other hydrocarbons or minerals** (Source: Article V § 1.C).
 
-## Mineral Extraction
+## Curb-to-Lot area
 
-No part of the Property may be used for exploring, taking, or producing **gas, oil, or other hydrocarbons or minerals** (Source: CC&Rs Article V § 1.C).
+It is each owner's/occupant's duty to **improve and maintain** the area between the Lot's property line and the nearest curb or improved street in proper condition. **No trucks, campers, trailers, or boats** may be parked or remain in this area (Source: Article V § 1.E).
 
-## Trees and the City Tree Code
+## Vehicles
 
-- The Lots and Common Property are subject to the **Tree Code of the City of Lake Oswego**. No trees may be removed without complying with the Tree Code and Article V (Source: CC&Rs Article V § 1.K).
-- Trees may only be removed after they have been shown to be hazardous by a **certified arborist** and after a tree-cutting permit has been obtained from the City. A detailed landscape plan must be submitted along with any tree-cutting application for City review (Source: CC&Rs Article V § 1.H).
-- Trees within the public right-of-way may be removed at the discretion of the governmental body (Source: CC&Rs Article V § 1.H).
-- See also [Private Open Space and Wetlands § Tract A trees](private-open-space-and-wetlands.md).
+- **No parking** of automobiles, boats, trucks, trailers, or other vehicles on the **Streets** (Source: Article V § 1.J).
+- **Disabled vehicles** may not remain on any Lot for more than **three (3) consecutive days** unless inside an enclosed garage (Source: Article V § 1.L).
+- Trailers/campers/pickup coaches/tents/boats may be stored **inside a garage** (and not used for living purposes); otherwise, they may not be parked, placed, erected, maintained, or constructed on any Lot (Source: Article VI § 1.B).
 
-## Utility Easements and Setbacks
+See [Parking](parking.md) for the full Parking Regulations.
 
-Utility easements and setbacks applicable to the Property are reflected on the Plat. Where utilities are constructed on side or rear Lot lines, removal/replacement of fences for public access to such utilities is **at the expense of the owner** of the applicable Lot (Source: CC&Rs Article V § 1.I).
+## Trees and Private Open Space
 
-## Maintenance of Curb Strip
+- **Private Open Space Tracts** must remain in their natural condition for scenic/aesthetic appearance, protection of natural processes, passive recreation, and natural vegetation maintenance.
+- Trees in the Tracts may be removed only after a **certified arborist** has shown them to be hazardous **and** a City tree-cutting permit is obtained.
+- Improvements (including public/private utilities) in these areas must be approved by the City.
+- **No buildings** are allowed in the Private Open Space Tracts.
 
-It is the duty of each owner or occupant of any Lot to **improve and maintain in proper condition** the area between the property line and the nearest curb or improved street. **No trucks, campers, trailers, or boats shall be parked or permitted to remain in said area** (Source: CC&Rs Article V § 1.E).
+(Source: Article V § 1.F.) See [Private Open Space and Wetlands](private-open-space-and-wetlands.md).
 
-## Interior Walls Between Units
+- Trees planted in public right-of-way may be removed at the governing body's discretion.
+- **All other trees** must be preserved and may only be removed after the same arborist/permit process. The City may recommend revisions to landscape plans to preserve the treed character of the neighborhood (Source: Article V § 1.H).
+- Lots and Common Property are subject to the **City of Lake Oswego Tree Code** (Source: Article V § 1.K).
 
-Each Owner must ensure that the wall(s) separating the Owner's dwelling unit from other dwelling units within the same Building Structure are **not punctured or otherwise breached** by the Owner, lessees, invitees, contractors, or family members (Source: CC&Rs Article VII § 2.H).
+## Utility easements and setbacks
 
-## Underground Utilities
+Utility easements and setbacks applicable to the Property are reflected on the Plat. Where utilities are constructed on side or rear Lot lines, **removal and/or replacement of fences for public access to such utilities is at the Owner's expense** (Source: Article V § 1.I).
 
-No outdoor overhead wire, service drop, pole, tower, or other structure for electric energy or telecommunications distribution may be erected, placed, or maintained within the Property. **All purchasers must use underground service wires** to connect to underground electric or telephone utility facilities (Source: CC&Rs Article VII § 2.I).
+## Temporary structures, garages, sheds
 
-## Lessees and Invitees
+See [Exterior Modifications](exterior-modifications.md). Outhouses, tents, sheds, trailers, temporary dwellings, garden sheds, and tool sheds may not be erected (Source: Article VI § 1.A).
 
-Lessees, invitees, contractors, family members, and other persons entering the Property under rights derived from an Owner must comply with all provisions of the Declaration restricting or regulating the Owner's use, improvement, or enjoyment of the Lot. **The Owner is responsible for obtaining compliance and is liable for any failure of compliance by such persons in the same manner and to the same extent as if the failure had been committed by the Owner** (Source: CC&Rs Article XI § 7).
+## Interior walls (shared)
 
-## Effect of Municipal Ordinances
+Owners must ensure walls separating their dwelling unit from other dwelling units within the same Building Structure are not punctured or breached by the Owner or the Owner's lessees, invitees, contractors, or household members (Source: Article VII § 2.H).
 
-Police, fire, and other local public safety ordinances of any municipal corporation having jurisdiction over the Property **govern where more restrictive** than the CC&Rs (Source: CC&Rs Article XI § 3).
+## Lessees and other invitees
 
-## Master Restrictions
-
-The Property is subject to the **Master Restrictions** (Declaration recorded August 5, 1968, in Book 633, Page 882, Multnomah County, as amended). Any construction undertaken on the Lots must comply with the Master Restrictions (Source: CC&Rs Article I.K; Article VI § 1.D).
+Lessees, invitees, contractors, household members, and other persons entering under rights derived from an Owner must comply with all Declaration provisions. **The Owner is responsible for obtaining compliance and is liable for any failure** as if the Owner had committed it (Source: Declaration Article XI § 7).
 
 ## Sources
 
-- `source/2025-10-11 CC&Rs.md` — Article I.K; Article V §§ 1.A, 1.C, 1.D, 1.E, 1.H, 1.I, 1.K; Article VI §§ 1.A, 1.C, 1.D; Article VII §§ 2.B, 2.E, 2.H, 2.I; Article XI §§ 3, 7
+- `source/2025.07.07_summitridge townhomes_amended and restated declaration.md` — Articles V, VI, VII, XI § 7

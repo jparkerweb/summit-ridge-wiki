@@ -1,76 +1,74 @@
 # Parking
 
-## Permissible Vehicles
+The parking policy is established to "assure equitable parking and access to the community." The current rules come from the Community Handbook (v1.2) and the Parking Regulations Reminder dated **January 16, 2020** (Source: Handbook — Parking; 590 HOA Parking Regulations 01.16.2020). Additional rules come directly from the Declaration.
 
-Vehicles that may be parked within the community: **conventional passenger vehicles in good repair, currently licensed, and in regular use** (Source: Rules and Regulations § Parking — Permissible Vehicles).
+## Permissible vehicles
 
-## Prohibited Vehicles
+Vehicles that may be parked within the community include **conventional passenger vehicles in good repair** that are **currently licensed and in regular use** (Source: Handbook — Parking).
 
-The following may **not** be parked in the community except for loading/unloading:
+## Prohibited vehicles (no parking in the community)
+
+The following may **not** be parked in the community **except for loading or unloading** (Source: Handbook — Parking):
+
 - Trailer
 - Camper
-- Tent trailer
+- Tent Trailer
 - Boat
-- Motor home
-- Recreational vehicle (RV)
+- Motor Homes
+- Recreational Vehicles (RVs)
 
-(Source: Rules and Regulations § Parking — Prohibited Vehicles; references Mt. Park CC&R Article VII Section 1B.)
+Loading or unloading of prohibited vehicles and equipment is permitted **subject to a 24-hour time limit** (Source: Handbook — Parking; 2020 Reminder).
 
-The Declaration is even more restrictive: **no trailer, camper, pickup coach, tent, boat, or truck (except pickup) may be parked, placed, erected, maintained, or constructed on any Lot for any purpose**. Trailers, campers, pickup coaches, tents, or boats stored completely within a garage and not used for living purposes are not in violation (Source: CC&Rs Article VI § 1.B).
+The Declaration also prohibits these on any Lot **for any purpose** — except trailers, campers, pickup coaches, tents, or boats **stored completely inside a garage** and not used for living purposes (Source: Declaration Article VI § 1.B).
 
-The Declaration also prohibits any owner/occupant from parking trucks, campers, trailers, or boats in the area between the Lot's property line and the nearest curb or improved street (Source: CC&Rs Article V § 1.E).
+Refer also to **Mt. Park CC&R Article VII Section 1B** (Source: 2020 Reminder).
 
-### Loading / Unloading
-Loading or unloading of prohibited vehicles is permitted, subject to a **24-hour time limit** (Source: Rules and Regulations § Parking).
+## Garage use
 
-## Garage Use
+- Garages are to be used for **vehicle, trailer, camper, or boat parking** and **cannot be totally converted to storage and/or living space** (Source: Handbook — Parking; 2020 Reminder; Declaration Article VI § 1.A).
+- **If occupant owns one vehicle**, that vehicle **must be garaged** except for short-term parking on the driveway.
+- **If occupant owns more than one vehicle**: one vehicle must be garaged and the other(s) parked on the driveway.
+- The second vehicle is to be parked in your driveway to **leave parking spaces in the common area designated for guests**.
+- **If occupant has a third vehicle**, the Board must approve parking of that vehicle in the community.
+- **Garage doors should remain closed** except to have access to garage areas.
 
-Garages are to be used for vehicle, trailer, camper, or boat parking and **cannot be totally converted to storage and/or living space** (Source: Rules and Regulations § Parking — Garage Use).
+## Curbside / street parking
 
-- If an occupant owns one vehicle, that vehicle must be **garaged**, except for short-term parking on the driveway (Source: Rules and Regulations § Parking — Garage Use).
-- If an occupant owns more than one vehicle, **one must be garaged** and the other(s) parked on the driveway. The second vehicle must be parked in the driveway to leave guest spaces in the common area available (Source: Rules and Regulations § Parking — Garage Use).
-- A **third vehicle** requires Board approval to be parked in the community (Source: Rules and Regulations § Parking — Garage Use; Parking Regulations Reminder).
-- **Garage doors should remain closed** except to access garage areas (Source: Rules and Regulations § Parking — Garage Use).
+**There is no curbside / street parking within the community** — to allow emergency vehicles and owners access to driveways (Source: Handbook — Parking; 2020 Reminder).
 
-## Curb Side / Street Parking
+The Declaration likewise prohibits parking of automobiles, boats, trucks, trailers, or other vehicles on the Streets (Source: Declaration Article V § 1.J).
 
-To allow emergency vehicles and owner access to driveways, **there is no curbside / street parking within the community** (Source: Rules and Regulations § Parking — Curb Side / Street Parking).
+## Guest parking spaces
 
-The Declaration also prohibits parking of automobiles, boats, trucks, trailers, or other vehicles **on the Streets** (Source: CC&Rs Article V § 1.J).
+Guest parking spaces in the common area **are not to be used by homeowners** other than short-term temporary situations and **with the approval of the Board** (Source: 2020 Reminder).
 
-## Guest Parking
+## Vehicles in disrepair
 
-Guest parking spaces are **not to be used by homeowners other than short-term temporary situations and with the approval of the Board** (Source: Rules and Regulations § Parking Regulations Reminder).
+- Vehicles in disrepair are not to be abandoned or remain parked on any Building Lot or Common Area for **more than 48 hours** (Source: Handbook — Parking).
+- The Declaration: **disabled vehicles** may not remain on any Lot for more than **three (3) consecutive days** unless inside an enclosed garage (Source: Declaration Article V § 1.L).
+- If an Owner fails to remove such vehicle within **five (5) days** following the Association's posting of notice on the vehicle, the Association may **have it removed and charge the Owner** (Source: Handbook — Parking).
 
-## Vehicles in Disrepair
+## Enforcement — Garage Use
 
-- Vehicles in a state of disrepair may **not be abandoned or remain parked** on any Building Lot or Common Area for longer than **48 hours** (Source: Rules and Regulations § Parking — Vehicles in Disrepair).
-- If the Owner fails to remove the vehicle within **5 days** after the Association posts notice on the vehicle, the Association may have it removed and charge the expense to the Owner (Source: Rules and Regulations § Parking — Vehicles in Disrepair).
-- The Declaration is more lenient in time but requires garaging: **disabled vehicles may not remain on any Lot for more than three (3) consecutive days unless situated within an enclosed garage** (Source: CC&Rs Article V § 1.L).
+If you are not using your garage for vehicle parking (with exception to trailer/camper/boat parking), you may be given **notice to remedy within 30 days**. If not completed in that period, you may be called to appear at a hearing with the Board and possibly fined. **A fine of $200 per month can be levied against the Owner** until the violation is remedied (Source: Handbook — Enforcement Procedures, Garage Use; 2020 Reminder).
 
-## Enforcement
+## Enforcement — Parking
 
-### Garage Misuse
-If you are not using your garage for vehicle parking (excepting trailer/camper/boat storage):
-- Notice to remedy within **30 days**.
-- If not completed in that period: hearing with the Board and possible fine.
-- A fine of **$200 per month** may be levied until the violation is remedied.
-
-(Source: Rules and Regulations § Parking — Enforcement: Garage Use)
-
-### Parking Violations
+(Source: Handbook — Enforcement Procedures, Parking; 2020 Reminder.)
 
 | Offense | Action |
 |---|---|
-| **First** | Violation notice attached to vehicle (warning); remedy within 24 hours, or considered second offense |
-| **Second** | Violation notice on vehicle; remedy within 24 hours or vehicle towed at owner's expense; mailed letter from managing agent or Board |
-| **Third** | Towing at owner's expense (must be authorized by at least two people, **one of whom must be a Board member**) |
+| First | Violation notice attached to offending vehicle (warning); remedy within **24 hours**. If not remedied, escalates to second offense. |
+| Second | Violation notice attached; **24 hours** to remedy **or vehicle will be towed at owner's expense**. Letter from managing agent or Board sent to offending Owner. |
+| Third | **Vehicle will be towed at owner's expense**. Towing must be authorized by **at least two people, one of which must be a Board member**. |
 
-If **more than 30 days** passes between violations, the offense count recalculates (Source: Rules and Regulations § Parking — Enforcement: Parking).
+If **more than 30 days pass** between violations, the offenses **recalculate** (Source: Handbook).
 
-Violations may also result in fines, ticketing by the **City of Lake Oswego Police Department**, and/or towing (Source: Rules and Regulations § Parking Regulations Reminder).
+Violations may also result in **fines, ticketing by City of Lake Oswego Police Department, and/or towing of vehicles** (Source: 2020 Reminder).
 
 ## Sources
 
-- `source/2025-10-11 CC&Rs.md` — Article V §§ 1.E, 1.J, 1.L; Article VI § 1.B
-- `source/2025-10-11 Rules and Regulations.md` — Parking section; Parking Regulations Reminder
+- `source/2025.07.07_summitridge townhomes_amended and restated declaration.md` — Articles V § 1.E, J, L; VI § 1.A, B
+- `source/2026-0304-SRTHHOA-Rules and Regulations.md` — Parking
+- `source/590 Welcome Handbook and Resolutions.md` — Parking
+- `source/590 HOA Parking Regulations 01.16.2020.md`

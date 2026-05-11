@@ -1,64 +1,85 @@
 # Private Open Space and Wetlands (Tracts A and B)
 
-The site contains two designated private open-space tracts: **Tract A** (wetlands and buffer) and **Tract B** (open area with stormwater detention pond). Both are subject to special restrictions and a long-term maintenance plan.
+The Property includes designated Private Open Space Tracts — **Tract A** (two distinct small wetlands separated by a narrow buffer area) and **Tract B** (open area with a storm-water detention pond). Both are Common Properties of the Association (Source: Declaration Article I.F; Exhibit A "Introduction").
 
-## Background
+## Permitted use
 
-The site contains a designated wetland area consisting of two distinct small wetlands separated by a narrow buffer area (**Tract A**), and an open area with a **stormwater detention pond** (**Tract B**). The wetland is defined on the landscaping plan on file with the City of Lake Oswego (Source: CC&Rs § 2 — Exhibit A, Introduction).
+- The Private Open Space Tracts may be used **only for passive recreational purposes such as walking and picnicking**, and no other use (Source: Declaration Article III § 3.G; Article V § 1.F).
+- **Tract A must remain in its natural condition**; any action that would disturb that condition is subject to prior written approval by the City (Source: Declaration Article II § 3.E(1); Article XII § 1; Article V § 1.F).
+- **No buildings** are allowed in the Private Open Space Tracts (Source: Declaration Article V § 1.F).
+- Tract A may not be disturbed by snow/ice removal arranged by the Association (Source: Declaration Article II § 3.E(1)).
 
-## Permitted Uses
+## Tree removal
 
-The Private Open Space Tracts may be used **only for passive recreational purposes such as walking and picnicking; no other use may be made of the Private Open Space** (Source: CC&Rs Article III § 3.G).
+Trees in the Tracts may be removed **only** after:
 
-## Restrictions on Tract A
+1. A **certified arborist** has shown them to be hazardous to life or property, **and**
+2. A **tree cutting permit** has been obtained from the City.
 
-The Private Open Space Tracts shall remain in their **natural condition** for the purpose of providing a scenic, aesthetic appearance, protecting natural processes, providing passive recreational uses, and maintaining natural vegetation (Source: CC&Rs Article V § 1.F).
+Lots and Common Property are also subject to the **Tree Code of the City of Lake Oswego**, and trees may not be removed without complying with both the Tree Code and Article V (Source: Declaration Article V § 1.F, § 1.H, § 1.K).
 
-- Trees may be removed from the Tracts only after they have been shown to be **hazardous to life or property by a certified arborist**, and after a tree-cutting permit has been obtained from the City (Source: CC&Rs Article V § 1.F).
-- Improvements (including public or private utilities) which are in keeping with the above purpose **must be approved by the City** (Source: CC&Rs Article V § 1.F).
-- **No buildings shall be allowed in the Private Open Space Tracts** (Source: CC&Rs Article V § 1.F).
-- Tract A is intended to remain in its natural condition; **any action that would or will disturb its natural condition shall be subject to prior written approval by the City** (Source: CC&Rs Article II § 3.E(1)).
-- No changes in Tract A by an individual Homeowner are allowed (Source: CC&Rs Article IX § 2).
-- The Association does **not** arrange snow/ice removal from Tract A (Source: CC&Rs Article II § 3.E(1)).
+Public right-of-way trees may be removed at the discretion of the governmental body having jurisdiction (Source: Declaration Article V § 1.H).
 
-## Maintenance Responsibility
+## Easements and amendments
 
-The Association is responsible for:
-- Maintenance of all **private storm water quality facilities** (Source: CC&Rs Article VIII § 4).
-- A **long-term maintenance plan for wetlands and buffer zones in Tract A** pursuant to the maintenance plan in Exhibit A (Source: CC&Rs Article VIII § 4).
-- Enhancement through **removal of invasive species** as part of the long-term plan (Source: CC&Rs Article VIII § 4).
+- The Declarant may grant easements over Private Open Space Tracts to public agencies/utilities, **provided trees are fully protected at all times**, subject to **written City approval**. Damaged trees must be replaced as the City directs (Source: Declaration Article III § 3.E).
+- **No provision of the Declaration pertaining to the Private Open Space Tracts may be amended or revoked without the written consent of the City** (Source: Declaration Article XI § 1). City consent is additionally required for any amendment affecting maintenance, repair, use, insurance, configuration, or withdrawal of Tracts A and B (Source: Article XIII § 3.B).
 
-**The City has the right to enforce these maintenance obligations at the expense of the Association and/or Owners** (Source: CC&Rs Article VIII § 4; Article III § 4).
+## Maintenance Plan for Wetland Area (Exhibit A, December 7, 1999)
 
-## Wetlands Maintenance Plan (Exhibit A, December 7, 1999)
+This Plan is **attached as Exhibit A** to the 2025 Amended and Restated Declaration (added by the 07/07/2025 re-recording) and the 1999 original (Source: 2025 Declaration cover sheet; Exhibit A).
+
+### Site description
+
+A planned unit community of 21 attached single-family homes along Summit Ridge Court. The site contains:
+
+- **Tract A** — two distinct small wetlands separated by a narrow buffer area.
+- **Tract B** — open area with a storm-water detention pond.
+
+The wetland is defined on the landscaping plan on file with the City of Lake Oswego (Source: Exhibit A — Introduction).
 
 ### Initial Maintenance (first growing season)
-- Monthly weeding, spraying, tightening (if required) and repairing guys, pruning, resetting plant material, replacing dead material.
-- Initial planting and first-year maintenance require **irrigation** as called for in the landscape plan; additional irrigation may be needed.
-- Removal of invasive plants must be by a **licensed landscape contractor**, using hand work and light equipment, so as not to disturb existing plant material.
 
-(Source: CC&Rs § 2 — Exhibit A, Initial Maintenance)
+- Monthly weeding, spraying, tightening/repairing guys, pruning and resetting plant material, replacing dead material.
+- Installation of designated planting in the buffer area was the Developer's responsibility, including clearing invasive plants from wetland fringes.
+- Initial planting requires irrigation per the landscaping plan; weather may require additional irrigation.
+- Invasive removal by a **licensed landscape contractor** using hand work and light equipment.
+- Most significant invasive species: **Himalayan blackberry and English Ivy**. Preferred control: hand removal of vines and roots; **light, sparing applications of RODEO® herbicide** (hand-held sprayer and wiper applications) used carefully to avoid damaging surrounding plant material.
+- If invasive removal exceeds 10 sq ft, **replanting** must use native species approved in the initial landscape plan after submitting a revised landscape plan to the City for approval.
 
-### Invasive Species
-The most significant invasive plants are **Himalayan blackberry** and **English Ivy**. Preferred control: remove vines by hand and dig roots as much as possible. **Light applications of RODEO® herbicide** may be applied to control blackberry, using hand-held sprayer and wiper applications. Herbicide should be used **sparingly and with care** not to damage surrounding plant material (Source: CC&Rs § 2 — Exhibit A, Initial Maintenance).
-
-### Replanting Threshold
-If removal of invasive plants in an area over **10 square feet** is necessary, replanting must use native species approved in the initial landscaping plan, **after submitting a revised landscaping plan to the City for approval** (Source: CC&Rs § 2 — Exhibit A, Initial Maintenance).
+(Source: Exhibit A — Initial Maintenance.)
 
 ### Long-Term Maintenance
-- Long-term plan: protect wetlands, buffer areas, and open-space tracts from invasive plant material; maintain wetlands in their natural condition (Source: CC&Rs § 2 — Exhibit A, Long Term Maintenance).
-- Buffer areas must be maintained as planted per the landscape plan, except as modified by changes approved in writing by the City of Lake Oswego (Source: CC&Rs § 2 — Exhibit A).
-- Inspection of buffer areas and fringe areas of the wetlands must be conducted **semiannually**, with corrective remedial action taken within a reasonable time (Source: CC&Rs § 2 — Exhibit A, Long Term Maintenance).
-- Diseased or dead plant material in the buffer area is replaced with **identical material**, unless approval for a substitute is obtained in advance from the City (Source: CC&Rs § 2 — Exhibit A, Long Term Maintenance).
 
-## City Consent Required for Amendments Affecting These Tracts
+- Responsibility: **the Homeowners Association**.
+- Goal: protect wetlands, buffer areas, and open-space tracts from invasive plants; maintain wetlands in natural condition.
+- Buffer areas must be maintained as planted per the subdivision landscape plan **except as modified by changes approved in writing by the City**.
+- Control of invasive species (primarily Himalayan blackberry and English Ivy) and care of planted shrubs are the keys.
+- **Semiannual inspection** of buffer areas and wetland fringes; corrective remedial action within a reasonable time.
+- Diseased/dead buffer plants are replaced with **identical material** unless approval for a substitute is obtained from the City in advance.
 
-**No provision of the CC&Rs pertaining to the Private Open Space Tracts may be amended or revoked without the written consent of the City** (Source: CC&Rs Article XI § 1). Amendments affecting maintenance, repair, use, insurance, configuration, or withdrawal of Tracts A and B also require prior written consent of the City (Source: CC&Rs Article XIII § 3.B).
+(Source: Exhibit A — Long Term Maintenance.)
 
-## Dedication / Transfer Requires City Approval
+## Storm-water quality facilities
 
-Any dedication or transfer of all or any part of the Common Properties to a public agency requires Member approval per the Articles **and approval in writing by the City** (Source: CC&Rs Article III § 3.D).
+The Association is responsible for maintenance of **all private storm-water quality facilities** and for a long-term maintenance plan for wetlands and buffer zones in Tract A, per the Exhibit A plan. The **City has enforcement rights** at the expense of the Association and/or Owners. Enhancement through removal of invasive species is part of the long-term plan (Source: Declaration Article VIII § 4).
+
+## Budget treatment
+
+Recent budgets include a "Wetlands and Trees" line (acct 6138):
+
+| Year | Wetlands and Trees |
+|---|---|
+| 2022 | — (budgeted $4,000 in 2021) |
+| 2023 | $900 |
+| 2024 | $4,000 |
+| 2025 | — |
+| 2026 | — |
+
+(Source: budget documents.) Tree maintenance also appears in the reserve study's Landscaping & Irrigation category with allowances on a 3-year cycle (Source: PONO Reserve Study).
 
 ## Sources
 
-- `source/2025-10-11 CC&Rs.md` — Article II § 3.E(1); Article III §§ 3.D, 3.G, 4; Article V § 1.F; Article VIII §§ 1, 3, 4; Article IX § 2; Article XI § 1; Article XIII § 3.B; Exhibit A (Wetlands Maintenance Plan, Dec 7, 1999)
+- `source/2025.07.07_summitridge townhomes_amended and restated declaration.md` — Articles I.F, III, V, VIII, XI, XII, XIII; Exhibit A
+- Budget documents
+- `source/PONO-RS1-SummitRidgeTH-240419-v2 Final.md`

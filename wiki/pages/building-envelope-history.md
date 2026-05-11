@@ -1,148 +1,120 @@
-# Building Envelope and Water Intrusion History
+# Building Envelope History and Reserves
 
-This page summarizes the engineering investigations of water intrusion into the Summit Ridge Townhomes building envelopes and the associated repair-planning timeline. The full reports (with photos, exploratory openings, and detailed scopes) are bundled into the CC&Rs document delivered through HomeWiseDocs Order LZGLLQJ29.
+This page consolidates the property's exterior/envelope history (siding, painting, roofing, etc.) and the 30-year reserve plan from the **April 19, 2024 PONO Reserve Study (v2)** for report period **Jan 1, 2025 – Dec 31, 2025**.
 
-> **For repair-related ARC requirements**: any Owner-responsibility repair on the building exterior requires an [ARC application](architectural-review.md), and the ARC may require evidence from a construction professional that the proposed repair will not adversely impact the weatherproofing of the building envelope (Source: Rules and Regulations § Board Resolution Nov 2016).
+## Property facts
 
-## Property Background
+- **21 units** in **6 two-story buildings** (Source: PONO Reserve Study Executive Summary).
+- Constructed in **2001**; **Age of Project (2025): 23 years** (Source: PONO).
+- Subdivision plat: Multnomah County **Book 1245, pages 34–35** (Source: 2025 Declaration Recitals).
 
-- **Constructed**: 2001 (Source: CC&Rs § 6 — Certa Building Description).
-- **21 individual residential units in 6 multi-plex buildings**, two-story wood-framed on concrete foundations.
-- Cladding: mix of **EIFS** (Sto Corp) and **fiber-cement lap siding with wood trim**.
-- Windows: vinyl single-hung and horizontal-sliding operable vents.
-- Roof: sloped composite asphalt shingles.
-- Each unit has a private enclosed garage with overhead door.
-- West-elevation residences have **elevated wood-framed balconies with open wood decking**; east elevations have at-grade concrete patios.
+## Building envelope timeline
 
-(Source: CC&Rs § 6 — Building Description)
+- **2017** — Previous siding project cost the Association **$1,074,832** (Source: PONO Component notes — Hardie Siding).
+- **2018** — Higher than normal siding cost in 2017/2018 due to the additional cost of **removing existing EFIS (stucco)** prior to installation of new siding. The 2018 Special Repair Assessment of approximately **$1,134,000** funded these repairs to "areas that are the Association's maintenance responsibility" (Source: 2018 Special Repair Assessment Resolution).
+- **2018** — Downspouts upgraded (cost and vendor unknown) (Source: PONO Component notes — Gutters and Downspouts).
+- **2021** — Mailboxes (12-gang CBU) were replaced (Source: PONO Component notes — Mailboxes).
+- **2022** — All balcony railings on Juliette balconies and stairwells were painted; **paint is warranted for 15 years** (PONO recommends an 8–10 year repaint cycle) (Source: PONO Component notes — Exterior Metal Rails Paint).
+- **2023** — Painting contractor inspected all exterior surfaces and stated siding paint was good for **12+ years** (PONO recommends 8–10 years) (Source: PONO Component notes — Exterior Siding & Trim Paint).
+- **2024** — Reserve Study (v2) prepared 04/19/2024 by Daniel J. Brennan, RS (CAI-RS #00510), PONO Building Consultants (Source: PONO Cover).
+- **2024** — Per Board notes on gutters: **downspouts 3x4 color ivory, clean out 3x4 color ivory, 2x6 outlets, 2x3 cleanouts, downspouts 3x4 color black, 15 ft flashing, resloped gutter for $14,200; gutter materials warranted for 15 years** (Source: PONO Component notes — Gutters).
+- **2025** — Funding Model in 2025 budget targets **$35,000** annual reserve contribution (recommended plan) (Source: 2025 Budget acct 6810).
+- **2026** — Reserve contribution rises to **$39,550** (Source: 2026 Budget acct 6810), consistent with the 13% annual increase prescribed by the recommended plan.
 
-## Certa Building Solutions Assessment (2015–2016)
+## Reserve study — financial summary
 
-**Author**: Mark Rose, Building Science Specialist
-**Fieldwork**: June 25, 2015 (sunny, 91 °F)
-**Report dated**: February 4, 2016 (CBS Ref. 15-013.00)
-**Prepared for**: Summit Ridge Townhomes HOA c/o Angela D. Shinn, Superior Community Management
-
-### Method
-Visual review across the community plus **seven exploratory openings** at key envelope details. Lifetime Exteriors assisted with ladder access and cladding removal/reinstatement (Source: CC&Rs § 6 — Assessment Methods).
-
-### Exploratory Opening Results
-All 7 openings showed **damaged sheathing but framing intact (or framing condition not confirmed)**. None showed no damage; none showed framing damage (Source: CC&Rs § 6 — Exploratory Opening Results table).
-
-### Key Findings
-1. EIFS lamina cracking at certain window corners — limited but could allow water migration if unsealed.
-2. Wood trim between adjacent windows in EIFS-clad walls is not properly flashed or sealed; cupping and splitting; contributed to damage at Opening 7.
-3. Failed sealant joints around windows in EIFS-clad walls.
-4. EIFS over grooved EPS over asphalt-impregnated paper WRB — water gets behind the EIFS faster than it can drain or dry (Openings 6 and 7).
-5. Siding/trim/flashing assemblies around windows in fiber-cement walls prone to leakage; wood trim deteriorates; elevated moisture readings under many windows (especially S and W).
-6. Small wall penetrations (exhaust vents, crawlspace vents, fireplace direct vents, utility meters, electrical outlets, pipes) **not properly flashed or sealed**.
-7. Wood-framed balcony assemblies on the west elevation **not properly flashed or sealed where they connect to the wall** (damage at Openings 2 and 3).
-8. Swing doors and wall assemblies around second-level **Juliet balconies** prone to leakage.
-9. At one location between Unit 10 and Unit 12, exposed and water-damaged gypsum sheathing along the roof edge.
-10. **Downspouts from upper roofs spill water directly onto the lower roof shingles** — should be plumbed into gutters below.
-11. **Paper-faced gypsum sheathing** used for fire resistivity — moisture-sensitive; widespread organic growth where leakage occurred.
-12. No specific air-leakage control provisions in exterior wall assemblies.
-
-(Source: CC&Rs § 6 — Observations)
-
-### Discussion
-The wall assemblies are a "**concealed-barrier**" system. Reliance on the exterior cladding and sealants to prevent all water penetration is **not achievable** in moderate-to-high rainfall such as the Pacific Northwest. Walls are appropriate only for sheltered locations or very dry climates. Fiber-cement-sided walls have less drainage capability than EIFS-clad walls. **Use of paper-faced gypsum sheathing is a major detractor** to overall performance; it has been phased out over the last decade due to moisture sensitivity (Source: CC&Rs § 6 — Discussion).
-
-### Conclusions
-- After ~15 years of service, exterior wall assemblies have **moderate damage from rainwater leakage**.
-- Primary areas of concern:
-  1. Window and flashing assemblies in lap-sided walls
-  2. Balcony connections and surrounding wall assemblies
-  3. Windows in EIFS-clad walls
-  4. Various small wall penetrations through lap siding
-- Service life of 50+ years is achievable only with superior construction practices and materials — **"not the case here."**
-- Some significant repairs needed to extend service life. Conceptual repair recommendations in Appendix C are for **planning/estimating only — not construction**.
-
-(Source: CC&Rs § 6 — Conclusions and Recommendations)
-
-### Conceptual Scope of Repair (Appendix C, Sept 9, 2015)
-Five repair items mapped to color-coded elevations:
-- **Item 1 (Light Green)** — Windows in EIFS-clad walls (25-step sequence)
-- **Item 2 (Light Blue)** — Windows in fiber-cement lap-sided walls (21-step sequence)
-- **Item 3 (Dark Blue)** — Windows and swing doors at Juliet balconies (23-step sequence)
-- **Item 4 (Orange)** — Open-decked balconies (28-step sequence)
-- **Item 5 (Purple)** — Small penetrations (exhaust vents, fireplace direct vents, utility meters, etc.)
-
-Suggested replacement products include **Milgard Montecito Series windows**, **Milgard Ultra Series swing doors**, **Georgia Pacific DensGlass Gold sheathing** (replacing paper-faced gypsum), **Fortifiber Jumbo Tex WRB**, and Tremco **Spectrum 1 silicone** / **Dymonic 100 polyurethane** sealants (Source: CC&Rs § 9 — Appendix C).
-
-## BEAR Consulting Services Investigation (2017)
-
-**Author**: BEAR Consulting Services LLC, Tigard, OR (CCB# 209436)
-**Fieldwork**: May 4, 2017
-**Report dated**: May 10, 2017 (v1.2)
-**Standard**: ASTM E2128 "Standard Guide for Evaluating Water Leakage of Building Walls"
-
-### Method
-Visual review of exterior walls and roofs (ground/ladder) plus examination of **10 exploratory inspection openings** across the project.
-
-### Findings — Systemic Concerns
-BEAR found multiple and systemic conditions failing to provide adequate weather protection and facilitating water infiltration. Examples (not exhaustive):
-- Improper installation of vinyl window assemblies
-- Omitted/improper dynamic sealant joints
-- Improper siding installation
-- Inadequate or improperly dimensioned flashing
-- Un-primed field-cut edges of trim members
-- Omitted up-turned end dam flashing termination
-- Improper flashing integration with WRB
-- Negated or improper clearance between siding and metal flashing
-- Improper / omitted flexible flashing
-- Improper / omitted / discontinuous WRB
-- Inadequate air-leakage control
-- Inadequate / omitted flexible flashing membrane at rough openings
-- Omitted / improper integration of roof underlayment with vertical wall assemblies
-
-(Source: CC&Rs § 10 — BEAR Observations)
-
-### Damage Documented
-Moisture-stained components; microbial/fungal growth on wall assemblies, WRB, and gypsum sheathing; corroded fasteners; elevated moisture content in trim, gypsum sheathing, and wood framing; deteriorated gypsum sheathing; dry rot in trim and framing (Source: CC&Rs § 10 — Evidence of Water Intrusion).
-
-### Recommended Next Steps
-- BEAR generates a scope of repair to solicit contractor bids.
-- BEAR assists with contractor selection, pre-bid site walks, bid analysis.
-
-(Source: CC&Rs § 10 — Recommended Next Steps)
-
-## Project Timeline (April 27 / May 18, 2016)
-
-| Date | Event |
+| Metric (as of Jan 1, 2025) | Value |
 |---|---|
-| **January 2015** | Homeowner Bob Seelig notices damage on west side of unit 10 (cracks, rotting wood) |
-| **January 22, 2015** | Annual meeting — brief EFIS Siding discussion postponed |
-| **April 2015** | Mark Rose (Certa) hired for visual inspection |
-| **June 2, 2015** | Notice to homeowners of June 11 Board meeting incl. Bob Seelig memo |
-| **June 11, 2015** | Board approves intrusive testing |
-| **June 24, 2015** | Intrusive inspections on units 10, 12, 20, and 21 |
-| **July 9, 2015** | Bob Seelig meets with Lisa Sharer (Summit) and Rose to discuss findings |
-| **August 9, 2015** | Rose provides Building Envelope Conceptual Scope of Repairs |
-| **August 21, 2015** | Rose identifies four contractors to bid |
-| **September 9, 2015** | Rose sends bid request to four contractors (due Oct 1) |
-| **October 1, 2015** | Bids received: **$547,000 to $774,000** before allowances/alternates. One rejected for inadequate EIFS work; high bid ($774k) rejected; remaining bids at **$547k and $700k** |
-| **November 2015** | Rose asks remaining two contractors to submit reduced-scope bids |
-| **November 24, 2015** | Board meeting — investigation update |
-| **January 1, 2016** | Management transitions from Summit to **Superior Community Management** |
-| **January 21, 2016** | Annual meeting — Bob Seelig presents update with photos of dry rot/water damage |
-| **February 4, 2016** | Building Envelope Condition Assessment (BECA) report received at Superior |
-| **February 5, 2016** | BECA distributed to Board |
-| **February 23, 2016** | BECA mailed to homeowners with cover letter; homeowners advised of potential **legal disclosure obligation** |
-| **March 1, 2016** | CondoCerts posts the BECA report |
-| **March 15, 2016** | Reduced-scope bids ~**$395,000** before allowances/alternates from both remaining vendors |
-| **April 11, 2016** | Rose presentation of building envelope findings |
-| **April 25, 2016** | Board meeting includes building envelope repair discussion |
+| Starting Reserve Balance | $169,961 |
+| Fully Funded Reserve Balance | $816,968 |
+| Percent Funded | **21%** |
+| Current Replacement Cost (all components) | $1,956,393 |
+| Deficit vs. Fully Funded | **($647,007)** (≈ ($30,810)/unit) |
+| Inflation rate (assumed) | 4.00% |
+| Interest rate (assumed) | 3.00% |
 
-(Source: CC&Rs § 11 — Water Intrusion Project Timeline)
+(Source: PONO Executive Summary.)
 
-## Practical Implications
+## Funding plans
 
-- **Disclosure**: Homeowners selling a unit may have a legal obligation to disclose information from the BECA and BEAR reports (Source: CC&Rs § 11 — Feb 23, 2016 entry).
-- **Owner-responsibility repairs on the building envelope** require ARC application with potential professional weatherproofing review (Source: Rules and Regulations § Board Resolution Nov 2016 — Resolved). See [Maintenance Responsibility](maintenance-responsibility.md) and [Architectural Review](architectural-review.md).
-- **Special assessments** for repair work are governed by the broadened CC&Rs Article IV § 4 (per [First Amendment, Sept 2, 2016](governing-documents.md)) and require approval of 2/3 of votes of each class. See [Assessments and Fees](assessments-and-fees.md).
+| Plan | First-year contribution | Per-unit/month | Meets 30-yr expenditures? | First deficit year |
+|---|---|---|---|---|
+| **2025 Funding Model ★ (recommended)** | $35,000 | $138.89 | Yes | N/A |
+| Current (status quo) | $33,291 | $132.11 | **No** | 2039 |
+| Funding Model B | $40,000 | $158.73 | Yes | N/A |
+
+The recommended **2025 Funding Model** prescribes:
+
+- **Years 1–14: 13.00%** annual increase to reserve contributions.
+- **Years 15–22: 8.00%** annual increase.
+- **Years 23–30: 4.00%** annual increase.
+
+If maintained, this plan meets all anticipated 30-year expenditures (Source: PONO 2025 Funding Model description). The **Current** plan (4% annual increase) goes negative in **2039**.
+
+## Component inventory
+
+| Component | UL (yrs) | RUL (yrs) | Date in Service | Current Cost | 2025 Reserve Contribution (current plan) |
+|---|---|---|---|---|---|
+| Concrete (Walks) — Repair Allowance | 10 | 4 | 2019 | $2,600 | $120 |
+| Hardie Siding — Replacement (52,560 SF) | 30 | 22 | 2017 | $946,080 | $14,496 |
+| Irrigation — Backflow Device | 15 | 4 | 2014 | $1,955 | $60 |
+| Irrigation — System Upgrades Allowance | 3 | 2 | (recurring) | $5,000 | $766 |
+| Landscape — Bark-Dust | 3 | 2 | (recurring) | $3,500 | $536 |
+| Landscape — Tree Maintenance | 3 | 2 | (recurring) | $5,000 | $766 |
+| Landscape — Upgrades Allowance | 5 | 4 | (recurring) | $5,000 | $460 |
+| Ground Flood Lights | 10 | 7 | — | $1,250 | $57 |
+| Mailboxes — 12-Gang CBU (×2) | 20 | 16 | 2021 | $3,952 | $91 |
+| Mailboxes — Enclosure | 22 | 15 | — | $1,976 | $41 |
+| Monument Sign | 10 | 3 | — | $1,500 | $69 |
+| Exterior — Metal Rails (Paint) | 8 | 5 | 2022 | $4,680 | $269 |
+| Exterior — Siding & Trim (Paint) | 13 | 11 | 2023 | $156,000 | $5,516 |
+| Gutters and Downspouts | 15 | 14 | 2018/2024 | $14,200 | $435 |
+| Heat Stacks (×21) | 30 | 14 | — | $10,500 | $161 |
+| Roofing — Low Slope Areas (×6) | 14 | 0 | — | $15,600 | $512 |
+| Roofing — Presidential Shingle (51,840 SF) | 40 | 14 | — | $777,600 | $8,936 |
+| **TOTAL** | | | | **$1,956,393** | **$33,291** |
+
+(Source: PONO Component Inventory; Percent Funded Analysis.)
+
+## Anticipated expenditures — 5-year outlook
+
+| Year | Component(s) | Estimated Expenditure |
+|---|---|---|
+| 2025 | Roofing — Low Slope Areas | $15,600 |
+| 2026 | (none scheduled) | $0 |
+| 2027 | Irrigation upgrades; Bark-dust; Tree maintenance | $14,602 |
+| 2028 | Monument Sign | $1,687 |
+| 2029 | Concrete walks; Backflow device; Landscape upgrades | $11,178 |
+
+(Source: PONO Anticipated Expenditures (5 Years).)
+
+## Anticipated expenditures — major upcoming projects
+
+- **2030** — Exterior metal rails repaint; recurring landscape items. Total: **$22,119**.
+- **2036** — **Exterior Siding & Trim repaint (~$240,155)** plus recurring landscape: **$260,937 total**.
+- **2039** — Major roofing event: **Presidential Shingle roof replacement (~$1.35M)**, low-slope roofing, gutters, downspouts, heat stacks, plus recurring landscape: **$1,452,877 total**.
+- **2047** — **Hardie Siding replacement (~$2.24M)**: **$2,242,133 total**.
+- **2049** — Exterior Siding & Trim repaint (~$399,875) and other items: **$419,357 total**.
+
+(Source: PONO Anticipated Expenditures (30 Years).)
+
+## Notes from PONO inspector and Board
+
+- **Hardie Siding:** Replacement of existing Hardie Plank lap siding (Source: PONO).
+- **Roofing — Low Slope Areas:** PONO recommends further inspection due to concerns with integration with shingled areas (Source: PONO).
+- **Roofing measurements** were determined using Roofr roof mapping software (Source: PONO).
+- **Heat Stacks:** Included price is for work done at the same time as roof replacement; if done separately, cost will be higher (Source: PONO).
+- **Gutters and Downspouts:** Typically replaced in conjunction with the re-roof project to minimize mobilization and avoid damage (Source: PONO).
+- **Paint cycle disagreement:** Painter says siding paint is good for 12+ years (2023) and rail paint is warranted 15 years (2022); PONO recommends an 8–10 year paint cycle for both.
+
+## Hidden / out-of-scope items
+
+The PONO site visit was a limited scope visual inspection. **Hidden components such as irrigation systems, vaults, stormwater facilities, electric, plumbing, utility, structural, foundations, and construction defects (known or unknown) are NOT included** in the scope of this reserve study. The site visit did not include destructive or other testing (Source: PONO Disclosure).
 
 ## Sources
 
-- `source/2025-10-11 CC&Rs.md` — § 6 (Certa Building Envelope Condition Assessment); § 7 (Appendix A Visual Review); § 8 (Appendix B Exploratory Openings, 7 openings); § 9 (Appendix C Conceptual Scope of Repair); § 10 (BEAR Supplemental Investigation, 10 openings); § 11 (Project Timeline)
-- `source/2025-10-11 Rules and Regulations.md` — Board Resolution Nov 2016 (ARC review for owner exterior repairs)
+- `source/PONO-RS1-SummitRidgeTH-240419-v2 Final.md`
+- `source/590 Special Repair Assessment Resolution 05.24.18.md`
+- `source/590 Welcome Handbook and Resolutions.md` — Special Repair Assessment section
+- `source/2025.07.07_summitridge townhomes_amended and restated declaration.md` — Recitals
+- Budget documents

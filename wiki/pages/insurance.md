@@ -1,60 +1,97 @@
 # Insurance
 
-## Association-Maintained Insurance
+The Association and individual Owners each carry distinct insurance obligations.
 
-The Association maintains the following coverage funded as a common expense:
+## Association policies (required)
 
-| Coverage | Minimum / Requirement | Source |
+The Board must obtain and maintain (Source: Declaration Article II § 3.F; Bylaws Article XII):
+
+- **Public liability and property damage** on Common Area: not less than **$1,000,000 per person, per occurrence**; not cancellable or substantially modifiable without at least 10 days' written notice to the Association.
+- **Fire and extended-coverage casualty** (including vandalism and malicious mischief) on each Building Structure and Common Area improvements: **100% of replacement cost** (blanket basis permitted).
+- Casualty policy should include (if reasonably available) (a) waiver of subrogation by the insurer against the Board, any Owner, or any Owner's guest, and (b) waiver of the insurer's right to repair/reconstruct in lieu of paying cash.
+- **Director and Officer (D&O) insurance** — at the Board's discretion (Source: Bylaws Article XII § 2; Rules and Regulations Insurance section).
+- **Fidelity** insurance for officers, directors, trustees, employees, and others handling Association funds (Source: Rules and Regulations Insurance section).
+- **Workers' compensation** to the extent applicable laws require (Source: Rules and Regulations Insurance section).
+
+Policies should be written by an insurer with at least a "B" general policyholder's rating and "III" financial size category in Best's "Key Rating Guide", and may carry a reasonable deductible up to the lesser of $10,000 or 1% of policy face value, with the deductible added to face value (or an "endorsement for full replacement cost") to meet the replacement cost requirement (Source: Bylaws Article XII § 1). The Board reviews insurance coverage **at least every two years** and seeks an "inflation guard" endorsement if reasonably available (Source: Bylaws Article XII § 3).
+
+Premiums are a common expense (Source: Bylaws Article XII § 3). The Association may not bring an Owner's or mortgagee's insurance into contribution with the Association's coverage (Source: Bylaws Article XII § 1; Declaration Article II § 3.G).
+
+## Owner policies (required)
+
+Each Owner must obtain and maintain (Source: Declaration Article II § 3.G; Rules and Regulations Insurance):
+
+- **Public liability and property damage** on the Lot: not less than **$500,000 per person, per occurrence**.
+- **Fire and extended-coverage casualty** (including vandalism and malicious mischief) on all insurable improvements on the Lot **other than the Building Structure**: 100% replacement cost.
+- Casualty insurance on the Owner's personal property.
+- (For Owners who rent) liability insurance specific to tenant occupancy, with limits set from time to time by the Board, **naming the Association as additional insured** (Source: Second Amendment 2B (Rental Restrictions) § M(3)(d); see [Rentals](rentals.md)).
+
+Owners may **not** obtain the coverages required of the Association under § 3.F, and Owner (or mortgagee) coverage may not be brought into contribution with the Association's (Source: Declaration Article II § 3.G).
+
+## Historical Evidence of Insurance
+
+### 2021–2022 (recorded 08/03/2021)
+
+- Agency: Creative Insurance Marketing Company (Tigard, OR)
+- Carriers: Nationwide Assurance (BOP); Nationwide Mutual (umbrella); Hartford Fire (fidelity)
+- Term: 08/01/2021 – 08/01/2022
+
+| Coverage | Amount | Deductible |
 |---|---|---|
-| Public liability and property damage (Common Area) | **Not less than $1,000,000 per person, per occurrence** | CC&Rs Article II § 3.F(1) |
-| Fire and extended-coverage casualty (Building Structures + Common Area improvements; includes vandalism and malicious mischief) | **100% of replacement cost** (may be blanket) | CC&Rs Article II § 3.F(1) |
-| Property damage on Common Areas | Required | Rules and Regulations § Insurance |
-| Comprehensive public liability | Required | Rules and Regulations § Insurance |
-| Fidelity insurance for officers, directors, trustees, employees handling funds | Required | Rules and Regulations § Insurance |
-| Workers compensation | As required by applicable law | Rules and Regulations § Insurance |
-| Directors' and Officers' liability | Required | Rules and Regulations § Insurance |
+| Blanket property (6 buildings / 21 units), special form, replacement cost | $5,949,700 | $5,000 |
+| Earthquake, replacement cost | $5,949,700 | 10% |
+| Directors & Officers liability | $1,000,000 | N/A |
+| General liability per occurrence | $1,000,000 | N/A |
+| General liability aggregate | $2,000,000 | N/A |
+| Commercial umbrella per occurrence/aggregate | $1,000,000 | N/A |
+| Master fidelity package | $300,000 | $1,000 |
 
-### Cancellation Notice
-Coverage cannot be canceled or substantially modified without **at least 10 days' written notice** to the Association (Source: CC&Rs Article II § 3.F(1)).
+(Source: `Master association insurance certificate.md` — ACORD 27.)
 
-### Casualty Policy Terms (if reasonably available)
-- Waiver of subrogation by insurer as to claims against the Board, any Owner, or any guest
-- Waiver by insurer of right to repair/reconstruct in lieu of paying cash
+### 2023–2024 (recorded 07/26/2023)
 
-(Source: CC&Rs Article II § 3.F(1))
+- Agency: Sandin Insurance Group (Portland, OR)
+- Carriers: Nationwide Mutual; Hartford Fire (fidelity)
+- Term: 08/01/2023 – 08/01/2024
 
-### Insurer Quality and Deductibles (Bylaws)
-Where possible, policies should be written by an insurer with a **"B" general policyholder's rating** and a **"III" financial size category** in Best's Key Rating Guide (Source: Bylaws Article XII § 1).
-
-Policies may contain a reasonable deductible **not to exceed the lesser of $10,000 or 1% of policy face value** for fire and extended coverage. Deductible amount must be added to face amount when determining whether coverage equals at least full replacement cost — or the policy must include a full-replacement-cost endorsement (Source: Bylaws Article XII § 1).
-
-### Inflation Guard and Review
-The Board reviews insurance coverage **at least every two years**. If reasonably available, policies must comply with the Oregon Planned Community Act and have an **"inflation guard" endorsement** (Source: Bylaws Article XII § 3).
-
-### D&O Insurance (Discretionary)
-The Association may, at the Board's discretion, purchase and maintain D&O insurance on behalf of any current or former Director, Officer, employee, or agent — whether or not the Association would have indemnification power (Source: Bylaws Article XII § 2).
-
-### Non-Contribution
-Association-obtained insurance is not brought into contribution with insurance bought by Members or their mortgagees (Source: CC&Rs Article II § 3.G; Bylaws Article XII § 1).
-
-## Owner-Required Insurance
-
-Each Owner must obtain and maintain at the Owner's expense:
-
-| Coverage | Minimum | Source |
+| Coverage | Amount | Deductible |
 |---|---|---|
-| Public liability and property damage (per Lot) | **Not less than $500,000 per person, per occurrence** | CC&Rs Article II § 3.G |
-| Fire and extended-coverage casualty (insurable Improvements on the Lot, **other than** the Building Structure itself) | **100% of replacement cost** | CC&Rs Article II § 3.G |
-| Personal property (fire and extended coverage) | Owner's responsibility | CC&Rs Article II § 3.G |
+| Blanket property (6 buildings / 21 units), special form, replacement cost | $8,284,800 | $5,000 |
+| Earthquake, replacement cost | $8,284,800 | 10% |
+| Directors & Officers liability | $1,000,000 | N/A |
+| General liability per occurrence | $1,000,000 | N/A |
+| General liability aggregate | $2,000,000 | N/A |
+| Commercial umbrella per occurrence/aggregate | $1,000,000 | N/A |
+| Master fidelity package | $300,000 | $1,000 |
 
-No Owner may obtain any of the coverages described in CC&Rs Article II § 3.F (Association coverages), nor may any Owner-obtained or mortgagee-obtained policy be brought into contribution with Association insurance (Source: CC&Rs Article II § 3.G).
+(Source: `Summitridge TH Evidence Of Property Insurance 23-24.md` — ACORD 27.)
 
-## Insurance for Rental Units
+### Budgeted insurance expense
 
-Any Owner who rents a Living Unit must obtain and maintain a liability insurance policy covering tenant occupancy and use of the unit and Common Area, with limits set by the Board, **naming the Association as an additional insured** (Source: CC&Rs Second Amendment Nov 2017 § 1.M(3)(d)). See [Rentals](rentals.md).
+| Year | Insurance line (acct 6061) |
+|---|---|
+| 2022 | $15,000 |
+| 2023 | $16,000 |
+| 2024 | $16,000 |
+| 2025 | $22,069 |
+| 2026 | $20,300 |
+
+(Source: budget documents.)
+
+## Insurance proceeds use restriction
+
+So long as required by FHLMC, **hazard insurance proceeds for Common Properties losses may not be used for any purpose other than repair/replacement/reconstruction** of those Common Properties (Source: Declaration Article XIII § 4.D).
+
+## Eligible Holder notice
+
+Lapse, cancellation, or material modification of any Association insurance policy or fidelity bond requires written notice to Eligible Holders (Source: Declaration Article XIII § 1.D; see [Mortgagee Rights](mortgagee-rights.md)).
 
 ## Sources
 
-- `source/2025-10-11 CC&Rs.md` — Article II § 3.F, § 3.G; Second Amendment Nov 2017 § 1.M(3)(d)
-- `source/2025-10-11 Bylaws.md` — Article XII §§ 1–3
-- `source/2025-10-11 Rules and Regulations.md` — Insurance section
+- `source/2025.07.07_summitridge townhomes_amended and restated declaration.md` — Article II § 3.F/G; Article XIII
+- `source/590 Summitridge Bylaws.md` — Article XII
+- `source/Master association insurance certificate.md`
+- `source/Summitridge TH Evidence Of Property Insurance 23-24.md`
+- `source/2026-0304-SRTHHOA-Rules and Regulations.md` — Insurance section
+- `source/590 2nd Amend to Dec - Rent Restrict.md` — § M(3)(d)
+- Budget documents

@@ -1,85 +1,38 @@
 # Mortgagee Rights
 
-CC&Rs Article XIII establishes special rights for holders, insurers, or guarantors of first mortgages on Lots. Some provisions benefit only **Eligible Holders** — institutional first-mortgage holders who have provided written request for notices to the Association.
-
-## Eligible Holder
-
-An Eligible Holder is an institutional holder, insurer, or guarantor of a first mortgage encumbering a Lot who has provided written request for notices to the Association. The request must state the name and address of the Eligible Holder and the applicable Lot (Source: CC&Rs Article XIII § 1).
+Article XIII of the Declaration grants specific rights to holders, insurers, and guarantors of first mortgages on Lots. An "**Eligible Holder**" is an institutional holder/insurer/guarantor of a first mortgage that has provided the Association with a written request for notices stating its name, address, and the applicable Lot (Source: Declaration Article XIII § 1).
 
 ## Notices to Eligible Holders
 
-An Eligible Holder is entitled to timely written notice of:
+Eligible Holders are entitled to timely written notice of:
 
-- **A.** Any proposed termination of the Association.
-- **B.** Any condemnation loss or casualty loss which affects a material portion of the Common Properties or any Lot on which the Eligible Holder holds a first mortgage.
-- **C.** Any **delinquency in the payment of assessments or charges** owed by the Owner of a Lot subject to the Eligible Holder's mortgage, where the delinquency has continued for **60 days** (Source: also CC&Rs Article IV § 8.C).
-- **D.** Any lapse, cancellation, or material modification of any insurance policy or fidelity bond maintained by the Association.
-- **E.** Any proposed action which would require the consent of Eligible Holders.
+- Any proposed termination of the Association.
+- Any condemnation loss or casualty loss affecting a material portion of the Common Properties or any Lot encumbered by the Eligible Holder's first mortgage.
+- Any **delinquency in payment of assessments** by an Owner of a mortgaged Lot that has continued for **60 days**.
+- Any lapse, cancellation, or material modification of any Association insurance policy or fidelity bond.
+- Any proposed action requiring Eligible Holder consent under Sections 2 and 3 of Article XIII.
 
-(Source: CC&Rs Article XIII § 1)
+(Source: Declaration Article XIII § 1.)
 
-## Restoration / Repair After Loss
+The Board is also required to notify any first mortgagee of any Lot of any default in the Declaration's terms by the Lot Owner that is not cured within 60 days (Source: Declaration Article IV § 8.C).
 
-Restoration or repair of the Common Properties after a partial condemnation or damage from an insurable hazard must be substantially in accordance with the Declaration and the original plans and specifications, **unless approval of alternative action is obtained from Eligible Holders of first mortgages on 51% of Lots subject to mortgages held by Eligible Holders** (Source: CC&Rs Article XIII § 2.A).
+## Consent Thresholds
 
-## Termination After Substantial Loss
+- **Restoration/repair after partial condemnation or insured damage** that departs from the Declaration and original plans: requires approval of Eligible Holders of first mortgages on **51%** of mortgaged Lots (Source: Article XIII § 2.A).
+- **Termination of the Association after substantial destruction or condemnation:** approval of Eligible Holders representing at least **51%** of votes of mortgaged Lots (Source: Article XIII § 2.B).
+- **Termination of the Association (general):** prior written consent of the City, plus consent of at least **75%** of Class A votes (and the Declarant while it still owns Lots), plus approval of Eligible Holders of first mortgages on **75%** of mortgaged Lots (Source: Article XIII § 3.A).
+- **Material amendments** to the Declaration, Bylaws, or Articles touching enumerated topics (voting; assessments/liens; reserves; insurance/fidelity bonds; Common Properties use/maintenance/configuration; Lot boundaries; leasing; rights of first refusal; provisions for Eligible Holders): consent of ≥75% of Class A votes (and Declarant if still an Owner) plus Eligible Holders of **51%** of mortgaged Lots (Source: Article XIII § 3.B). City consent additionally required for matters affecting Tracts A and B reserves, use, maintenance, configuration (Source: Article XIII § 3.B last paragraph).
 
-Election to terminate the Association after substantial destruction or condemnation must require approval of Eligible Holders of first mortgages on Lots to which at least **51%** of the votes of Lots subject to mortgages held by Eligible Holders are allocated (Source: CC&Rs Article XIII § 2.B).
+## Special FHLMC Provision
 
-## Amendment of Constituent Documents
+So long as required by Freddie Mac, two-thirds (2/3) of Eligible Holders or Owners must consent before the Association may (a) abandon/partition/subdivide/sell/transfer the Common Properties; (b) change the method of determining obligations, assessments, dues, or other charges; (c) change/waive/abandon any scheme of architectural design/exterior appearance regulations or their enforcement; (d) use hazard insurance proceeds for any Common Properties losses other than repair, replacement, or reconstruction of those properties (Source: Declaration Article XIII § 4).
 
-To **terminate the Association**, all of the following are required:
-- Prior written consent of the City of Lake Oswego
-- Consent of at least **75% of Class A votes**
-- Consent of Declarant (so long as it owns any land subject to the Declaration)
-- Approval of Eligible Holders of first mortgages on Lots to which at least **75%** of votes subject to mortgages appertain
+First mortgagees may, jointly or singly, pay taxes or other charges in default and are entitled to immediate reimbursement from the Association (Source: Article XIII § 4).
 
-(Source: CC&Rs Article XIII § 3.A)
+## Assessment Lien vs. First Mortgage
 
-To **materially amend** any provision of the Declaration, Bylaws, or Articles of Incorporation governing the matters listed below, all of the following are required:
-- Consent of at least **75% of Class A votes**
-- Consent of Declarant (so long as it owns any land)
-- Approval of Eligible Holders of first mortgages on Lots to which at least **51%** of votes subject to mortgages appertain
-
-The protected matters are:
-- (i) Voting
-- (ii) Assessments, assessment liens, or subordination of such liens
-- (iii) Reserves for maintenance, repair, and replacement of the Common Properties
-- (iv) Insurance or fidelity bonds
-- (v) Rights to use of the Common Properties
-- (vi) Responsibility for maintenance and repair of the Common Properties
-- (vii) Expansion or contraction of the Common Properties or addition/annexation/withdrawal of Common Properties
-- (viii) Boundaries of any Lot
-- (ix) Leasing of Lots
-- (x) Imposition of any right of first refusal or similar restriction on an Owner's right to sell, transfer, or convey
-- (xi) Any provisions for the express benefit of Eligible Holders
-
-The **prior written consent of the City** is also required for amendments covered by Subsections 3.B(iii), (v), (vi), and (vii), and any other amendment affecting maintenance, repair, use, insurance, configuration, or withdrawal of Tracts A and B (Source: CC&Rs Article XIII § 3.B).
-
-## Special FHLMC Provisions
-
-So long as required by the Federal Home Loan Mortgage Corporation, **two-thirds (2/3) of the Eligible Holders or Owners** must consent for the Association to:
-
-- **A.** Abandon, partition, subdivide, sell, or transfer the Common Properties (granting easements for public utilities or other public purposes consistent with intended use is **not** a transfer)
-- **B.** Change the method of determining obligations, assessments, dues, or other charges levied against an Owner
-- **C.** By act or omission, change, waive, or abandon any scheme of regulations or enforcement pertaining to architectural design or exterior appearance and maintenance of Lots and Common Properties
-- **D.** Use hazard insurance proceeds for any Common Properties losses for any purpose other than repair, replacement, or reconstruction
-
-The 2/3 threshold does not reduce a higher percentage that may otherwise be required (Source: CC&Rs Article XIII § 4).
-
-## Mortgagee Right to Pay Defaulted Charges
-
-First mortgagees may, jointly or singly, pay taxes or other charges in default that may or have become a charge against the Common Properties; such payments are entitled to immediate reimbursement from the Association (Source: CC&Rs Article XIII § 4).
-
-## Mortgagee Representation at Meetings
-
-Mortgagees who request notice are also given notice of Member meetings. Mortgagees of a Lot may **designate a representative to attend** (Source: Bylaws Article IV § 3).
-
-## FHLMC / FNMA Eligibility
-
-It is Declarant's intention that the Property qualify for sale of mortgages encumbering Lots to FNMA and/or FHLMC. **If FHLMC or FNMA subsequently delete any of their requirements which necessitate the provisions of this Section, or make any such requirements less stringent, this Section automatically shall be amended to reflect such changes** (Source: CC&Rs Article XIII § 4).
+The Association's assessment lien is **subordinate** to a first mortgage or deed of trust. Foreclosure of a senior mortgage (including non-judicial sale under a deed of trust) extinguishes the assessment lien for amounts that became liens before the foreclosure; assessments thereafter remain Lot obligations (Source: Declaration Article IV § 9).
 
 ## Sources
 
-- `source/2025-10-11 CC&Rs.md` — Article IV § 8.C; Article XIII §§ 1–4
-- `source/2025-10-11 Bylaws.md` — Article IV § 3
+- `source/2025.07.07_summitridge townhomes_amended and restated declaration.md` — Articles IV § 8–9, XIII

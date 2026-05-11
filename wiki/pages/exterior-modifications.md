@@ -1,67 +1,80 @@
-# Exterior Modifications
+# Exterior Modifications (Decks, Patios, A/C, Antennas, Lighting, Flags, Decorations)
 
-All exterior changes require [Architectural Review](architectural-review.md) approval, with limited exceptions noted below.
+All exterior modifications require Architectural Committee approval before commencement. See [Architectural Review](architectural-review.md) for process and timing.
 
 ## Decks and Patios
 
-- Decks and patios shall **present an attractive appearance at all times** (Source: Rules and Regulations § Architecture — Decks/Patios).
-- Decks are **not to be used as storage areas** (no bicycles, tarps, garbage/recycling bins, etc.) (Source: Rules and Regulations § Architecture — Decks/Patios).
-- BBQs, patio furniture, and plants are all acceptable. All patio/table umbrellas should be in good repair (Source: Rules and Regulations § Architecture — Decks/Patios).
-
-## Antennas and Satellite Dishes
-
-- Exterior antennas/satellite dishes are **not permitted** on any building lot **except as approved by the Architectural Committee** (Source: Rules and Regulations § Architecture — Antennas & Satellite Dishes; CC&Rs Article VII § 2.G).
-
-### Maximum Size: 18 inches
-The governing maximum is **18 inches in diameter** per **CC&Rs Article VII § 2.G**, which states satellite receiver and transmission disks "shall not exceed 18 inches" and the location must be approved by the AC and not interfere with a neighbor's view or enjoyment of their home.
-
-The Rules and Regulations § Antennas & Satellite Dishes states a 24-inch limit, but the Declaration controls in any irreconcilable conflict (Source: Bylaws Article XXI). Owners should verify with the AC before installation.
+- Decks and patios must "present an attractive appearance at all times" (Source: Handbook — Decks/Patios).
+- **Decks may not be used as storage areas** — no bicycles, tarps, garbage/recycling bins, etc.
+- **Permitted on decks/patios:** BBQs, patio furniture, plants. Patio/table umbrellas should be in good repair.
+- **Planters on deck or deck rails** require **footed pots, saucers, or space under pots for ventilation** to prevent rot or staining of wood/cement (Source: Handbook — Flower pots).
+- Owners are responsible for the Lot's **Outdoor Living Area** (Source: Handbook — Building Lots).
 
 ## Air Conditioning and Fans
 
-- **No window box air conditioners or fans** that extend past the window frame are permitted (Source: Rules and Regulations § Architecture — Air Conditioning/Fans).
-- **Central air units** are authorized to be installed on the **side or backside of the house** where designated wiring is available. Exceptions are made through Architectural Committee review (Source: Rules and Regulations § Architecture — Air Conditioning/Fans).
+- **Window-box A/C and fans that extend past the window frame:** **prohibited** (Source: Handbook — A/C/Fans).
+- **Central A/C units:** authorized for installation on the **side or backside of the house** where designated wiring is available. **Exceptions require AC review.**
+- Owners maintain their own A/C and heating equipment (Source: Declaration Article II § 3.E(2)).
 
-## Exterior Lighting Maintenance
+## Antennas and Satellite Dishes
 
-All **exterior entrance, porch, and garage lights** shall be maintained at all times by the homeowner (Source: Rules and Regulations § Architecture — Exterior Lighting Maintenance).
+- Exterior antennas may not be placed on a Lot except as approved by the AC (Source: Declaration Article VII § 2.G).
+- Exterior satellite receiver/transmission dishes are allowed if:
+  - **Size does not exceed 24 inches in diameter** (Source: Handbook — Antennas & Satellite Dishes). The Declaration permits up to one meter, but the Board's Handbook sets the stricter 24-inch community standard.
+  - **Location is approved by the AC.**
+  - Does not interfere with a neighbor's view or enjoyment of their home.
+- The Handbook: "Exterior antenna or satellite dishes shall not be permitted to be placed upon any building lot except as approved by the Architectural Committee" (Source: Handbook — Antennas & Satellite Dishes).
 
-## Landscape Lighting
+## Exterior Lighting
 
-Homeowners must have **approval from the Architectural Committee** prior to installing landscape lighting. Homeowners are responsible for maintaining installed landscape lighting (Source: Rules and Regulations § Architecture — Landscape Lighting).
+- **Owner responsibility:** all exterior entrance, porch, and garage lights must be maintained at all times by the homeowner (Source: Handbook — Exterior Lighting Maintenance; Maintenance Resolution Attachment A #11).
+- **Landscape lighting:** Owners **must have AC approval prior to installing** landscape lighting. Owners are responsible for maintaining installed landscape lighting (Source: Handbook — Landscape Lighting).
 
-## Seasonal Decorations and Holiday Lighting
+## Seasonal Decorations / Holiday Lighting
 
-- Holiday lighting and decorations (e.g. Easter and Halloween) must be removed **one week** following the holiday.
-- Christmas lights and decorations must be removed by the **first week of the New Year**.
+- **Easter, Halloween, etc.:** decorations/lighting must be removed **one week following the holiday**.
+- **Christmas:** lights and decorations must be removed **by the first week of the New Year**.
 
-(Source: Rules and Regulations § Architecture — Season Decorations and Holiday Lighting)
+(Source: Handbook — Season Decorations and Holiday Lighting.)
 
-## Decorative Flags / Holders
+## Decorative Flags / Flag Holders
 
-- **Flags no larger than 6 feet** may be installed (Source: Rules and Regulations § Architecture — Decorative Flag/Holders).
-- **Seasonal flags** may be displayed no more than **one month prior to a holiday** or beginning of season and must be **removed within two weeks** following the holiday or end of season (Source: Rules and Regulations § Architecture — Decorative Flag/Holders).
+- Flags must be **no larger than 6 feet**.
+- **Seasonal flags** may be displayed no more than one month before the holiday/season and must be removed **within two weeks following** the holiday/end of season.
 
-## Service Yards
+(Source: Handbook — Decorative Flag/Holders.)
 
-Service yards (garbage, fuel tanks, clotheslines, etc.) must be **completely screened** so that the elements screened are not visible at any time from the street or any adjoining property (Source: CC&Rs Article VII § 2.F).
+## Temporary Structures, Sheds, Trailers
 
-## Underground Utilities Required
+- **No temporary structure, trailer, basement, tent, shack, garage, or other outbuilding** may be used as a residence (temporarily or permanently) (Source: Declaration Article VII § 2.E; Article VI § 1.A).
+- **Garden sheds and tool sheds may not be erected** (Source: Declaration Article VI § 1.A).
+- **No trailer, camper, pickup coach, tent, boat, or truck (except pickup)** may be parked, placed, erected, maintained, or constructed on any Lot, unless stored completely within a garage and not used for living purposes (Source: Declaration Article VI § 1.B).
 
-No outdoor overhead wires, poles, towers, or service drops are permitted; underground service is required for all electric and telephone connections (Source: CC&Rs Article VII § 2.I). See [Use Restrictions § Underground Utilities](use-restrictions.md#underground-utilities).
+## Service Yards (garbage, fuel tanks, clotheslines, etc.)
+
+Must be **completely screened** so the elements are not visible at any time from the street or any adjoining property (Source: Declaration Article VII § 2.F).
+
+## Fences, Walkways, Driveways
+
+- Fences and any structures on Lots are considered "Improvements" under Article I.G and require AC approval.
+- **Owners maintain walkways and driveways** (Source: Maintenance Resolution Attachment A #6; Declaration Article II § 3.E(2)).
+- **Owners maintain landscaping on the Lot, including any fences** (Source: Maintenance Resolution Attachment A #17).
+- Where utilities are constructed on side or rear Lot lines, **removal and/or replacement of fences for public access to utilities is at the Owner's expense** (Source: Declaration Article V § 1.I).
 
 ## Enforcement (Architecture)
 
+(Source: Handbook — Enforcement Procedures, Architecture.)
+
 | Offense | Action |
 |---|---|
-| **First** | Homeowner requested to remove infraction (warning); remedy within 24 hours |
-| **Second** | Letter of violation notice; remedy within 10 days |
-| **Third** | Letter of violation notice and fine of **$10.00 per day** starting on the 11th day of the infraction |
+| First | Remove infraction (warning); remedy within 24 hours |
+| Second | Letter of violation; remedy within 10 days |
+| Third | Letter of violation **plus $10.00/day fine** starting on day 11 |
 
-(Source: Rules and Regulations § Architecture — Enforcement Procedures)
+See also [Enforcement and Fines](enforcement-and-fines.md).
 
 ## Sources
 
-- `source/2025-10-11 CC&Rs.md` — Article VII §§ 2.F, 2.G, 2.I
-- `source/2025-10-11 Rules and Regulations.md` — Architecture section
-- `source/2025-10-11 Bylaws.md` — Article XXI (precedence)
+- `source/2025.07.07_summitridge townhomes_amended and restated declaration.md` — Articles V § 1.I; VI § 1; VII § 2
+- `source/2026-0304-SRTHHOA-Rules and Regulations.md` — Architecture, Decks/Patios, Antennas, A/C, Lighting, Flags, Decorations
+- `source/590 Maintenance Responsibility Resolution 11.01.2016.md` — Attachment A

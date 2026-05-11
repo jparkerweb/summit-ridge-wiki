@@ -2,33 +2,29 @@
 
 ## Annual Meeting
 
-A meeting of Members is held annually. The first meeting after the Turnover Meeting was held on or about each anniversary of the initial annual meeting (Source: Bylaws Article IV §§ 1–2).
-
-At each annual meeting, the President (and any other Officer designated by the Board or President) reports on activities and financial condition of the Association (Source: Bylaws Article IV § 5).
+The Association holds an annual meeting of Members. The first annual meeting was the **Turnover Meeting** (the initial meeting under the Oregon Planned Community Act); subsequent annual meetings are held on or about each anniversary (Source: Bylaws Article IV § 2). At each annual meeting the President (and any other officer designated by the Board) reports on activities and finances (Source: Bylaws Article IV § 5).
 
 ## Special Meetings
 
-Special meetings of Members may be called by:
-- the President,
-- a majority of the Board, or
-- written request of Members entitled to cast at least **25 percent** of Class A votes.
+Special meetings may be called by the President, by a majority of the Board, or by written request of Members entitled to vote at least **25%** of all Class A votes (Source: Bylaws Article IV § 6).
 
-(Source: Bylaws Article IV § 6)
+## Location
+
+Meetings must be held in Multnomah or Clackamas County, Oregon, at a date/time/place designated by the Secretary (Source: Bylaws Article IV § 3).
 
 ## Notice
 
-- Meetings must be held within **Multnomah or Clackamas County, Oregon**, on a date, time, and place set by the Secretary.
-- Written notice mailed (postage prepaid) to each Member entitled to vote, **at least 15 days but not more than 50 days** before the meeting.
-- Notice must specify: place, day, hour, and the items on the agenda — including the general nature of any proposed amendment to the Declaration or Bylaws, any budget changes, or any proposal to remove a Director or Officer.
-- Mortgagees who request notice must also receive it; mortgagees may designate a representative to attend.
-- Notice may be waived. **A Member present at a meeting may not object to the adequacy or timeliness of notice.**
+Written notice of each Members' meeting must be mailed at least **15 days** but not more than **50 days** before the meeting to each voting Member at the Member's last address on file, plus to any mortgagee requesting notice. Notice must specify place, day, hour, agenda items, and the general nature of any proposed amendment to the Declaration/Bylaws, budget changes, or director/officer removal proposals (Source: Bylaws Article IV § 3).
 
-(Source: Bylaws Article IV § 3)
+## Quorum, Proxies, Voting
 
-## Quorum and Voting
+See [Membership and Voting](membership-and-voting.md). Quorum is 20% of total votes (in person or by proxy); ordinary action requires a majority of votes represented and voting (Source: Bylaws Article IV § 4).
 
-See [Membership and Voting](membership-and-voting.md) for quorum (20%), proxies, and voting rules.
+## Action Without a Meeting
+
+Any action that the Members or Board may take at a meeting may be taken without a meeting if all eligible voters sign a written consent. The consent has the effect of a unanimous vote and is filed in the minutes (Source: Bylaws Article XX).
 
 ## Sources
 
-- `source/2025-10-11 Bylaws.md` — Article IV §§ 1–6
+- `source/590 Summitridge Bylaws.md` — Article IV, Article XX
+- `source/2025.07.07_summitridge townhomes_amended and restated declaration.md` — Article IV

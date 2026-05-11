@@ -1,74 +1,125 @@
 # Enforcement and Fines
 
-This page consolidates the enforcement procedures and fine schedules across the governing documents. For collection of unpaid assessments specifically, see [Collections and Delinquency](collections-and-delinquency.md).
+The Association has layered enforcement authority — Declaration, Bylaws, Board resolutions, and Handbook escalation matrices.
 
-## General Authority
+## Declaration-level enforcement (Article XI § 2)
 
-The Board has authority under [Bylaws Article XIV](governing-documents.md) to adopt rules and regulations and to **establish penalties for infractions**.
+### A. Use of Common Area / general violations
 
-Under the Declaration, the Association may, after notice and opportunity to be heard:
-- **Suspend** voting rights and right to use the Common Area (up to **60 days for infractions of rules**, or for the period violations remain unabated) (Source: CC&Rs Article XI § 2.A).
-- Impose **reasonable fines**, in the manner and amount the Board deems appropriate, paid into the Common Property Reserve Account (Source: CC&Rs Article XI § 2.A).
-- Bring suit or action against the Owner to enforce the Declaration (Source: CC&Rs Article XI § 2.A).
-- The Association may **not** deprive any Owner of access to and from the Owner's Lot (Source: CC&Rs Article XI § 2.A).
+For any violation of the Declaration, Bylaws, or rules and regulations governing Lots or Common Area, the Association, acting through the Board, may notify the Owner in writing and, after reasonable notice and **opportunity to be heard**:
 
-## Self-Help Remedy
+- **Suspend the Owner's voting rights and right to use the Common Area** for the period violations remain unabated (or for up to **60 days** for any infraction of rules and regulations).
+- **Impose reasonable fines** in the manner and amount the Board deems appropriate, paid into the **Common Property Reserve Account**.
+- **Bring suit or action** to enforce the Declaration.
 
-If an Owner constructs or permits an Improvement, activity, condition, or nuisance contrary to the Declaration to remain uncorrected on the Lot:
+Nothing in this Section gives the Association the right to deprive any Owner of **access to and from such Owner's Lot** (Source: Declaration Article XI § 2.A; Article IV § 8.B(1)).
 
-- **Fines** may be imposed.
-- **Removal of cause of violation**: The Association may **enter the offending Lot** and remove the cause of violation, alter, repair, or change the item to make it conform. The Association may assess such Owner for the entire cost of the work (paid into the Common Property Reserve Account). **Items of construction shall not be altered or demolished in the absence of judicial proceedings.**
-- **Notice**: Unless an emergency exists, the Board must give the violating owner **10 days' written notice** of its intent to exercise self-help.
-- **Costs**: All costs of self-help, including reasonable attorney's fees actually incurred, are assessed against the violating Owner and collected as assessments.
-- **Suit or action**: May be brought to enforce the Declaration.
+### B. Nonqualifying improvements / general protective covenants
 
-(Source: CC&Rs Article XI § 2.B)
+For improvements built contrary to the Declaration, or for Improvement/activity/condition/nuisance contrary to the Declaration left uncorrected:
 
-## Owner Rights
+1. **Written notice** to the Owner specifying violations; Owner is given **60 days** opportunity to be heard.
+2. If unresolved, in addition to other remedies the Board may:
+   - **Impose reasonable fines** (Source: Article XI § 2.B(1)).
+   - **Remove the cause of violation** (self-help): enter the offending Lot (not deemed trespass) and remove the violation or alter/repair the offending item. The Association may **assess the Owner for the entire cost of the work**. **Items of construction may not be altered or demolished in the absence of judicial proceedings.** Unless an emergency exists, the Board must give the Owner **10 days' written notice** of its intent to exercise self-help. Costs (including reasonable attorney fees actually incurred) are assessed against the Owner and collected as assessments (Source: Article XI § 2.B(2)).
+   - **Bring suit or action** on behalf of the Association and other Owners (Source: Article XI § 2.B(3)).
 
-Any aggrieved Owner may bring an action against another Owner or the Association to recover damages or to enjoin, abate, or remedy any violation (Source: CC&Rs Article XI § 2.C).
+### C. Nonexclusiveness of remedies
 
-## Attorney Fees
+Choosing one remedy doesn't bar others. Remedies are cumulative with all other remedies (damages, injunctions, specific performance) available at law (Source: Article XI § 2.C).
 
-In any suit to enforce the Declaration, collect money due, or foreclose a lien:
-- The Owner-defendant shall pay all costs and expenses incurred (including a foreclosure title report).
-- **The prevailing party** shall recover such amount as the court determines reasonable as **attorneys' fees at trial and on appeal or petition for review**.
+Any aggrieved Owner may bring an action against another Owner or the Association to recover damages or enjoin/abate/remedy any violation (Source: Article XI § 2.C).
 
-(Source: CC&Rs Article XI § 2.C)
+### Attorney fees
 
-## Lessees and Invitees
+In any Association suit/action to enforce the Declaration, collect money, or foreclose a lien, the **Owner-defendant pays all costs and expenses** (including foreclosure title report). The **prevailing party** in any such action recovers reasonable attorney fees at trial and on appeal (Source: Article XI § 2.C; Article IV § 8.D).
 
-Owners are responsible for compliance by their lessees, invitees, contractors, family members, and other persons entering under rights derived from the Owner — and are liable for failures of compliance by such persons in the same manner and to the same extent as if committed by the Owner (Source: CC&Rs Article XI § 7).
+## Bylaws-level rule adoption
 
-## Cumulative Remedies
+The Board has power to adopt and publish rules governing Common Area use and personal conduct of Members, guests, and tenants, and to **establish penalties for infractions**. Adoption requires a majority vote of the Board at a noticed meeting where notice included a verbatim copy of the proposed rules. Adopted rules are delivered to each Member; any rule that conflicts with the Bylaws or Declaration is null and void (Source: Bylaws Article XIV; Declaration Article II § 3.C).
 
-An election by the Association to pursue any remedy does not prevent concurrent or subsequent exercise of any other remedy. Remedies are not exclusive and are in addition to all other remedies (including damages and suits for injunctions and specific performance) available under applicable law (Source: CC&Rs Article XI § 2.C).
+## Handbook fine schedules
 
-## Specific Fine Schedules (Rules and Regulations)
+The Handbook (a Rules and Regulations document) sets specific escalation matrices.
 
-| Violation Type | First Offense | Second Offense | Third Offense |
-|---|---|---|---|
-| **Architecture** | Warning; remedy in 24 hrs | Letter; remedy in 10 days | Letter + **$10/day** from day 11 |
-| **Signage** | Warning; remedy in 24 hrs | Letter; remedy in 10 days | Letter + **$10/day** from day 11 |
-| **Rubbish/Trash** | Written warning (10-day cure under CC&Rs § VII.2.D) | Notice + **$10/day** until remedied | (consecutive treated as second) |
-| **Pets** | Violation notice from Managing Agent/Board | Notice + **$15/occurrence** | (consecutive treated as second) |
-| **Parking** | Notice on vehicle (warning); 24-hr cure | Notice on vehicle; 24-hr cure or **tow at owner's expense**; mailed letter | **Tow at owner's expense** (must be authorized by 2 people, one a Board member) |
-| **Garage misuse** | 30-day notice to remedy | Hearing + possible fine | **$200/month** until remedied |
+### Architecture
 
-(Source: Rules and Regulations — Architecture; Signage; Rubbish/Trash; Pets; Parking — Enforcement Procedures)
+| Offense | Action |
+|---|---|
+| First | Request to remove infraction; warning; remedy within 24 hours |
+| Second | Letter of violation; remedy within 10 days |
+| Third | Letter of violation **plus $10.00/day fine** starting day 11 |
 
-For Parking, **if more than 30 days passes between violations, the offenses recalculate** (Source: Rules and Regulations § Parking — Enforcement).
+### Signage
 
-## Suspension for Non-Payment
+| Offense | Action |
+|---|---|
+| First | Request to remove signage; warning; 24-hour remedy |
+| Second | Letter of violation; 10-day remedy |
+| Third | Letter of violation **plus $10.00/day** starting day 11 |
 
-The Association may suspend the Owner's voting rights and right to use the Common Area until amounts due are paid in full, and may accelerate all remaining periodic installments (Source: CC&Rs Article IV § 8.B(1)). See [Assessments and Fees](assessments-and-fees.md) and [Collections and Delinquency](collections-and-delinquency.md).
+### Trash
 
-## Rental Violations
+| Offense | Action |
+|---|---|
+| First | Written warning |
+| Second / consecutive | Written notice **plus $10.00/day** until remedied (after 10-day window) |
 
-In addition to other remedies, the Association may enforce violations of the Rental Restrictions section by imposition of a fine pursuant to a schedule of fines adopted by the Board, **subject to notice and hearing** as provided in the Oregon Planned Community Act, the Declaration, Bylaws, and Rules and Regulations. Unpaid fines become assessments against the Living Unit (Source: CC&Rs Second Amendment Nov 2017 § 1.M(4)). See [Rentals](rentals.md).
+### Pets
+
+| Offense | Action |
+|---|---|
+| First | Violation notice from Managing Agent and/or Board |
+| Second / consecutive | Violation notice **plus $15.00 per occurrence** |
+
+### Parking — Garage Use
+
+Failure to use the garage for vehicle parking (other than for permitted trailer/camper/boat parking): notice to remedy within **30 days**, then potential Board hearing. **A fine of $200 per month** can be levied until the violation is remedied.
+
+### Parking — General
+
+| Offense | Action |
+|---|---|
+| First | Violation notice on vehicle; 24-hour remedy or escalates |
+| Second | Violation notice on vehicle; 24-hour remedy or **tow at owner's expense**; letter mailed |
+| Third | **Tow at owner's expense** (must be authorized by two people, one a Board member) |
+
+If **more than 30 days pass** between violations, the offenses recalculate.
+
+### Trash and other CC&R violations under § VII(2)(D)
+
+If conditions persist longer than **10 days** after written notice, the Association has all rights and remedies under the Declaration, at law, or in equity (Source: Declaration Article VII § 2.D).
+
+(All Handbook fine schedules from Source: 2026-0304-SRTHHOA-Rules and Regulations.)
+
+## Common Property / Easement-level
+
+The Association may suspend an Owner's enjoyment rights to Common Property for any period during which any assessment remains unpaid, and for **up to 30 days** for any infraction of published rules and regulations (Source: Declaration Article III § 3.B).
+
+## Right of entry
+
+The Association may **enter any Lot after reasonable notice** to remove debris, weeds, or waste material, or to trim/cut back/cultivate/maintain landscaping, **and charge the expense to the Owner as an assessment** (Source: Declaration Article IX § 1).
+
+The Association may enter Lots for **emergency, security, or safety purposes** at any time. Except in emergencies, entry is only during reasonable hours after reasonable notice (Source: Declaration Article XII § 4).
+
+Agents/officers may also enter to inspect for compliance during construction or remodeling at any reasonable hour (Source: Declaration Article VII § 3).
+
+## Records as evidence
+
+Association records of compliance are **conclusive evidence**. After **1 year** following issuance of a building permit by a municipal authority, any structure/work/improvement/alteration is **deemed compliant** unless a notice of noncompliance has been recorded in Multnomah County or legal proceedings have been instituted (Source: Declaration Article VII § 4).
+
+## Municipal ordinances control where more restrictive
+
+Police, fire, and other local public safety ordinances of any municipal corporation having jurisdiction govern **where more restrictive** than the Declaration (Source: Declaration Article XI § 3).
+
+## Assessment lien for unpaid fines
+
+Fines and other charges imposed under the Declaration or Bylaws become a **lien against the Lot** from the date due, collected like assessments. See [Collections and Delinquency](collections-and-delinquency.md) (Source: Declaration Article IV § 8.B(2)).
 
 ## Sources
 
-- `source/2025-10-11 CC&Rs.md` — Article IV § 8; Article XI §§ 2, 7; Second Amendment Nov 2017 § 1.M(4)
-- `source/2025-10-11 Bylaws.md` — Article XIV
-- `source/2025-10-11 Rules and Regulations.md` — Architecture; Signage; Rubbish/Trash; Pets; Parking enforcement procedures
+- `source/2025.07.07_summitridge townhomes_amended and restated declaration.md` — Articles II § 3.C; III § 3.B; IV § 8; VII § 3, § 4; IX § 1; XI § 2, § 3; XII § 4
+- `source/590 Summitridge Bylaws.md` — Articles XIV, XXI
+- `source/2026-0304-SRTHHOA-Rules and Regulations.md` — Architecture, Signage, Trash, Pets, Parking enforcement matrices
+- `source/590 HOA Parking Regulations 01.16.2020.md`
+- `source/590 Maintenance Responsibility Resolution 11.01.2016.md`
