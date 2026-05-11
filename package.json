@@ -1,0 +1,11 @@
+{
+  "name": "summit-ridge-wiki",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "publish": "node scripts/publish.mjs"
+  },
+  "dependencies": {
+    "marked": "^14.1.3"
+  }
+}
