@@ -267,7 +267,12 @@ function renderIndexBody(indexMd, cats) {
   // Use the first paragraph(s) before the first ## as the lede.
   const firstH2 = indexMd.search(/^##\s/m);
   const head = firstH2 === -1 ? indexMd : indexMd.slice(0, firstH2);
-  const headHtml = decorateCitations(rewriteMdLinks(marked.parse(head)));
+  // Drop the boilerplate "derived from authoritative source documents" paragraph.
+  const trimmedHead = head
+    .split(/\r?\n\r?\n/)
+    .filter(p => !/derived from the authoritative source documents/i.test(p))
+    .join("\n\n");
+  const headHtml = decorateCitations(rewriteMdLinks(marked.parse(trimmedHead)));
   const cards = cats.map(c => {
     const items = c.items.map(it => {
       const href = it.href.replace(/\.md$/, ".html");
