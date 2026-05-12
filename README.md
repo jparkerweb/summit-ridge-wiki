@@ -21,7 +21,7 @@ This project gives you:
 ## Project layout
 
 ```
-20-Summit-Ridge-Wiki/
+Summit-Ridge-Wiki/
 ├── README.md                  ← you are here
 ├── source/                    ← immutable governing documents (read-only ground truth)
 │   ├── 2025-10-11 Bylaws.md
