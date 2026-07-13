@@ -31,6 +31,20 @@ a:hover { color: var(--secondary); }
 .menu-toggle { display: none; background: var(--primary); color: var(--tertiary); border: 2px solid var(--primary); padding: 8px 14px; font-family: var(--body); font-weight: 700; font-size: 12px; letter-spacing: 0.06em; text-transform: uppercase; cursor: pointer; border-radius: 0; }
 .menu-toggle:hover { background: var(--secondary); border-color: var(--secondary); }
 
+/* search */
+.search { position: relative; flex: 1 1 auto; max-width: 420px; }
+.search input { width: 100%; font-family: var(--body); font-weight: 500; font-size: 14px; padding: 9px 12px; border: 2px solid var(--border-strong); background: var(--bg); color: var(--text); border-radius: 0; -webkit-appearance: none; appearance: none; }
+.search input:focus { outline: none; border-color: var(--secondary); }
+.search input::placeholder { color: var(--text-3); text-transform: uppercase; letter-spacing: 0.08em; font-size: 12px; font-weight: 700; }
+.search-results { position: absolute; top: calc(100% + 6px); left: 0; right: 0; background: var(--bg); border: 2px solid var(--border-strong); z-index: 30; display: none; max-height: 60vh; overflow-y: auto; }
+.search-results.open { display: block; }
+.sr-item { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; padding: 10px 12px; text-decoration: none; border-bottom: 1px solid var(--border-subtle); }
+.sr-item:last-child { border-bottom: none; }
+.sr-item:hover, .sr-item.active { background: var(--surface); }
+.sr-title { font-size: 14px; font-weight: 500; }
+.sr-cat { font-family: var(--body); font-weight: 700; font-size: 10px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--text-2); white-space: nowrap; }
+.search-empty { padding: 12px; font-size: 13px; color: var(--text-2); }
+
 /* layout */
 .shell { max-width: 1200px; margin: 0 auto; display: grid; grid-template-columns: 280px 1fr; gap: 48px; padding: 48px 24px 96px; }
 .sidebar { border-right: 2px solid var(--border-subtle); padding-right: 24px; position: sticky; top: 80px; align-self: start; max-height: calc(100vh - 100px); overflow-y: auto; }
@@ -86,6 +100,8 @@ footer .built { font-family: var(--body); font-weight: 700; letter-spacing: 0.06
 
 /* responsive */
 @media (max-width: 880px) {
+  .masthead-inner { flex-wrap: wrap; }
+  .search { order: 3; flex-basis: 100%; max-width: none; }
   .shell { grid-template-columns: 1fr; gap: 24px; padding: 24px; }
   .sidebar { position: static; max-height: none; border-right: none; border-top: 2px solid var(--border-strong); padding: 24px 0 0; display: none; }
   .sidebar.open { display: block; }

@@ -71,6 +71,20 @@ a:hover { color: var(--secondary); }
 .menu-toggle { display: none; background: var(--primary); color: var(--tertiary); border: 2px solid var(--primary); padding: 8px 14px; font-family: var(--body); font-weight: 700; font-size: 12px; letter-spacing: 0.06em; text-transform: uppercase; cursor: pointer; border-radius: 0; }
 .menu-toggle:hover { background: var(--secondary); border-color: var(--secondary); }
 
+/* search */
+.search { position: relative; flex: 1 1 auto; max-width: 420px; }
+.search input { width: 100%; font-family: var(--body); font-weight: 500; font-size: 14px; padding: 9px 12px; border: 2px solid var(--border-strong); background: var(--bg); color: var(--text); border-radius: 0; -webkit-appearance: none; appearance: none; }
+.search input:focus { outline: none; border-color: var(--secondary); }
+.search input::placeholder { color: var(--text-3); text-transform: uppercase; letter-spacing: 0.08em; font-size: 12px; font-weight: 700; }
+.search-results { position: absolute; top: calc(100% + 6px); left: 0; right: 0; background: var(--bg); border: 2px solid var(--border-strong); z-index: 30; display: none; max-height: 60vh; overflow-y: auto; }
+.search-results.open { display: block; }
+.sr-item { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; padding: 10px 12px; text-decoration: none; border-bottom: 1px solid var(--border-subtle); }
+.sr-item:last-child { border-bottom: none; }
+.sr-item:hover, .sr-item.active { background: var(--surface); }
+.sr-title { font-size: 14px; font-weight: 500; }
+.sr-cat { font-family: var(--body); font-weight: 700; font-size: 10px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--text-2); white-space: nowrap; }
+.search-empty { padding: 12px; font-size: 13px; color: var(--text-2); }
+
 /* layout */
 .shell { max-width: 1200px; margin: 0 auto; display: grid; grid-template-columns: 280px 1fr; gap: 48px; padding: 48px 24px 96px; }
 .sidebar { border-right: 2px solid var(--border-subtle); padding-right: 24px; position: sticky; top: 80px; align-self: start; max-height: calc(100vh - 100px); overflow-y: auto; }
@@ -126,6 +140,8 @@ footer .built { font-family: var(--body); font-weight: 700; letter-spacing: 0.06
 
 /* responsive */
 @media (max-width: 880px) {
+  .masthead-inner { flex-wrap: wrap; }
+  .search { order: 3; flex-basis: 100%; max-width: none; }
   .shell { grid-template-columns: 1fr; gap: 24px; padding: 24px; }
   .sidebar { position: static; max-height: none; border-right: none; border-top: 2px solid var(--border-strong); padding: 24px 0 0; display: none; }
   .sidebar.open { display: block; }
@@ -152,6 +168,110 @@ function ensureDir(p) { mkdirSync(p, { recursive: true }); }
 function esc(s) {
   return s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
 }
+
+// -------------------------------------------------------------- search indexing
+// Strip markdown down to searchable plain text (lowercased later by caller).
+function stripMarkdown(md) {
+  let s = md;
+  s = s.replace(/```[\s\S]*?```/g, " ");          // fenced code blocks
+  s = s.replace(/`[^`]*`/g, " ");                  // inline code
+  s = s.replace(/!\[[^\]]*\]\([^)]*\)/g, " ");      // images
+  s = s.replace(/\[([^\]]+)\]\([^)]*\)/g, "$1");    // links -> link text
+  s = s.replace(/^\s{0,3}#{1,6}\s+/gm, " ");        // heading markers
+  s = s.replace(/[*_>~|#`]+/g, " ");                // stray md punctuation
+  s = s.replace(/\s+/g, " ").trim();
+  return s.slice(0, 20000);                          // defensive cap per page
+}
+
+// Collect heading text (used to boost/rank matches).
+function extractHeadings(md) {
+  const hs = [];
+  for (const line of md.split(/\r?\n/)) {
+    const m = line.match(/^\s{0,3}#{1,6}\s+(.+?)\s*$/);
+    if (m) hs.push(m[1].replace(/[*_`]/g, "").trim());
+  }
+  return hs;
+}
+
+// Client-side search script (vanilla JS, no dependencies). Reads the index that
+// search-index.js assigns to window.__SEARCH_INDEX__ and drives the masthead
+// search box + dropdown. Loaded via <script src> so it works on GitHub Pages and
+// from a local file:// preview alike (no fetch/CORS needed).
+const SEARCH_JS = `(function(){
+  var PREFIX = window.__ASSET_PREFIX__ || "";
+  var index = window.__SEARCH_INDEX__ || [];
+  var input = document.getElementById("site-search");
+  var box = document.getElementById("search-results");
+  if (!input || !box) return;
+  var active = -1;
+
+  function esc(s){return String(s).replace(/[&<>"]/g,function(c){return c==="&"?"&amp;":c==="<"?"&lt;":c===">"?"&gt;":"&quot;";});}
+
+  function search(q){
+    var terms = q.toLowerCase().split(/\\s+/).filter(Boolean);
+    if(!terms.length) return [];
+    var out = [];
+    for(var i=0;i<index.length;i++){
+      var e = index[i];
+      var titleLc = e.title.toLowerCase();
+      var headLc = (e.headings||[]).join(" ").toLowerCase();
+      var hay = titleLc + " " + headLc + " " + (e.text||"");
+      var ok = true, s = 0;
+      for(var j=0;j<terms.length;j++){
+        var t = terms[j];
+        if(hay.indexOf(t)===-1){ok=false;break;}
+        if(titleLc.indexOf(t)!==-1) s+=100;
+        if(headLc.indexOf(t)!==-1) s+=20;
+        var c=0, from=0;
+        while((from=hay.indexOf(t,from))!==-1 && c<5){c++;from+=t.length;}
+        s+=c;
+      }
+      if(ok) out.push({e:e,s:s});
+    }
+    out.sort(function(a,b){return b.s-a.s;});
+    return out.slice(0,8).map(function(x){return x.e;});
+  }
+
+  function render(items){
+    active = -1;
+    if(!items.length){
+      if(input.value.trim()){ box.innerHTML='<div class="search-empty">No matching pages</div>'; box.classList.add("open"); }
+      else { box.innerHTML=""; box.classList.remove("open"); }
+      return;
+    }
+    box.innerHTML = items.map(function(e){
+      var cat = e.category ? '<span class="sr-cat">'+esc(e.category)+'</span>' : "";
+      return '<a class="sr-item" role="option" href="'+esc(PREFIX+e.href)+'"><span class="sr-title">'+esc(e.title)+'</span>'+cat+'</a>';
+    }).join("");
+    box.classList.add("open");
+  }
+
+  function setActive(n){
+    var items = box.querySelectorAll(".sr-item");
+    if(!items.length) return;
+    if(n<0) n = items.length-1;
+    if(n>=items.length) n = 0;
+    active = n;
+    for(var i=0;i<items.length;i++){ items[i].classList.toggle("active", i===active); }
+    items[active].scrollIntoView({block:"nearest"});
+  }
+
+  input.addEventListener("input", function(){ render(search(input.value)); });
+  input.addEventListener("focus", function(){ if(input.value) render(search(input.value)); });
+  input.addEventListener("keydown", function(ev){
+    if(ev.key==="ArrowDown"){ ev.preventDefault(); setActive(active+1); }
+    else if(ev.key==="ArrowUp"){ ev.preventDefault(); setActive(active-1); }
+    else if(ev.key==="Enter"){
+      var items = box.querySelectorAll(".sr-item");
+      var pick = (active>=0 && items[active]) ? items[active] : items[0];
+      if(pick) window.location.href = pick.getAttribute("href");
+    } else if(ev.key==="Escape"){ box.classList.remove("open"); input.blur(); }
+  });
+  document.addEventListener("click", function(ev){
+    if(!box.contains(ev.target) && ev.target!==input){ box.classList.remove("open"); }
+  });
+})();
+`;
 
 // ----------------------------------------------------------------- sidebar nav
 // Parse wiki/index.md into { category: [{title, href}] } so every page shares nav.
@@ -218,6 +338,10 @@ function pageLayout({ title, overline, bodyHtml, navMarkup, assetPrefix }) {
 <header class="masthead">
   <div class="masthead-inner">
     <a class="brand" href="${assetPrefix}index.html">SUMMIT<span class="accent">·</span>RIDGE</a>
+    <div class="search">
+      <input id="site-search" type="search" autocomplete="off" spellcheck="false" placeholder="Search the wiki…" aria-label="Search the wiki" aria-controls="search-results" />
+      <div class="search-results" id="search-results" role="listbox"></div>
+    </div>
     <nav>
       <a href="${assetPrefix}index.html">Index</a>
       <button class="menu-toggle" type="button" aria-controls="sidebar" aria-expanded="false">Menu</button>
@@ -248,6 +372,9 @@ function pageLayout({ title, overline, bodyHtml, navMarkup, assetPrefix }) {
     });
   })();
 </script>
+<script>window.__ASSET_PREFIX__ = "${assetPrefix}";</script>
+<script src="${assetPrefix}assets/search-index.js"></script>
+<script src="${assetPrefix}assets/search.js"></script>
 </body>
 </html>
 `;
@@ -318,6 +445,7 @@ function main() {
     return true;
   });
   let count = 0;
+  const searchEntries = [];
   for (const srcPath of allMd) {
     const rel = relative(WIKI, srcPath).split(/[\\/]/).join("/"); // posix-style
     const outRel = rel.replace(/\.md$/, ".html");
@@ -351,9 +479,28 @@ function main() {
     const html = pageLayout({ title, overline, bodyHtml, navMarkup, assetPrefix });
     writeFileSync(outPath, html);
     count++;
+
+    // Add to the client search index (skip the index/home page itself).
+    if (!isIndex) {
+      searchEntries.push({
+        title,
+        href: outRel, // posix path relative to docs/ root
+        category: overline || "",
+        headings: extractHeadings(md),
+        text: stripMarkdown(md).toLowerCase(),
+      });
+    }
   }
 
-  console.log(`docs/ rebuilt: ${count} page(s).`);
+  // 5. Emit the search index + search script.
+  searchEntries.sort((a, b) => a.title.localeCompare(b.title));
+  writeFileSync(
+    join(ASSETS, "search-index.js"),
+    "window.__SEARCH_INDEX__ = " + JSON.stringify(searchEntries) + ";\n"
+  );
+  writeFileSync(join(ASSETS, "search.js"), SEARCH_JS);
+
+  console.log(`docs/ rebuilt: ${count} page(s); search index: ${searchEntries.length} page(s).`);
 }
 
 main();

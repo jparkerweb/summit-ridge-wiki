@@ -13,6 +13,10 @@
 <header class="masthead">
   <div class="masthead-inner">
     <a class="brand" href="../index.html">SUMMIT<span class="accent">·</span>RIDGE</a>
+    <div class="search">
+      <input id="site-search" type="search" autocomplete="off" spellcheck="false" placeholder="Search the wiki…" aria-label="Search the wiki" aria-controls="search-results" />
+      <div class="search-results" id="search-results" role="listbox"></div>
+    </div>
     <nav>
       <a href="../index.html">Index</a>
       <button class="menu-toggle" type="button" aria-controls="sidebar" aria-expanded="false">Menu</button>
@@ -110,5 +114,8 @@
     });
   })();
 </script>
+<script>window.__ASSET_PREFIX__ = "../";</script>
+<script src="../assets/search-index.js"></script>
+<script src="../assets/search.js"></script>
 </body>
 </html>

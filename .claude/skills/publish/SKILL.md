@@ -15,6 +15,8 @@ wiki/                    # markdown source (read)
 docs/                    # generated output (wiped and recreated each run)
   index.html
   assets/site.css        # generated from DESIGN.md tokens
+  assets/search-index.js # generated keyword index (window.__SEARCH_INDEX__)
+  assets/search.js       # client-side search bar behavior (no dependencies)
   pages/<slug>.html
 scripts/publish.mjs      # the generator
 package.json             # marked dependency
@@ -33,6 +35,7 @@ package.json             # marked dependency
    - Walk every `*.md` under `wiki/` (excluding `wiki/log.md`, which is an internal change log and is not published), render it through `marked`, rewrite `.md` links to `.html`, decorate `(Source: …)` citations, and wrap in the VoiceBox header + sidebar + article layout.
    - Generate `docs/index.html` from `wiki/index.md` with category cards. The boilerplate intro paragraph ("This wiki is derived from the authoritative source documents in `source/`…") is stripped from the published index — it's a wiki-internal note, not site copy.
    - The masthead nav does not link to the log — only to the index.
+   - Build a keyword search index over every published page (title, category, headings, and stripped body text) and emit it as `docs/assets/search-index.js`, plus a dependency-free `docs/assets/search.js`. Every page's masthead carries a search box: as the user types, a dropdown lists matching pages (multi-word queries AND-match; title/heading hits rank highest) that can be clicked or keyboard-navigated (arrow keys + Enter) to jump straight to the page. The index is emitted as a JS file (not fetched JSON) so it works on GitHub Pages and from a local `file://` preview without CORS issues.
 
 4. **Report results.** Report the file count printed by the script plus the path to `docs/index.html`. If the user wants to preview locally, suggest opening `docs/index.html` directly in a browser, or running a one-liner static server (e.g. `npx --yes serve docs`) — do not start a server unless asked.
 
