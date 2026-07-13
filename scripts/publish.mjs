@@ -321,7 +321,7 @@ function decorateCitations(html) {
   return html.replace(/\(Source:\s*([^)]+)\)/g, '<span class="cite">(Source: $1)</span>');
 }
 
-function pageLayout({ title, overline, bodyHtml, navMarkup, assetPrefix }) {
+function pageLayout({ title, overline, bodyHtml, navMarkup, assetPrefix, publishedAt }) {
   const cssHref = `${assetPrefix}assets/site.css`;
   return `<!doctype html>
 <html lang="en">
@@ -359,7 +359,7 @@ function pageLayout({ title, overline, bodyHtml, navMarkup, assetPrefix }) {
 </div>
 <footer>
   <span>Summit Ridge Townhomes HOA — Lake Oswego, OR</span>
-  <span class="built">Generated from wiki/ via /publish</span>
+  <span class="built">Last Published: ${esc(publishedAt)}</span>
 </footer>
 <script>
   (function(){
@@ -421,6 +421,12 @@ function main() {
     process.exit(1);
   }
 
+  // Timestamp for this publish run, shown in every page footer.
+  const publishedAt = new Date().toLocaleString("en-US", {
+    year: "numeric", month: "long", day: "numeric",
+    hour: "numeric", minute: "2-digit", timeZoneName: "short",
+  });
+
   // 1. Wipe docs/ completely.
   if (existsSync(DOCS)) rmSync(DOCS, { recursive: true, force: true });
   ensureDir(DOCS);
@@ -476,7 +482,7 @@ function main() {
     const h1 = md.match(/^#\s+(.+?)\s*$/m);
     const title = h1 ? h1[1].trim() : slug;
 
-    const html = pageLayout({ title, overline, bodyHtml, navMarkup, assetPrefix });
+    const html = pageLayout({ title, overline, bodyHtml, navMarkup, assetPrefix, publishedAt });
     writeFileSync(outPath, html);
     count++;
 
