@@ -90,3 +90,13 @@
 ### Notes
 
 - Wiki rebuilt from scratch because the prior `wiki/` directory had been deleted at HEAD. If the user reintroduces Obsidian (`.obsidian/`) or `.manifest.json` from another working tree, this run will not collide with that — only `wiki/` files created in this run are written.
+
+## 2026-10-19T22:50:00Z — sync
+- Ingested: 8-1-2026-Insurance-Deductible-Change.md (new; converted from PDF by prepare-docs)
+- Ingested: 2026-0304-SRTHHOA-Rules and Regulations.md (changed hash; diff vs prior commit is only removal of the HomeWiseDocs order/watermark note from the header, no substantive content change, so no pages needed edits)
+- Skipped (unchanged): 18 other source files
+- Pages created: none
+- Pages updated: insurance.md (new 2026 section, Conflicts section, Sources); index.md (insurance description)
+- Conflicts surfaced: insurance.md: Declaration Article II § 3.F(1) requires the Association to insure each Building Structure at 100% replacement cost, but the ABI letter says unit coverage is not included (Barewalls, common areas only). Also noted: D&O "shall" (Rules) vs Board discretion (Bylaws Art. XII § 2); letter's ,776,400 property limit vs ,890,643 earthquake limit unexplained.
+- Observation: the $10,000 deductible equals the Bylaws Art. XII § 1 cap (lesser of $10,000 or 1% of face value), so no conflict there.
+- Lint: all pages still referenced from index.md; new link insurance.md -> maintenance-responsibility.md resolves; no orphans.
