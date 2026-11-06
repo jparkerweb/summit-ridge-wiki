@@ -20,6 +20,7 @@ This page consolidates the property's exterior/envelope history (siding, paintin
 - **2024** — Per Board notes on gutters: **downspouts 3x4 color ivory, clean out 3x4 color ivory, 2x6 outlets, 2x3 cleanouts, downspouts 3x4 color black, 15 ft flashing, resloped gutter for $14,200; gutter materials warranted for 15 years** (Source: PONO Component notes — Gutters).
 - **2025** — Funding Model in 2025 budget targets **$35,000** annual reserve contribution (recommended plan) (Source: 2025 Budget acct 6810).
 - **2026** — Reserve contribution rises to **$39,550** (Source: 2026 Budget acct 6810), consistent with the 13% annual increase prescribed by the recommended plan.
+- **2027** - Reserve contribution rises to **$44,691** (Source: 2027 Budget mailing, acct 6810), again a 13% increase over the prior year's $39,550.
 
 ## Reserve study — financial summary
 

@@ -18,7 +18,7 @@ This wiki is derived from the authoritative source documents in `source/`. Every
 
 - [Assessments and Fees](pages/assessments-and-fees.md) — annual, special, capitalization contribution, late fees.
 - [Collections and Delinquency](pages/collections-and-delinquency.md) — collection procedure, lien, attorney involvement.
-- [Financial Records and Budgets](pages/financial-records.md) — annual budgets 2022–2026 and reserve study summary.
+- [Financial Records and Budgets](pages/financial-records.md) — annual budgets 2022–2027, 2027 payment methods, and reserve study summary.
 - [Insurance](pages/insurance.md) — Association policies, Owner policies, history, 2026 $10,000 deductible change.
 - [Building Envelope History and Reserves](pages/building-envelope-history.md) — siding/roof history and 30-year reserve plan.
 

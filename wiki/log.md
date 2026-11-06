@@ -100,3 +100,21 @@
 - Conflicts surfaced: insurance.md: Declaration Article II § 3.F(1) requires the Association to insure each Building Structure at 100% replacement cost, but the ABI letter says unit coverage is not included (Barewalls, common areas only). Also noted: D&O "shall" (Rules) vs Board discretion (Bylaws Art. XII § 2); letter's ,776,400 property limit vs ,890,643 earthquake limit unexplained.
 - Observation: the $10,000 deductible equals the Bylaws Art. XII § 1 cap (lesser of $10,000 or 1% of face value), so no conflict there.
 - Lint: all pages still referenced from index.md; new link insurance.md -> maintenance-responsibility.md resolves; no orphans.
+
+## 2026-11-06T00:00:00Z — sync
+- Ingested: none
+- Skipped (unchanged): 21 source files
+- Not ingested: 590 - Summitridge 2027 Budget mailing 10.19.26.pdf (new, but still a PDF; wiki-sync reads markdown only, so it needs /prepare-docs conversion first)
+- Pages created: none
+- Pages updated: none
+- Conflicts surfaced: none
+- Removed sources: none
+
+## 2026-11-06T15:08:00Z — sync
+- Ingested: 590 - Summitridge 2027 Budget mailing 10.19.26.md (new; converted from PDF by prepare-docs, original PDF deleted after verification)
+- Skipped (unchanged): 21 other source files
+- Pages created: none
+- Pages updated: financial-records.md (2027 column in budget table, new 2027 Budget and payment methods sections, sources); assessments-and-fees.md (2027 assessment row, special assessment note, notice timing, sources); building-envelope-history.md (2027 reserve contribution); index.md (financial-records description)
+- Conflicts surfaced: none
+- Observations: 2027 assessment is $419.00 per home per month vs $390.41 in 2026. Reserve allocation $44,691 is exactly 13% over $39,550, matching the reserve study funding model. The budget's own 2026 column ($103,857 total, $98,384 assessment income) matches the 2026 Budget source. The letter says the budget was "approved" but the source does not give the approval date or mechanism, so the wiki does not state one.
+- Lint: no broken cross-links; all pages referenced from index.md; no orphans.

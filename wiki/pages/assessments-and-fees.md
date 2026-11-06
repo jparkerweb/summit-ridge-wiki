@@ -18,8 +18,11 @@ Every Owner is, by acceptance of deed or contract, deemed to covenant to pay (i)
 | 2024 | $364.00 | 2024 Budget |
 | 2025 | $368.00 | 2025 Budget |
 | 2026 | $390.41 | 2026 Budget |
+| 2027 | $419.00 | 2027 Budget mailing (effective January 1, 2027) |
 
-Plus an ongoing **Special Repair Assessment** monthly component (see below) — `$5,473`/year total association-wide (≈ `$21.72`/unit/month) in 2025 and 2026 budgets (Source: 2025 Budget acct 6930; 2026 Budget acct 6930).
+Plus an ongoing **Special Repair Assessment** monthly component (see below) — `$5,473`/year total association-wide (≈ `$21.72`/unit/month) in 2025, 2026 and 2027 budgets (Source: 2025 Budget acct 6930; 2026 Budget acct 6930; 2027 Budget mailing, Sp Assessment Income acct 4003).
+
+The 2027 budget was transmitted to owners by the management company on **October 19, 2026**, which is more than 30 days before the end of the 2026 calendar year (Source: 2027 Budget mailing, cover letter; timing rule in Declaration Article IV § 3 above). Payment methods and fees for the 2027 assessment are summarized in [Financial Records and Budgets](financial-records.md).
 
 See [Financial Records and Budgets](financial-records.md) for full budget tables.
 
@@ -76,4 +79,4 @@ No Owner may waive or otherwise escape liability for assessments by non-use of t
 - `source/590 Collection Resolution 10.20.2017.md`
 - `source/590 Special Repair Assessment Resolution 05.24.18.md`
 - `source/590 Summitridge CCR's.md` (superseded 1999 original)
-- Budget documents (`source/590 Summitridge 2022.md`, `source/590 Summitridge #2.md`, `source/590 Summitridge- Budget.md`, `source/Summitridge 2025 Budget.md`, `source/Summitridge 2026 Budget.md`)
+- Budget documents (`source/590 Summitridge 2022.md`, `source/590 Summitridge #2.md`, `source/590 Summitridge- Budget.md`, `source/Summitridge 2025 Budget.md`, `source/Summitridge 2026 Budget.md`, `source/590 - Summitridge 2027 Budget mailing 10.19.26.md`)

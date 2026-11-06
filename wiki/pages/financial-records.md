@@ -24,26 +24,53 @@ Any Director (or agent/attorney) may inspect all books and records for any prope
 
 Per-unit-per-month figures unless noted. All from Association budget documents (Account 6810 = Reserves; 6930 = Reserve Payback / Loan Due Reserves; 6661 = Bldg & Property Maintenance).
 
-| Line | 2022 | 2023 | 2024 | 2025 | 2026 |
-|---|---|---|---|---|---|
-| **Assessment income (annual, total)** | $74,013 | $83,845 | $91,699 | $92,699 | $98,384 |
-| Assessment, per unit/month | $293.70 | $332.72 | $363.88 | $367.85 | $390.41 |
-| Sp. Assessment income (total) | $26,115 | — | $10,946 | $5,473 | $5,473 |
-| Reserve allocation (acct 6810) | $20,707 | $21,504 | $33,291 | $35,000 | $39,550 |
-| Reserve payback/loan (acct 6930) | — | — | — | $5,472 | $5,473 |
-| Insurance (acct 6061) | $15,000 | $16,000 | $16,000 | $22,069 | $20,300 |
-| Professional management (acct 6861) | $8,311 | $8,311 | $8,810 | $9,075 | $9,347 |
-| Landscape contract (acct 6341) | $9,504 | $10,080 | $10,428 | $9,000 | $9,720 |
-| Gutter repair/cleaning (acct 6213) | $4,300 | $5,020 | $5,020 | — | $5,020 |
-| Bldg & Property Maintenance (6661) | $2,500 | $10,200 | $2,000 | $2,000 | $2,000 |
-| Legal (6901) | $1,100 | $800 | $1,000 | $800 | $800 |
-| Reserve Study Update (6932) | — | — | $2,750 | — | $1,650 |
-| Tax expense (6051) | — | — | — | $715 | $1,300 |
-| **Total expenses** | $74,013 | $83,845 | $91,699 | $92,699 | $103,857 |
+| Line | 2022 | 2023 | 2024 | 2025 | 2026 | 2027 |
+|---|---|---|---|---|---|---|
+| **Assessment income (annual, total)** | $74,013 | $83,845 | $91,699 | $92,699 | $98,384 | $105,589 |
+| Assessment, per unit/month | $293.70 | $332.72 | $363.88 | $367.85 | $390.41 | $419.00 |
+| Sp. Assessment income (total) | $26,115 | — | $10,946 | $5,473 | $5,473 | $5,473 |
+| Reserve allocation (acct 6810) | $20,707 | $21,504 | $33,291 | $35,000 | $39,550 | $44,691 |
+| Reserve payback/loan (acct 6930) | — | — | — | $5,472 | $5,473 | $5,473 |
+| Insurance (acct 6061) | $15,000 | $16,000 | $16,000 | $22,069 | $20,300 | $23,000 |
+| Professional management (acct 6861) | $8,311 | $8,311 | $8,810 | $9,075 | $9,347 | $9,628 |
+| Landscape contract (acct 6341) | $9,504 | $10,080 | $10,428 | $9,000 | $9,720 | $10,080 |
+| Gutter repair/cleaning (acct 6213) | $4,300 | $5,020 | $5,020 | — | $5,020 | $3,500 |
+| Bldg & Property Maintenance (6661) | $2,500 | $10,200 | $2,000 | $2,000 | $2,000 | $2,000 |
+| Legal (6901) | $1,100 | $800 | $1,000 | $800 | $800 | $800 |
+| Reserve Study Update (6932) | — | — | $2,750 | — | $1,650 | - |
+| Tax expense (6051) | — | — | — | $715 | $1,300 | $2,600 |
+| **Total expenses** | $74,013 | $83,845 | $91,699 | $92,699 | $103,857 | $111,062 |
 
-(Sources: `590 Summitridge 2022.md`, `590 Summitridge #2.md` [2023], `590 Summitridge- Budget.md` [2024], `Summitridge 2025 Budget.md`, `Summitridge 2026 Budget.md`.)
+(Sources: `590 Summitridge 2022.md`, `590 Summitridge #2.md` [2023], `590 Summitridge- Budget.md` [2024], `Summitridge 2025 Budget.md`, `Summitridge 2026 Budget.md`, `590 - Summitridge 2027 Budget mailing 10.19.26.md`.)
 
 > The **2026 Budget** shows total expenses of $103,857 vs. assessment income of $98,384 (a $5,473 gap matched dollar-for-dollar by Sp. Assessment income of $5,473) — i.e., the Special Repair Assessment continues to fund the loan payback line.
+
+### 2027 Budget (effective January 1, 2027)
+
+The management company's cover letter dated October 19, 2026 transmits the approved budget for **January 1, 2027 – December 31, 2027**, which "takes effect **January 1, 2027**" (Source: 2027 Budget mailing, cover letter). Highlights from the budget table (Source: 2027 Budget mailing, budget table):
+
+- **Assessment:** **$419.00** per home per month for 2027, up from **$390.41** for 2026. Annual Assessment Income is **$105,589** (2026: $98,384).
+- **Special assessment:** Sp Assessment Income stays at **$5,473** per year (**$21.72** per home per month), matching the **Reserve Payback** line (acct 6930) of **$5,473**. Total revenue per home per month is **$440.72** (the $419.00 assessment plus the $21.72 special assessment component).
+- **Totals:** Total Revenue and Total Expenses are both **$111,062** for the year (**$9,255.17** per month), up from **$103,857** in the 2026 budget column.
+- **Reserves:** Allocation to Reserves (acct 6810) rises from **$39,550** to **$44,691** (**$3,724.25** per month; **$177.35** per home per month). That is a 13% increase, consistent with the 13% annual increases in the reserve study's recommended funding model described below.
+- **Insurance:** acct 6061 rises from **$20,300** to **$23,000**. See [Insurance](insurance.md).
+- **Tax Expense:** acct 6051 rises from **$1,300** to **$2,600**.
+- **Landscaping:** Landscape Contract (6341) **$10,080**; Irrigation Repair/Backflow Device (6132) **$1,050**; Landscape Supplies/Extras (6361) **$1,400**. See [Landscaping](landscaping.md).
+- **Gutter Repair/Cleaning:** acct 6213 falls from **$5,020** to **$3,500**.
+- **Reserve Study Update:** acct 6932 was **$1,650** in the 2026 budget and is shown as "-" for 2027.
+- **New line:** Contingency (acct 6090) of **$65** appears for 2027; the 2026 column shows "-".
+- **Other lines:** Professional Management **$9,628**; Bldg & Property Maintenance **$2,000**; Legal Fees **$800**; Tax Preparation **$300**; Financial Review **$1,700**; Printing, Pstg, Mgmt Extras **$1,850**; Licenses & Fees **$50**; Electric **$375**; Water/Sewer **$2,500**.
+
+### Payment methods and fees (2027 mailing)
+
+The cover letter lists these ways to pay the assessment (Source: 2027 Budget mailing, cover letter, Payment Methods):
+
+- **SCM ACH (Direct Withdrawal), recommended:** enrolled owners are withdrawn automatically at the new approved amount.
+- **Online Payments** at propertypay.firstcitizens.com: **$2.25** fee for one-time ACH and **2.95%** for card payments; scheduled recurring ACH is free, but recurring schedules set up there **must** be updated manually by the owner when the assessment changes.
+- **Client Portal** at summitridgeth.frontsteps.com: **$2.95** fee for all ACH and **3.95%** for card payments.
+- **Bill Pay or personal checks:** payable to the Association (not Superior), mailed to **P.O. Box 63785, Phoenix AZ 85082-3785**, with the account number. Personal checks require a coupon. Payments sent to the Tualatin office incur a **$10.00** fee.
+
+Contacts named in the letter: community manager **Troy Rudd** for the budget and property matters; billing specialist **Reynauld Tage** for account and contact-information questions. Contact information changes go to **contactinfo@superiorcommunity.com** (Source: 2027 Budget mailing, cover letter, Communication).
 
 ## Reserve study (PONO, April 2024 — for 2025)
 
@@ -94,4 +121,5 @@ See [Building Envelope History and Reserves](building-envelope-history.md) for t
 - `source/590 Summitridge- Budget.md` (2024 Budget)
 - `source/Summitridge 2025 Budget.md`
 - `source/Summitridge 2026 Budget.md`
+- `source/590 - Summitridge 2027 Budget mailing 10.19.26.md`
 - `source/PONO-RS1-SummitRidgeTH-240419-v2 Final.md`
