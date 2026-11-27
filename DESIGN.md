@@ -49,6 +49,24 @@ VoiceBox is a high-contrast editorial design system for opinion blogs and cultur
 | Error   | `#EF4444` |
 | Info    | `#0A0A0A` |
 
+### Dark Mode Palette
+
+Used when the reader switches to dark mode (or their OS prefers it). The red accent is unchanged; black and white swap roles, and the Primary/Tertiary pair inverts so table headers and buttons stay high-contrast.
+
+| Token                | Hex       | Role                                    |
+|----------------------|-----------|-----------------------------------------|
+| Dark Primary         | `#FAFAFA` | Inverted primary (buttons, table heads) |
+| Dark Tertiary        | `#0A0A0A` | Inverted text on primary                |
+| Dark Background      | `#0A0A0A` | Page background                         |
+| Dark Surface         | `#171717` | Card backgrounds, code, aside blocks    |
+| Dark Surface Raised  | `#262626` | Hover backgrounds                       |
+| Dark Text Primary    | `#FAFAFA` | Headlines, body copy                    |
+| Dark Text Secondary  | `#A3A3A3` | Bylines, datelines, secondary prose     |
+| Dark Text Tertiary   | `#737373` | Placeholders                            |
+| Dark Border Subtle   | `#262626` | Hairlines                               |
+| Dark Border Medium   | `#404040` | Table and code borders                  |
+| Dark Border Strong   | `#FAFAFA` | Masthead, footer and rule borders       |
+
 ## Typography
 
 ### Font Stack

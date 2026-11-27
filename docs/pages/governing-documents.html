@@ -7,6 +7,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Work+Sans:wght@400;500;700&family=Space+Mono&display=swap">
+<script>try{var t=localStorage.getItem("theme");if(t==="dark"||t==="light")document.documentElement.setAttribute("data-theme",t);}catch(e){}</script>
 <link rel="stylesheet" href="../assets/site.css" />
 </head>
 <body>
@@ -19,6 +20,7 @@
     </div>
     <nav>
       <a href="../index.html">Index</a>
+      <button class="theme-toggle" id="theme-toggle" type="button" aria-label="Switch color theme" aria-pressed="false">Dark</button>
       <button class="menu-toggle" type="button" aria-controls="sidebar" aria-expanded="false">Menu</button>
     </nav>
   </div>
@@ -144,9 +146,32 @@
 </div>
 <footer>
   <span>Summit Ridge Townhomes HOA — Lake Oswego, OR</span>
-  <span class="built">Last Published: November 6, 2026 at 7:13 AM PST</span>
+  <span class="built">Last Published: November 26, 2026 at 10:55 PM PST</span>
 </footer>
 <script>
+  (function(){
+    var root = document.documentElement;
+    var tb = document.getElementById("theme-toggle");
+    if (!tb) return;
+    var mq = window.matchMedia ? window.matchMedia("(prefers-color-scheme: dark)") : null;
+    function isDark(){
+      var t = root.getAttribute("data-theme");
+      return t ? t === "dark" : !!(mq && mq.matches);
+    }
+    function sync(){
+      var d = isDark();
+      tb.textContent = d ? "Light" : "Dark";
+      tb.setAttribute("aria-pressed", String(d));
+    }
+    tb.addEventListener("click", function(){
+      var next = isDark() ? "light" : "dark";
+      root.setAttribute("data-theme", next);
+      try { localStorage.setItem("theme", next); } catch(e) {}
+      sync();
+    });
+    if (mq && mq.addEventListener) mq.addEventListener("change", sync);
+    sync();
+  })();
   (function(){
     var btn = document.querySelector(".menu-toggle");
     var side = document.getElementById("sidebar");

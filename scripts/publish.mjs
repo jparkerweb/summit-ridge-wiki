@@ -34,12 +34,44 @@ function parseDesignTokens(md) {
   t.borderSubtle = grab("Border Subtle") || "#E5E5E5";
   t.borderMedium = grab("Border Medium") || "#D4D4D4";
   t.borderStrong = grab("Border Strong") || "#0A0A0A";
+  // Dark mode palette ("Dark <Label>" rows in DESIGN.md).
+  t.dark = {
+    primary: grab("Dark Primary") || "#FAFAFA",
+    tertiary: grab("Dark Tertiary") || "#0A0A0A",
+    background: grab("Dark Background") || "#0A0A0A",
+    surface: grab("Dark Surface") || "#171717",
+    surfaceRaised: grab("Dark Surface Raised") || "#262626",
+    textPrimary: grab("Dark Text Primary") || "#FAFAFA",
+    textSecondary: grab("Dark Text Secondary") || "#A3A3A3",
+    textTertiary: grab("Dark Text Tertiary") || "#737373",
+    borderSubtle: grab("Dark Border Subtle") || "#262626",
+    borderMedium: grab("Dark Border Medium") || "#404040",
+    borderStrong: grab("Dark Border Strong") || "#FAFAFA",
+  };
   return t;
+}
+
+function darkVars(d, indent) {
+  return [
+    `--primary: ${d.primary};`,
+    `--tertiary: ${d.tertiary};`,
+    `--bg: ${d.background};`,
+    `--surface: ${d.surface};`,
+    `--surface-raised: ${d.surfaceRaised};`,
+    `--text: ${d.textPrimary};`,
+    `--text-2: ${d.textSecondary};`,
+    `--text-3: ${d.textTertiary};`,
+    `--border-subtle: ${d.borderSubtle};`,
+    `--border-medium: ${d.borderMedium};`,
+    `--border-strong: ${d.borderStrong};`,
+    `color-scheme: dark;`,
+  ].map(l => indent + l).join("\n");
 }
 
 function buildCss(t) {
   return `/* Generated from DESIGN.md — VoiceBox. Do not edit by hand; rerun /publish. */
 :root {
+  color-scheme: light;
   --primary: ${t.primary};
   --secondary: ${t.secondary};
   --tertiary: ${t.tertiary};
@@ -56,6 +88,15 @@ function buildCss(t) {
   --body: "Work Sans", -apple-system, "Segoe UI", Helvetica, sans-serif;
   --mono: "Space Mono", "Courier New", Consolas, monospace;
 }
+/* dark mode: follows the OS unless the reader has chosen a theme with the switch */
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+${darkVars(t.dark, "    ")}
+  }
+}
+:root[data-theme="dark"] {
+${darkVars(t.dark, "  ")}
+}
 * { box-sizing: border-box; }
 html, body { margin: 0; padding: 0; background: var(--bg); color: var(--text); font-family: var(--body); font-size: 16px; line-height: 1.7; }
 a { color: var(--text); text-decoration: underline; text-decoration-thickness: 2px; text-underline-offset: 3px; }
@@ -70,6 +111,10 @@ a:hover { color: var(--secondary); }
 .masthead nav a:hover { color: var(--secondary); }
 .menu-toggle { display: none; background: var(--primary); color: var(--tertiary); border: 2px solid var(--primary); padding: 8px 14px; font-family: var(--body); font-weight: 700; font-size: 12px; letter-spacing: 0.06em; text-transform: uppercase; cursor: pointer; border-radius: 0; }
 .menu-toggle:hover { background: var(--secondary); border-color: var(--secondary); }
+.theme-toggle { background: transparent; color: var(--text); border: 2px solid var(--border-strong); padding: 6px 12px; margin-left: 24px; font-family: var(--body); font-weight: 700; font-size: 11px; letter-spacing: 0.12em; text-transform: uppercase; cursor: pointer; border-radius: 0; }
+.theme-toggle:hover { background: var(--primary); color: var(--tertiary); }
+.theme-toggle:focus-visible { outline: 2px solid var(--secondary); outline-offset: 2px; }
+.masthead nav { display: flex; align-items: center; }
 
 /* search */
 .search { position: relative; flex: 1 1 auto; max-width: 420px; }
@@ -332,6 +377,7 @@ function pageLayout({ title, overline, bodyHtml, navMarkup, assetPrefix, publish
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Work+Sans:wght@400;500;700&family=Space+Mono&display=swap">
+<script>try{var t=localStorage.getItem("theme");if(t==="dark"||t==="light")document.documentElement.setAttribute("data-theme",t);}catch(e){}</script>
 <link rel="stylesheet" href="${cssHref}" />
 </head>
 <body>
@@ -344,6 +390,7 @@ function pageLayout({ title, overline, bodyHtml, navMarkup, assetPrefix, publish
     </div>
     <nav>
       <a href="${assetPrefix}index.html">Index</a>
+      <button class="theme-toggle" id="theme-toggle" type="button" aria-label="Switch color theme" aria-pressed="false">Dark</button>
       <button class="menu-toggle" type="button" aria-controls="sidebar" aria-expanded="false">Menu</button>
     </nav>
   </div>
@@ -362,6 +409,29 @@ function pageLayout({ title, overline, bodyHtml, navMarkup, assetPrefix, publish
   <span class="built">Last Published: ${esc(publishedAt)}</span>
 </footer>
 <script>
+  (function(){
+    var root = document.documentElement;
+    var tb = document.getElementById("theme-toggle");
+    if (!tb) return;
+    var mq = window.matchMedia ? window.matchMedia("(prefers-color-scheme: dark)") : null;
+    function isDark(){
+      var t = root.getAttribute("data-theme");
+      return t ? t === "dark" : !!(mq && mq.matches);
+    }
+    function sync(){
+      var d = isDark();
+      tb.textContent = d ? "Light" : "Dark";
+      tb.setAttribute("aria-pressed", String(d));
+    }
+    tb.addEventListener("click", function(){
+      var next = isDark() ? "light" : "dark";
+      root.setAttribute("data-theme", next);
+      try { localStorage.setItem("theme", next); } catch(e) {}
+      sync();
+    });
+    if (mq && mq.addEventListener) mq.addEventListener("change", sync);
+    sync();
+  })();
   (function(){
     var btn = document.querySelector(".menu-toggle");
     var side = document.getElementById("sidebar");
