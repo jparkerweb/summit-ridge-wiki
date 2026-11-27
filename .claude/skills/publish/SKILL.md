@@ -29,7 +29,7 @@ package.json             # marked dependency
 2. **Install dependencies if needed.** If `node_modules/marked` is missing, run `npm install` from the repo root. On Windows use PowerShell; the working directory is already the project root.
 
 3. **Run the generator.** Execute `node scripts/publish.mjs` from the repo root. The script will:
-   - Delete `docs/` completely and recreate it.
+   - Delete `docs/` completely and recreate it, preserving `docs/CNAME` (the GitHub Pages custom domain) if present.
    - Parse color/typography tokens out of `DESIGN.md` and write `docs/assets/site.css`.
    - Parse `wiki/index.md` to build the shared sidebar navigation (categories + page links).
    - Walk every `*.md` under `wiki/` (excluding `wiki/log.md`, which is an internal change log and is not published), render it through `marked`, rewrite `.md` links to `.html`, decorate `(Source: …)` citations, and wrap in the VoiceBox header + sidebar + article layout.

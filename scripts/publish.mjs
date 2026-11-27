@@ -12,6 +12,8 @@ const WIKI = join(ROOT, "wiki");
 const DOCS = join(ROOT, "docs");
 const ASSETS = join(DOCS, "assets");
 const DESIGN_PATH = join(ROOT, "DESIGN.md");
+// Cache-busting token appended to asset URLs so a republish is never masked by a cached stylesheet or script.
+const BUILD_ID = Date.now().toString(36);
 
 // ---------------------------------------------------------------- design tokens
 // Parsed from DESIGN.md at build time so the stylesheet stays in sync.
@@ -367,7 +369,7 @@ function decorateCitations(html) {
 }
 
 function pageLayout({ title, overline, bodyHtml, navMarkup, assetPrefix, publishedAt }) {
-  const cssHref = `${assetPrefix}assets/site.css`;
+  const cssHref = `${assetPrefix}assets/site.css?v=${BUILD_ID}`;
   return `<!doctype html>
 <html lang="en">
 <head>
@@ -443,8 +445,8 @@ function pageLayout({ title, overline, bodyHtml, navMarkup, assetPrefix, publish
   })();
 </script>
 <script>window.__ASSET_PREFIX__ = "${assetPrefix}";</script>
-<script src="${assetPrefix}assets/search-index.js"></script>
-<script src="${assetPrefix}assets/search.js"></script>
+<script src="${assetPrefix}assets/search-index.js?v=${BUILD_ID}"></script>
+<script src="${assetPrefix}assets/search.js?v=${BUILD_ID}"></script>
 </body>
 </html>
 `;
@@ -497,10 +499,14 @@ function main() {
     hour: "numeric", minute: "2-digit", timeZoneName: "short",
   });
 
-  // 1. Wipe docs/ completely.
+  // 1. Wipe docs/ completely, but keep the GitHub Pages custom-domain file (docs/CNAME)
+  //    so a republish never drops the custom domain.
+  const cnamePath = join(DOCS, "CNAME");
+  const cname = existsSync(cnamePath) ? readFileSync(cnamePath, "utf8") : null;
   if (existsSync(DOCS)) rmSync(DOCS, { recursive: true, force: true });
   ensureDir(DOCS);
   ensureDir(ASSETS);
+  if (cname !== null) writeFileSync(cnamePath, cname);
 
   // 2. Write CSS from DESIGN.md tokens.
   const design = readFileSync(DESIGN_PATH, "utf8");
